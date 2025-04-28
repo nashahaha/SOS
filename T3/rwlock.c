@@ -28,6 +28,9 @@ RWLock *makeRWLock() {
 
 void destroyRWLock(RWLock *rwl) {
   pthread_mutex_destroy(&rwl->m);
+  destroyQueue(rwl->q_reader);
+  destroyQueue(rwl->q_writer);
+  free(rwl);
 }
 
 typedef enum {READER, WRITER} Kind;
@@ -67,6 +70,7 @@ void wakeup(RWLock *rwl, Kind kind){
 
     do { //entran lectores consecutivos
       r->ready = 1;
+      rwl->readers++;
       pthread_cond_signal(&r->w);
       r = get(rwl->q_reader); //obtengo el siguiente
     } while (r!=NULL);
@@ -78,8 +82,9 @@ void wakeup(RWLock *rwl, Kind kind){
 void enterRead(RWLock *rwl) {
   pthread_mutex_lock(&rwl->m);
   
-  if(!(rwl->writing) && emptyQueue(rwl->q_writer)) // Se suma un lector (puede entrar) si no hay escritores trabajando o en espera 
+  if(!(rwl->writing) && emptyQueue(rwl->q_writer)){ // Se suma un lector (puede entrar) si no hay escritores trabajando o en espera 
     rwl->readers++; //agregamos un reader
+  }
   else
     enqueue(rwl, READER);
   
@@ -99,11 +104,8 @@ void exitRead(RWLock *rwl) {
 void enterWrite(RWLock *rwl) {
   pthread_mutex_lock(&rwl->m);
 
-  //printf("Actualmente hay %d lectores activos\n", rwl->readers);
-  if(rwl->readers==0 && !rwl->writing) {// marca un escritor (puede entrar) solo si no hay lectores ni escritores usando el mutex
-    printf("Actualmente hay %d lectores activos\n", rwl->readers);
+  if(rwl->readers==0 && !rwl->writing) // marca un escritor (puede entrar) solo si no hay lectores ni escritores usando el mutex
     rwl->writing = 1; //marca un escritor
-  }
   else // si no queda en espera
     enqueue(rwl, WRITER);
   
