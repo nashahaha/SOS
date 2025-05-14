@@ -46,10 +46,18 @@ int nOfrecer(nSubasta s, double oferta) {
     // Si hay más ofertas que productos, rechazar la oferta más baja
     if (priLength(s->q) > s->n_items) {
         Oferta *peor_oferta = (Oferta *)priGet(s->q); // Remueve la peor oferta
-        peor_oferta->estado = RECHAZ;                 // Marca como rechazada
-        setReady(peor_oferta->th);                    // Reactiva el hilo rechazado
+        
+        // Si es el hilo actual, retorna inmediatamente
+        if (peor_oferta == nueva_oferta) {
+            peor_oferta->estado = RECHAZ; // Marca como rechazada
+            END_CRITICAL;
+            return FALSE;        // Retorna inmediatamente
+        }
 
-        return FALSE;                                  // Permite cambios de contexto
+        // Si es otro hilo, rechazarlo y reactivarlo
+        peor_oferta->estado = RECHAZ;
+        setReady(peor_oferta->th);  // Reactiva el hilo rechazado
+        schedule();                 // Libera el CPU para otros hilos
     }
 
     // Esperar a ser adjudicado o rechazado
@@ -59,10 +67,10 @@ int nOfrecer(nSubasta s, double oferta) {
     }
 
     int resultado = (nueva_oferta->estado == ADJUD);
-    free(nueva_oferta);  // Liberar memoria de la oferta
     END_CRITICAL
     return resultado;
 }
+
 
 
 
@@ -80,9 +88,9 @@ double nAdjudicar(nSubasta s, int *punid) {
         double oferta = priBest(s->q);
         Oferta *mejor_oferta = (Oferta *)priGet(s->q);
         mejor_oferta->estado = ADJUD;  // Adjudica el producto
-        setReady(mejor_oferta->th);    // Reactiva el hilo adjudicado
         monto += oferta;
         (*punid)++;
+        setReady(mejor_oferta->th);    // Reactiva el hilo adjudicado para que pueda retornar
     }
 
     END_CRITICAL
