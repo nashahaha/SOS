@@ -84,11 +84,18 @@ double nAdjudicar(nSubasta s, int *punid) {
     double monto = 0.0;
     *punid = 0;
 
-    while (!emptyPriQueue(s->q)) {
-        double oferta = priBest(s->q);
+    while (!emptyPriQueue(s->q) && *punid < s->n_items) {
         Oferta *mejor_oferta = (Oferta *)priGet(s->q);
-        mejor_oferta->estado = ADJUD;  // Adjudica el producto
-        monto += oferta;
+        
+        // Ignorar ofertas rechazadas
+        if (mejor_oferta->estado == RECHAZ) {
+            free(mejor_oferta);
+            continue;
+        }
+
+        // Adjudica el producto
+        mejor_oferta->estado = ADJUD;
+        monto += priBest(s->q);  // Suma el monto de la mejor oferta
         (*punid)++;
         setReady(mejor_oferta->th);    // Reactiva el hilo adjudicado para que pueda retornar
     }
@@ -96,6 +103,7 @@ double nAdjudicar(nSubasta s, int *punid) {
     END_CRITICAL
     return monto;
 }
+
 
 
 // destruye los recursos de una subasta
