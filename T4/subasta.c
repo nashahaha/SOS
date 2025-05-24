@@ -10,16 +10,16 @@
 struct subasta{
     int n_items; // número de items ofrecidos
     PriQueue *q; // algo para guardar las ofertas aceptadas
-    State status;
 };
 
 // Se subastarán n items
 // retorna una subasta
 nSubasta nNuevaSubasta(int n){
-    nSubasta subasta = nMalloc(sizeof(nSubasta));
+    nSubasta subasta = nMalloc(sizeof(struct subasta));
     subasta->n_items = n;
     subasta->q = makePriQueue();
     return subasta;
+
 }
 typedef enum {PEND, RECHAZ, ADJUD} Resol;
 
@@ -49,7 +49,6 @@ int nOfrecer(nSubasta s, double oferta) {
         
         // Si es el hilo actual, retorna inmediatamente
         if (peor_oferta == nueva_oferta) {
-            peor_oferta->estado = RECHAZ; // Marca como rechazada
             END_CRITICAL;
             return FALSE;        // Retorna inmediatamente
         }
@@ -61,7 +60,7 @@ int nOfrecer(nSubasta s, double oferta) {
     }
 
     // Esperar a ser adjudicado o rechazado
-    while (nueva_oferta->estado == PEND) {
+    if (nueva_oferta->estado == PEND) {
         suspend(WAIT_SUBASTA);
         schedule();
     }
@@ -76,29 +75,26 @@ int nOfrecer(nSubasta s, double oferta) {
 
 // cierra la subasta
 // s -> subasta por cerrar
-// *punid -> queda el número de unidades que no fueron vendidas (llegaron mejos oferentes que los n items ofrecidos)
-
+// *punid -> queda el número de unidades que no fueron vendidas (llegaron menos oferentes que los n items ofrecidos)
 // retorna el monto total recaudado
 double nAdjudicar(nSubasta s, int *punid) {
     START_CRITICAL
     double monto = 0.0;
-    *punid = 0;
+    *punid = s->n_items;
+    int uVendidas = 0;
 
-    while (!emptyPriQueue(s->q) && *punid < s->n_items) {
+    while (!emptyPriQueue(s->q)) {
+        monto += priBest(s->q);  // Suma el monto de la mejor oferta
         Oferta *mejor_oferta = (Oferta *)priGet(s->q);
         
-        // Ignorar ofertas rechazadas
-        if (mejor_oferta->estado == RECHAZ) {
-            free(mejor_oferta);
-            continue;
-        }
-
         // Adjudica el producto
-        mejor_oferta->estado = ADJUD;
-        monto += priBest(s->q);  // Suma el monto de la mejor oferta
-        (*punid)++;
+        mejor_oferta->estado = ADJUD; //para que los threads retornen true
+        
+        uVendidas++;
         setReady(mejor_oferta->th);    // Reactiva el hilo adjudicado para que pueda retornar
+        schedule();
     }
+    (*punid)-=uVendidas;
 
     END_CRITICAL
     return monto;

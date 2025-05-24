@@ -106,7 +106,7 @@ void enterWrite(RWLock *rwl) {
 
   if(rwl->readers==0 && !rwl->writing) // marca un escritor (puede entrar) solo si no hay lectores ni escritores usando el mutex
     rwl->writing = 1; //marca un escritor
-  else // si no queda en espera
+  else // sino, queda en espera
     enqueue(rwl, WRITER);
   
   pthread_mutex_unlock(&rwl->m);
