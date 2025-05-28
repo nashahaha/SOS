@@ -1,5 +1,6 @@
 #include <nthread-impl.h>
 #include "subasta.h"
+#include "pss.h" // para usar colas de prioridad
 
 // =============================================================
 // Implemente a partir de aca el tipo Subasta, puede agregar
@@ -11,16 +12,14 @@ struct subasta{
     PriQueue *q; // algo para guardar las ofertas aceptadas
 };
 
+// Se subastarán n items
+// retorna una subasta
 nSubasta nNuevaSubasta(int n){
     nSubasta subasta = nMalloc(sizeof(struct subasta));
     subasta->n_items = n;
     subasta->q = makePriQueue();
     return subasta;
 }
-
-//===============================
-// Funciones y estructuras extra
-//===============================
 
 typedef enum {PEND, RECHAZ, ADJUD} Resol;
 
@@ -36,13 +35,15 @@ void elimOferta(nThread this_Th){
     Oferta *oferta_ptr = (Oferta)(this_Th-> ptr);
     if (oferta_ptr != NULL){
         priDel(oferta_ptr->subasta->q, this_Th);
-        this_Th->ptr = NULL;
+        this_Th->ptr =NULL;
     }
 }
 
-//================================================
-
-int nOfrecer(nSubasta s, double oferta, int timeout){
+// ofrece 'oferta' a la subasta s
+// retorna TRUE o FALSE
+// TRUE si se adjudica un producto
+// FALSE si se presentaron n oferentes con un precio mayor a la oferta realizada
+int nOfrecer(nSubasta s, double oferta, int timeout) {   
     START_CRITICAL
     
     // Crear una nueva oferta
@@ -99,7 +100,14 @@ int nOfrecer(nSubasta s, double oferta, int timeout){
     return resultado;
 }
 
-double nAdjudicar(nSubasta s,int *punid ){
+
+
+
+// cierra la subasta
+// s -> subasta por cerrar
+// *punid -> queda el número de unidades que no fueron vendidas (llegaron menos oferentes que los n items ofrecidos)
+// retorna el monto total recaudado
+double nAdjudicar(nSubasta s, int *punid) {
     START_CRITICAL
     double monto = 0.0;
     *punid = s->n_items;
@@ -122,6 +130,9 @@ double nAdjudicar(nSubasta s,int *punid ){
     return monto;
 }
 
+
+
+// destruye los recursos de una subasta
 void nDestruirSubasta(nSubasta s){
     destroyPriQueue(s->q);
     free(s);

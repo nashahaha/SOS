@@ -39,6 +39,8 @@ run-san: $(PROB).bin-san
 	@if grep -P '\t' $(PROB).c ; then echo "Su archivo $(PROB).c contiene tabs.  Reemplacelos por espacios en blanco!" ; false ; else true; fi
 	@echo --------------------------------------------
 	./$(PROB).bin-san
+	@echo --------------------------------------------
+	./$(PROB).bin-san -slice 1
 
 run-thr: $(PROB).bin-thr
 	@echo "No tiene sentido ejecutar sanitize para threads"
@@ -54,7 +56,11 @@ run-g: $(PROB).bin-g
 
 run: $(PROB).bin
 	@echo --------------------------------------------
+	./$(PROB).bin
+	@echo --------------------------------------------
 	./$(PROB).bin -ncores 4
+	@echo --------------------------------------------
+	./$(PROB).bin -slice 1 -ncores 4
 
 run-par: $(PROB).bin
 	@echo --------------------------------------------

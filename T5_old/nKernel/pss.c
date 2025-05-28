@@ -2,6 +2,7 @@
 #include <stdint.h>
 #include <string.h>
 
+#include "nthread.h"
 #include "pss.h"
 
 //==========================================
@@ -431,24 +432,3 @@ void priPut(PriQueue *q, void *elem, double pri) {
   priobj->elem= elem;
   fullPriPut(q, priobj);
 }
-
-int priDel(PriQueue *q, void *elem) {
-  int k= 0;
-  PriObj *priobj;
-  while (k<=q->size) {
-    priobj= q->ar[k];
-    if (priobj->elem==elem)
-      break;
-    k++;
-  }
-  if (k>q->size)
-    return 1;
-
-  q->ar[k]= q->ar[q->size];
-  q->size--;
-  if (k<q->size)
-    shiftDown(q, k);
-  free(priobj);
-  return 0;
-}
-

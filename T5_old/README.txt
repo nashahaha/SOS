@@ -18,11 +18,13 @@ Para buscar un texto: tecla / seguido del texto (/...texto...)
 
 Ud. debe programar las funciones solicitadas en el archivo subasta.c.
 
-Pruebe su tarea bajo Debian 12 de 64 bits.  Estos son los requerimientos
+Pruebe su tarea bajo Debian 11 de 64 bits.  Estos son los requerimientos
 para aprobar su tarea:
 
 + make run-san debe felicitarlo y no reportar ningún incidente en el
   manejo de memoria.
+
++ make run-thr debe felicitarlo y no reportar ningún datarace.
 
 + make run debe felicitarlo por aprobar este modo de ejecución.
 
@@ -34,12 +36,19 @@ otros procesos intensivos en uso de CPU al mismo tiempo.
 
 Invoque el comando make zip para ejecutar todos los tests y generar un
 archivo subasta.zip que contiene subasta.c, con su solución, y resultados.txt,
-con la salida de make run, make run-g y make run-san.
+con la salida de make run, make run-g, make run-thr y make run-san.
 
 Para depurar use: make ddd
 
 Video con ejemplos de uso de ddd: https://youtu.be/FtHZy7UkTT4
 Archivos con los ejemplos: https://www.u-cursos.cl/ingenieria/2020/2/CC3301/1/novedades/r/demo-ddd.zip
+
+Si lo prefiere, lance codeblocks y abra el archivo subasta.cbp.  Hay 4 perfiles
+de ejecución para probar su tarea:
++ Debug (equivale a make run-g)
++ Release (make run)
++ Sanitize (make run-san)
++ Thread (make run-thr)
 
 -----------------------------------------------
 

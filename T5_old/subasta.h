@@ -3,7 +3,7 @@ typedef struct subasta *nSubasta;
 void fatalError( char *procname, char *format, ... );
 
 nSubasta nNuevaSubasta(int unidades);
-int nOfrecer(nSubasta s, double precio, int timeout);
+int nOfrecer(nSubasta s, double precio);
 double nAdjudicar(nSubasta s, int *punidades);
 void nDestruirSubasta(nSubasta s);
 

@@ -64,7 +64,6 @@ double priBest(PriQueue *q);
 void *priPeek(PriQueue *q);
 void *priGet(PriQueue *q);
 void priPut(PriQueue *q, void *elem, double pri);
-int priDel(PriQueue *q, void *elem);
 
 //==========================================
 // Funciones para el TDA sort generico

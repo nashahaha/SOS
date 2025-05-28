@@ -10,16 +10,6 @@
 
 #pragma GCC diagnostic ignored "-Wunused-function"
 
-static int esperar(pthread_t thr);
-
-// ==================================================
-// Variables globales: el timeout default
-
-static int default_timeout= -1; // en milisegundos
-
-// ==================================================
-// Funcion para que un thread haga una pausa
-
 static void msleep(int delay) {
   usleep(delay*1000);
 }
@@ -60,100 +50,8 @@ typedef struct {
   nSubasta s;
   int print_msg;
   char *nom;
-  int oferta, timeout, ret;
+  int oferta, ret;
 } Param;
-
-// ==================================================
-// Funciones para los tests con timeout que
-// se vencen o que no se vencen
-
-static void *agente(void *ptr) {
-  Param *pparm= ptr;
-  nSubasta s= pparm->s;
-  int print_msg= pparm->print_msg;
-  char *nom= pparm->nom;
-  int oferta= pparm->oferta;
-  int timeout= pparm->timeout;
-  setThreadName(nom);
-  if (print_msg>0)
-    printf("%s ofrece %d timeout=%d\n", nom, oferta, timeout);
-  int ret= nOfrecer(s, oferta, timeout*1000);
-  if (print_msg>0) {
-    if (ret)
-      printf("%s se adjudico un item a %d\n", nom, oferta);
-    else
-      printf("%s fallo con su oferta de %d\n", nom, oferta);
-  }
-  pparm->ret= ret;
-  return pparm;
-}
-
-static pthread_t crearAgente(nSubasta s, char *nom, int oferta, int timeout)
-{
-  Param parm= { s, 1, nom, oferta, timeout };
-  Param *pparm= malloc(sizeof(Param));
-  *pparm= parm;
-  pthread_t thr;
-  if (pthread_create(&thr, NULL, agente, pparm)!=0) {
-    perror("nom");
-    exit(1);
-  }
-  return thr;
-}
-
-static int test_timeouts1() {
-  printf("2 Timeouts: el de pedro no se vence, el de juan si\n");
-  nSubasta s= nNuevaSubasta(2);
-  pthread_t pedro= crearAgente(s, "pedro", 2, 3);
-  pthread_t juan= crearAgente(s, "juan", 3, 1);
-  msleep(2000);
-  int u;
-  int recaud= nAdjudicar(s, &u);
-  if (!esperar(pedro))
-    fatalError("test", "p debio ganar con 2\n");
-  if (esperar(juan))
-    fatalError("test", "p debio perder con 3 por el timeout\n");
-  if (recaud!=2)
-    fatalError("test", "La recaudacion debio ser 2 y no %d\n", recaud);
-  if (u!=1)
-    fatalError("test", "Quedaron %d unidades sin vender. Debio quedar 1.\n",
-               u);
-  printf("El monto recaudado es %d y quedaron %d unidades sin vender\n",
-         recaud, u);
-  nDestruirSubasta(s);
-  return 0;
-}
-
-#if 1
-static int test_timeouts2() {
-  nSubasta s= nNuevaSubasta(2);
-  pthread_t pedro= crearAgente(s, "pedro", 1, 4);
-  pthread_t juan= crearAgente(s, "juan", 3, 3);
-  pthread_t diego= crearAgente(s, "diego", 4, 2);
-  pthread_t pepe= crearAgente(s, "pepe", 2, 1);
-  if (esperar(diego))
-    fatalError("test", "diego debio perder con 1\n");
-  if (esperar(pepe))
-    fatalError("test", "pepe debio perder con 2\n");
-  int u;
-  int recaud= nAdjudicar(s, &u);
-  if (recaud!=4)
-    fatalError("test", "La recaudacion debio ser 4 y no %d\n", recaud);
-  if (u!=0)
-    fatalError("test", "Quedaron %d unidades sin vender\n", u);
-  if (!esperar(pedro))
-    fatalError("test", "juan debio ganar con 3\n");
-  if (!esperar(juan))
-    fatalError("test", "diego debio ganar con 4\n");
-  printf("El monto recaudado es %d y quedaron %d unidades sin vender\n",
-         recaud, u);
-  nDestruirSubasta(s);
-  return 0;
-}
-#endif
-
-// ==================================================
-// Funciones para los tests originales de la tarea 4
 
 static void *aleatorio(void *ptr) {
   Param *pparm= ptr;
@@ -168,7 +66,7 @@ static void *aleatorio(void *ptr) {
   }
   if (print_msg>0)
     printf("%s ofrece %d\n", nom, oferta);
-  int ret= nOfrecer(s, oferta, default_timeout);
+  int ret= nOfrecer(s, oferta);
   if (print_msg>0) {
     if (ret)
       printf("%s se adjudico un item a %d\n", nom, oferta);
@@ -209,7 +107,7 @@ static void *oferente(void *ptr) {
   setThreadName(nom);
   if (print_msg>0)
     printf("%s ofrece %d\n", nom, oferta);
-  int ret= nOfrecer(s, oferta, default_timeout);
+  int ret= nOfrecer(s, oferta);
   if (print_msg>0) {
     if (ret)
       printf("%s se adjudico un item a %d\n", nom, oferta);
@@ -264,19 +162,19 @@ static int test1(int print_msg) {
   pthread_t diego= crearAleatorio(s, print_msg, "diego", 4);
   pthread_t pepe= crearAleatorio(s, print_msg, "pepe", 2);
   if (esperar(pedro))
-    fatalError("test", "pedro debio perder con 1\n");
+    fatalError("test1", "pedro debio perder con 1\n");
   if (esperar(pepe))
-    fatalError("test", "pepe debio perder con 2\n");
+    fatalError("test1", "pepe debio perder con 2\n");
   int u;
   int recaud= nAdjudicar(s, &u);
   if (recaud!=7)
-    fatalError("test", "La recaudacion debio ser 7 y no %d\n", recaud);
+    fatalError("test1", "La recaudacion debio ser 7 y no %d\n", recaud);
   if (u!=0)
-    fatalError("test", "Quedaron %d unidades sin vender\n", u);
+    fatalError("test1", "Quedaron %d unidades sin vender\n", u);
   if (!esperar(juan))
-    fatalError("test", "juan debio ganar con 3\n");
+    fatalError("nMain", "juan debio ganar con 3\n");
   if (!esperar(diego))
-    fatalError("test", "diego debio ganar con 4\n");
+    fatalError("nMain", "diego debio ganar con 4\n");
   if (print_msg>0)
     printf("El monto recaudado es %d y quedaron %d unidades sin vender\n",
             recaud, u);
@@ -299,24 +197,24 @@ static int test2(int print_msg) {
   if (print_msg>=0)
     msleep(1000);
   if (esperar(maria))
-    fatalError("test", "maria debio perder con 3\n");
+    fatalError("nMain", "maria debio perder con 3\n");
   pthread_t sonia= crearOferente(s, print_msg, "sonia", 6);
   if (print_msg>=0)
     msleep(1000);
   if (esperar(ximena))
-    fatalError("test", "ximena debio perder con 4\n");
+    fatalError("nMain", "ximena debio perder con 4\n");
   int u;
   int recaud= nAdjudicar(s, &u);
   if (recaud!=18)
-    fatalError("test", "La recaudacion debio ser 7 y no %d\n", recaud);
+    fatalError("test1", "La recaudacion debio ser 7 y no %d\n", recaud);
   if (u!=0)
-    fatalError("test", "Quedaron %d unidades sin vender\n", u);
+    fatalError("test1", "Quedaron %d unidades sin vender\n", u);
   if (!esperar(ana))
-    fatalError("test", "ana debio ganar con 7\n");
+    fatalError("nMain", "ana debio ganar con 7\n");
   if (!esperar(erika))
-    fatalError("test", "erika debio ganar con 5\n");
+    fatalError("nMain", "erika debio ganar con 5\n");
   if (!esperar(sonia))
-    fatalError("test", "sonia debio ganar con 6\n");
+    fatalError("nMain", "sonia debio ganar con 6\n");
   if (print_msg>0)
     printf("El monto recaudado es %d y quedaron %d unidades sin vender\n",
             recaud, u);
@@ -335,16 +233,16 @@ static int test3(int print_msg) {
   int u;
   int recaud= nAdjudicar(s, &u);
   if (recaud!=5)
-    fatalError("test", "La recaudacion debio ser 5 y no %d\n", recaud);
+    fatalError("test3", "La recaudacion debio ser 5 y no %d\n", recaud);
   if (u!=3)
-    fatalError("test", "Quedaron %d unidades sin vender\n", u);
+    fatalError("test3", "Quedaron %d unidades sin vender\n", u);
   if (print_msg>0)
     printf("El monto recaudado es %d y quedaron %d unidades sin vender\n",
             recaud, u);
   if (!esperar(tomas))
-    fatalError("test", "tomas debio ganar con 2\n");
+    fatalError("nMain", "tomas debio ganar con 2\n");
   if (!esperar(monica))
-    fatalError("test", "monica debio ganar con 3\n");
+    fatalError("nMain", "monica debio ganar con 3\n");
   nDestruirSubasta(s);
   return 0;
 }
@@ -365,15 +263,12 @@ static int test3(int print_msg) {
 #define M 250
 #endif
 
-void suite(int timeout) {
-  default_timeout= timeout;
+int main(int argc, char *argv[]) {
         
-#if 1
   printf("una sola subasta con tiempos aleatorios\n");
   test1(1);
   printf("test aprobado\n");
   printf("-------------\n");
-#endif
 
   printf("una sola subasta con tiempos deterministicos\n");
   test2(1);
@@ -426,20 +321,7 @@ void suite(int timeout) {
   free(tasks3);
   printf("\ntest aprobado\n");
   printf(  "-------------\n");
-}
-
-int main(int argc, char *argv[]) {
-  test_timeouts1();
-#if 1
-  printf("=====================================\n");
-  printf("Tests con timeouts que no se vencen\n");
-  printf("=====================================\n\n");
-  suite(1000*5*60); // 5 minutos de timeout
-#endif
-  printf("=====================================\n");
-  printf("Tests de compatibilidad: sin timeouts\n");
-  printf("=====================================\n\n");
-  suite(-1);         // Sin timeout
+  
   printf("Felicitaciones: paso todos los tests\n");
   return 0;
 }
