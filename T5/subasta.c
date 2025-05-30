@@ -33,7 +33,10 @@ typedef struct {
 
 
 void elimOferta(nThread this_Th){
-    Oferta *oferta_ptr = (Oferta)(this_Th-> ptr);
+    //if (this_Th->status == ZOMBIE) return;  // <- PROTECCIÓN CLAVE
+
+    Oferta *oferta_ptr = (Oferta *)(this_Th-> ptr);
+    printf("se eliminó una oferta\n");
     if (oferta_ptr != NULL){
         priDel(oferta_ptr->subasta->q, this_Th);
         this_Th->ptr = NULL;
@@ -52,8 +55,9 @@ int nOfrecer(nSubasta s, double oferta, int timeout){
     nueva_oferta->th = nSelf();    // Guarda el hilo actual
     nueva_oferta->estado = PEND;   // Marca la oferta como pendiente
 
+    // Agregar la nueva oferta el campo ptr del thread
     nThread this_th = nSelf();
-    this_th -> ptr = &nueva_oferta;
+    this_th -> ptr = nueva_oferta;
 
     // Agregar la oferta a la cola con su prioridad
     priPut(s->q, nueva_oferta, oferta);
@@ -70,31 +74,33 @@ int nOfrecer(nSubasta s, double oferta, int timeout){
 
         // Si es otro hilo, rechazarlo y reactivarlo
         peor_oferta->estado = RECHAZ;
+        
         setReady(peor_oferta->th);  // Reactiva el hilo rechazado
         schedule();                 // Libera el CPU para otros hilos
     }
 
-    // Esperar a ser adjudicado o rechazado
-    //if (nueva_oferta->estado == PEND) {
-    //    suspend(WAIT_SUBASTA);
-    //    schedule();
-    //}
-   
-
-    if(nueva_oferta->estado == PEND && timeout != 0){
+    if(nueva_oferta->estado == PEND){
         if(timeout > 0){
             // programar timer
             suspend(WAIT_SUBASTA_TIMEOUT);
             nth_programTimer(timeout * 1000000LL, elimOferta);
         } else {
-            // esperar a que llegue mensaje
             suspend(WAIT_SUBASTA);
+        }
+
+        if (nueva_oferta->estado != ADJUD && nueva_oferta->estado != RECHAZ) {
+            // Cancelar si aún sigue con timeout
+            if (nueva_oferta->th->status == WAIT_SUBASTA_TIMEOUT) {
+                nth_cancelThread(nueva_oferta->th);
+            }
+            nueva_oferta->th->wakeUpFun = NULL;  // <- Esto es clave para evitar ejecución tardía
         }
 
         schedule();
     }
 
     int resultado = (nueva_oferta->estado == ADJUD);
+    
     END_CRITICAL
     return resultado;
 }
@@ -113,11 +119,14 @@ double nAdjudicar(nSubasta s,int *punid ){
         mejor_oferta->estado = ADJUD; //para que los threads retornen true
         
         uVendidas++;
+
+        if (mejor_oferta->th->status == WAIT_SUBASTA_TIMEOUT) {
+            nth_cancelThread(mejor_oferta -> th);
+        }
         setReady(mejor_oferta->th);    // Reactiva el hilo adjudicado para que pueda retornar
         schedule();
     }
     (*punid)-=uVendidas;
-
     END_CRITICAL
     return monto;
 }
