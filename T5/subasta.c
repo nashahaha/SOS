@@ -1,11 +1,6 @@
 #include <nthread-impl.h>
 #include "subasta.h"
 
-// =============================================================
-// Implemente a partir de aca el tipo Subasta, puede agregar
-// funciones, estructuras o variables que considere necesarias
-// =============================================================
-
 struct subasta{
     int n_items; // número de items ofrecidos
     PriQueue *q; // algo para guardar las ofertas aceptadas
@@ -33,8 +28,6 @@ typedef struct {
 
 
 void elimOferta(nThread this_Th){
-    //if (this_Th->status == ZOMBIE) return;  // <- PROTECCIÓN CLAVE
-
     Oferta *oferta_ptr = (Oferta *)(this_Th-> ptr);
     printf("se eliminó una oferta\n");
     if (oferta_ptr != NULL){
@@ -82,20 +75,11 @@ int nOfrecer(nSubasta s, double oferta, int timeout){
     if(nueva_oferta->estado == PEND){
         if(timeout > 0){
             // programar timer
-            suspend(WAIT_SUBASTA_TIMEOUT);
             nth_programTimer(timeout * 1000000LL, elimOferta);
+            suspend(WAIT_SUBASTA_TIMEOUT);
         } else {
             suspend(WAIT_SUBASTA);
         }
-
-        if (nueva_oferta->estado != ADJUD && nueva_oferta->estado != RECHAZ) {
-            // Cancelar si aún sigue con timeout
-            if (nueva_oferta->th->status == WAIT_SUBASTA_TIMEOUT) {
-                nth_cancelThread(nueva_oferta->th);
-            }
-            nueva_oferta->th->wakeUpFun = NULL;  // <- Esto es clave para evitar ejecución tardía
-        }
-
         schedule();
     }
 
@@ -120,10 +104,11 @@ double nAdjudicar(nSubasta s,int *punid ){
         
         uVendidas++;
 
-        if (mejor_oferta->th->status == WAIT_SUBASTA_TIMEOUT) {
-            nth_cancelThread(mejor_oferta -> th);
+        if(mejor_oferta->th->status == WAIT_SUBASTA_TIMEOUT){
+            nth_cancelThread(mejor_oferta->th);
         }
-        setReady(mejor_oferta->th);    // Reactiva el hilo adjudicado para que pueda retornar
+
+        setReady(mejor_oferta->th);   // Reactiva el hilo adjudicado para que pueda retornar
         schedule();
     }
     (*punid)-=uVendidas;
