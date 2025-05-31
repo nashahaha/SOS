@@ -31,7 +31,7 @@ void elimOferta(nThread this_Th){
     Oferta *oferta_ptr = (Oferta *)(this_Th-> ptr);
     printf("se eliminó una oferta\n");
     if (oferta_ptr != NULL){
-        priDel(oferta_ptr->subasta->q, this_Th);
+        priDel(oferta_ptr->subasta->q, oferta_ptr);
         this_Th->ptr = NULL;
     }
 }
@@ -67,6 +67,10 @@ int nOfrecer(nSubasta s, double oferta, int timeout){
 
         // Si es otro hilo, rechazarlo y reactivarlo
         peor_oferta->estado = RECHAZ;
+        if(peor_oferta->th->status == WAIT_SUBASTA_TIMEOUT){
+            nth_cancelThread(peor_oferta->th);
+        }
+
         
         setReady(peor_oferta->th);  // Reactiva el hilo rechazado
         schedule();                 // Libera el CPU para otros hilos
