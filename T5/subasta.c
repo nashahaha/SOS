@@ -29,7 +29,6 @@ typedef struct {
 
 void elimOferta(nThread this_Th){
     Oferta *oferta_ptr = (Oferta *)(this_Th-> ptr);
-    printf("se eliminó una oferta\n");
     if (oferta_ptr != NULL){
         priDel(oferta_ptr->subasta->q, oferta_ptr);
         this_Th->ptr = NULL;
