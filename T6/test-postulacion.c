@@ -71,8 +71,9 @@ static void *estudiante_thread_test1(void *arg) {
     }
     postularTrabajo(estudiante, trabajos_de_interes, ranking);
     postularTrabajoThreadFinalizado[estudiante->id] = 1; // Marcar que el estudiante ha postulado
+    printf("Estudiante %d ha conseguido el trabajo %d.\n", estudiante->id, estudiante->trabajo_id);
     free(estudiante); // Liberar la memoria del estudiante
-    //printf("Estudiante %d ha conseguido el trabajo %d.\n", estudiante->id, estudiante->trabajo_id);
+    
     return NULL;
 }
 
@@ -212,17 +213,19 @@ static int test1(){
     for (int i = 0; i < NUM_TRABAJOS; i++) {
         trabajos_index[i] = i;
         pthread_create(&threads_trabajos[i], NULL, trabajo_thread_test1, (void *)&trabajos_index[i]);
+        //printf("Creando hilo de trabajos %d...\n", i);
     }
-
+    printf("\tUniendo hilos\n");
     for (int i = 0; i < NUM_ESTUDIANTES-1; i++) {
         pthread_join(threads_estudiantes[i], NULL);
     }
-    
+    printf("\tHilos unidos\n");
     int hay_trabajos_pendientes = 0;
     for (int i = 0; i < NUM_TRABAJOS; i++) {
         if (postulacionTrabajos[i] == -1) {
             hay_trabajos_pendientes += 1;
         }
+
     }
     if (hay_trabajos_pendientes != 1) 
         fatalError("test1", "Error: Debía quedar solamente un trabajo no asignado, pero hay %d trabajos no asignados.\n", hay_trabajos_pendientes);
