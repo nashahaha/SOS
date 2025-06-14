@@ -84,4 +84,3 @@ int cerrarPostulacion(int i) { // aquí i se refiere al numero del trabajo, no a
   spinUnlock(&mutex);
   return res;
 }
-
