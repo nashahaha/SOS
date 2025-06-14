@@ -1,4 +1,4 @@
-#define N 7
+#define N 100
 
 extern int postulacionTrabajos[N];
 

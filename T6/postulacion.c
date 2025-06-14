@@ -15,6 +15,7 @@ typedef struct {
 PriQueue *priQueue[N];
 int postulacionTrabajos[N]; // id de los estudiantes que hayan conseguido el trabajo
 int* q[N]; // arreglo de 
+int mutex = OPEN;
 
 void iniciarPostulaciones(){
   for (int i = 0; i < N; i++) {
@@ -27,7 +28,6 @@ void destruirPostulaciones(){
   for (int i = 0; i < N; i++)
     destroyPriQueue(priQueue[i]);
 }
-int mutex = OPEN;
 
 
 // preferencias: puntero a un arreglo de tamaño N con valores 0 en los índices de los trabajos donde no quiere postular y 1 donde sí quiere
@@ -37,6 +37,9 @@ void postularTrabajo(Estudiante *est, int *preferencias, double *rank) {
   spinLock(&mutex);
   est->trabajo_id = -1;
   Postulacion postulacion = {est, rank};
+
+  if(est->id==99)
+    printf("-----------------Hola soy el estudinate 99\n");
 
   for (int i = 0; i < N; i++) {
       if (postulacionTrabajos[i]==-1 && preferencias[i]){ // si aún no hay nadie electo para el trabajo y está dentro de sus preferencias
@@ -74,7 +77,7 @@ int cerrarPostulacion(int i) { // aquí i se refiere al numero del trabajo, no a
         spinUnlock(q[ppostulacion->est->id]);
         break;
       }
-    }  
+    } 
     
   }
   int res = postulacionTrabajos[i];
