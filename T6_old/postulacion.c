@@ -14,7 +14,7 @@ typedef struct {
 
 PriQueue *priQueue[N];
 int postulacionTrabajos[N]; // id de los estudiantes que hayan conseguido el trabajo
-int* q_est[N]; // arreglo de estudiantes en espera
+int* q_est[N]; // arreglo de estudiantes , marca si están en espera
 int* q_tra[N];
 int mutex = OPEN;
 
@@ -24,7 +24,7 @@ void iniciarPostulaciones(){
     postulacionTrabajos[i] = -1;
     int lk= OPEN;
     q_tra[i] = &lk; 
-    q_est[i] = &lk; //REVISAR
+    q_est[i] = &lk; //R
   }
 }
 
@@ -37,18 +37,15 @@ void destruirPostulaciones(){
 // preferencias: puntero a un arreglo de tamaño N con valores 0 en los índices de los trabajos donde no quiere postular y 1 donde sí quiere
 // rank: puntero a un arreglo double donde estarán el ranking con el cual postulará
 void postularTrabajo(Estudiante *est, int *preferencias, double *rank) {
-  //printf("El estudiante %d va a postular a algun trabajo\n", est->id);
   spinLock(&mutex);
   est->trabajo_id = -1;
   Postulacion postulacion = {est, rank};
 
-  for (int i = 0; i < N; i++) { // aquí la i se refiere al numero del trabajo
+  for (int i = 0; i < N; i++) {
       if (postulacionTrabajos[i]==-1 && preferencias[i]){ // si aún no hay nadie electo para el trabajo y está dentro de sus preferencias
-          //printf("El estudiante %d postulo al trabajo %d, con ranking %f\n", est->id, i, *rank);
           priPut(priQueue[i], &postulacion, rank[i]);     // se agrega a la cola de prioridad correspondiente
 
           if(*q_tra[i]==CLOSED){ // despierto al trabajo si está dormido
-            printf("El estudiente %d despierta al trabajo %d\n", est->id, i);
             spinUnlock(q_tra[i]);
           }
       }
@@ -63,15 +60,13 @@ void postularTrabajo(Estudiante *est, int *preferencias, double *rank) {
     spinUnlock(&mutex);
 
 }
-  
+
 
 
 int cerrarPostulacion(int i) { // aquí i se refiere al numero del trabajo, no al id del estudiante
-  //printf("El estudiante %d cierra su postulación \n", i);
   spinLock(&mutex);
 
-  if(postulacionTrabajos[i]!=-1 || emptyPriQueue(priQueue[i])){
-    printf("El trabajo %d va a dormir\n", i);
+  if(postulacionTrabajos[i]!=-1 || emptyPriQueue(priQueue[i])){ // Si no puede asignar a nadie se va a espera
     int lk = CLOSED;
     q_tra[i] = &lk;
     spinUnlock(&mutex);

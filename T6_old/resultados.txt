@@ -10,209 +10,207 @@ Iniciando el test 1... con 100 estudiantes y 100 trabajos.
 	Esperando 5 segundos...
 	Despertando...
 	Creando hilos para los trabajos...
-Estudiante 25 ha conseguido el trabajo 0.
-Estudiante 20 ha conseguido el trabajo 4.
-Estudiante 19 ha conseguido el trabajo 14.
-Estudiante 18 ha conseguido el trabajo 13.
-Estudiante 17 ha conseguido el trabajo 11.
-Estudiante 16 ha conseguido el trabajo 19.
-Estudiante 15 ha conseguido el trabajo 1.
-Estudiante 14 ha conseguido el trabajo 8.
-Estudiante 13 ha conseguido el trabajo 7.
-Estudiante 12 ha conseguido el trabajo 12.
-Estudiante 11 ha conseguido el trabajo 20.
-Estudiante 10 ha conseguido el trabajo 24.
-Estudiante 9 ha conseguido el trabajo 27.
-Estudiante 8 ha conseguido el trabajo 26.
-Estudiante 7 ha conseguido el trabajo 3.
-Estudiante 6 ha conseguido el trabajo 2.
-Estudiante 5 ha conseguido el trabajo 9.
-Estudiante 4 ha conseguido el trabajo 5.
-Estudiante 3 ha conseguido el trabajo 10.
-Estudiante 2 ha conseguido el trabajo 15.
-Estudiante 0 ha conseguido el trabajo 18.
-Estudiante 21 ha conseguido el trabajo 17.
-Estudiante 98 ha conseguido el trabajo 6.
-Estudiante 97 ha conseguido el trabajo 55.
-Estudiante 96 ha conseguido el trabajo 52.
-Estudiante 95 ha conseguido el trabajo 57.
-Estudiante 94 ha conseguido el trabajo 16.
-Estudiante 93 ha conseguido el trabajo 48.
-Estudiante 92 ha conseguido el trabajo 31.
-Estudiante 91 ha conseguido el trabajo 69.
-Estudiante 90 ha conseguido el trabajo 59.
-Estudiante 89 ha conseguido el trabajo 49.
-Estudiante 88 ha conseguido el trabajo 30.
-Estudiante 87 ha conseguido el trabajo 72.
-Estudiante 86 ha conseguido el trabajo 50.
-Estudiante 85 ha conseguido el trabajo 23.
-Estudiante 84 ha conseguido el trabajo 22.
+Estudiante 2 ha conseguido el trabajo 7.
+Estudiante 62 ha conseguido el trabajo 18.
+Estudiante 23 ha conseguido el trabajo 17.
 Estudiante 83 ha conseguido el trabajo 21.
-Estudiante 82 ha conseguido el trabajo 63.
-Estudiante 1 ha conseguido el trabajo 29.
-Estudiante 81 ha conseguido el trabajo 73.
-Estudiante 80 ha conseguido el trabajo 25.
-Estudiante 79 ha conseguido el trabajo 28.
-Estudiante 78 ha conseguido el trabajo 38.
-Estudiante 77 ha conseguido el trabajo 32.
-Estudiante 76 ha conseguido el trabajo 85.
-Estudiante 75 ha conseguido el trabajo 74.
-Estudiante 22 ha conseguido el trabajo 81.
-Estudiante 74 ha conseguido el trabajo 46.
-Estudiante 73 ha conseguido el trabajo 51.
-Estudiante 72 ha conseguido el trabajo 45.
-Estudiante 71 ha conseguido el trabajo 34.
-Estudiante 69 ha conseguido el trabajo 44.
-Estudiante 70 ha conseguido el trabajo 39.
-Estudiante 68 ha conseguido el trabajo 37.
-Estudiante 66 ha conseguido el trabajo 35.
-Estudiante 67 ha conseguido el trabajo 43.
-Estudiante 65 ha conseguido el trabajo 67.
-Estudiante 64 ha conseguido el trabajo 47.
-Estudiante 63 ha conseguido el trabajo 42.
-Estudiante 62 ha conseguido el trabajo 41.
-Estudiante 61 ha conseguido el trabajo 40.
-Estudiante 60 ha conseguido el trabajo 36.
-Estudiante 59 ha conseguido el trabajo 84.
-Estudiante 58 ha conseguido el trabajo 33.
-Estudiante 57 ha conseguido el trabajo 56.
-Estudiante 56 ha conseguido el trabajo 53.
-Estudiante 55 ha conseguido el trabajo 64.
-Estudiante 54 ha conseguido el trabajo 66.
-Estudiante 23 ha conseguido el trabajo 61.
-Estudiante 53 ha conseguido el trabajo 54.
-Estudiante 52 ha conseguido el trabajo 62.
-Estudiante 51 ha conseguido el trabajo 86.
-Estudiante 50 ha conseguido el trabajo 96.
-Estudiante 49 ha conseguido el trabajo 97.
-Estudiante 48 ha conseguido el trabajo 60.
-Estudiante 47 ha conseguido el trabajo 98.
-Estudiante 46 ha conseguido el trabajo 65.
-Estudiante 45 ha conseguido el trabajo 58.
-Estudiante 44 ha conseguido el trabajo 68.
-Estudiante 43 ha conseguido el trabajo 77.
-Estudiante 42 ha conseguido el trabajo 88.
-Estudiante 41 ha conseguido el trabajo 95.
-Estudiante 40 ha conseguido el trabajo 93.
-Estudiante 39 ha conseguido el trabajo 71.
-Estudiante 38 ha conseguido el trabajo 94.
-Estudiante 37 ha conseguido el trabajo 70.
-Estudiante 24 ha conseguido el trabajo 92.
-Estudiante 36 ha conseguido el trabajo 75.
-Estudiante 35 ha conseguido el trabajo 99.
-Estudiante 34 ha conseguido el trabajo 91.
-Estudiante 33 ha conseguido el trabajo 82.
-Estudiante 32 ha conseguido el trabajo 87.
-Estudiante 31 ha conseguido el trabajo 76.
-Estudiante 30 ha conseguido el trabajo 79.
-Estudiante 29 ha conseguido el trabajo 78.
-Estudiante 28 ha conseguido el trabajo 80.
-Estudiante 27 ha conseguido el trabajo 89.
-Estudiante 26 ha conseguido el trabajo 83.
-El trabajo 90 va a dormir
-El estudiente 99 despierta al trabajo 90
-Estudiante 99 ha conseguido el trabajo 90.
+Estudiante 72 ha conseguido el trabajo 19.
+Estudiante 77 ha conseguido el trabajo 16.
+Estudiante 89 ha conseguido el trabajo 25.
+Estudiante 27 ha conseguido el trabajo 3.
+Estudiante 48 ha conseguido el trabajo 8.
+Estudiante 73 ha conseguido el trabajo 11.
+Estudiante 87 ha conseguido el trabajo 12.
+Estudiante 49 ha conseguido el trabajo 0.
+Estudiante 61 ha conseguido el trabajo 4.
+Estudiante 56 ha conseguido el trabajo 9.
+Estudiante 21 ha conseguido el trabajo 10.
+Estudiante 74 ha conseguido el trabajo 2.
+Estudiante 52 ha conseguido el trabajo 14.
+Estudiante 88 ha conseguido el trabajo 1.
+Estudiante 47 ha conseguido el trabajo 6.
+Estudiante 33 ha conseguido el trabajo 13.
+Estudiante 42 ha conseguido el trabajo 15.
+Estudiante 75 ha conseguido el trabajo 5.
+Estudiante 85 ha conseguido el trabajo 24.
+Estudiante 25 ha conseguido el trabajo 23.
+Estudiante 30 ha conseguido el trabajo 20.
+Estudiante 16 ha conseguido el trabajo 33.
+Estudiante 29 ha conseguido el trabajo 34.
+Estudiante 51 ha conseguido el trabajo 35.
+Estudiante 15 ha conseguido el trabajo 36.
+Estudiante 38 ha conseguido el trabajo 37.
+Estudiante 46 ha conseguido el trabajo 38.
+Estudiante 24 ha conseguido el trabajo 39.
+Estudiante 58 ha conseguido el trabajo 40.
+Estudiante 37 ha conseguido el trabajo 41.
+Estudiante 39 ha conseguido el trabajo 26.
+Estudiante 35 ha conseguido el trabajo 22.
+Estudiante 60 ha conseguido el trabajo 27.
+Estudiante 57 ha conseguido el trabajo 28.
+Estudiante 32 ha conseguido el trabajo 29.
+Estudiante 40 ha conseguido el trabajo 30.
+Estudiante 84 ha conseguido el trabajo 31.
+Estudiante 93 ha conseguido el trabajo 32.
+Estudiante 53 ha conseguido el trabajo 75.
+Estudiante 78 ha conseguido el trabajo 74.
+Estudiante 41 ha conseguido el trabajo 48.
+Estudiante 43 ha conseguido el trabajo 53.
+Estudiante 79 ha conseguido el trabajo 51.
+Estudiante 54 ha conseguido el trabajo 50.
+Estudiante 97 ha conseguido el trabajo 65.
+Estudiante 26 ha conseguido el trabajo 87.
+Estudiante 36 ha conseguido el trabajo 84.
+Estudiante 28 ha conseguido el trabajo 98.
+Estudiante 66 ha conseguido el trabajo 55.
+Estudiante 20 ha conseguido el trabajo 52.
+Estudiante 65 ha conseguido el trabajo 81.
+Estudiante 76 ha conseguido el trabajo 47.
+Estudiante 69 ha conseguido el trabajo 45.
+Estudiante 64 ha conseguido el trabajo 46.
+Estudiante 18 ha conseguido el trabajo 57.
+Estudiante 14 ha conseguido el trabajo 44.
+Estudiante 19 ha conseguido el trabajo 82.
+Estudiante 44 ha conseguido el trabajo 80.
+Estudiante 91 ha conseguido el trabajo 99.
+Estudiante 68 ha conseguido el trabajo 90.
+Estudiante 71 ha conseguido el trabajo 89.
+Estudiante 59 ha conseguido el trabajo 59.
+Estudiante 70 ha conseguido el trabajo 73.
+Estudiante 94 ha conseguido el trabajo 97.
+Estudiante 63 ha conseguido el trabajo 76.
+Estudiante 82 ha conseguido el trabajo 61.
+Estudiante 9 ha conseguido el trabajo 79.
+Estudiante 80 ha conseguido el trabajo 67.
+Estudiante 55 ha conseguido el trabajo 86.
+Estudiante 31 ha conseguido el trabajo 71.
+Estudiante 81 ha conseguido el trabajo 77.
+Estudiante 7 ha conseguido el trabajo 62.
+Estudiante 50 ha conseguido el trabajo 92.
+Estudiante 67 ha conseguido el trabajo 70.
+Estudiante 96 ha conseguido el trabajo 72.
+Estudiante 45 ha conseguido el trabajo 68.
+Estudiante 95 ha conseguido el trabajo 96.
+Estudiante 22 ha conseguido el trabajo 66.
+Estudiante 17 ha conseguido el trabajo 49.
+Estudiante 90 ha conseguido el trabajo 85.
+Estudiante 92 ha conseguido el trabajo 63.
+Estudiante 4 ha conseguido el trabajo 56.
+Estudiante 86 ha conseguido el trabajo 83.
+Estudiante 98 ha conseguido el trabajo 42.
+Estudiante 34 ha conseguido el trabajo 64.
+Estudiante 5 ha conseguido el trabajo 78.
+Estudiante 12 ha conseguido el trabajo 94.
+Estudiante 11 ha conseguido el trabajo 91.
+Estudiante 10 ha conseguido el trabajo 58.
+Estudiante 8 ha conseguido el trabajo 69.
+Estudiante 6 ha conseguido el trabajo 88.
+Estudiante 13 ha conseguido el trabajo 43.
+Estudiante 3 ha conseguido el trabajo 54.
+Estudiante 0 ha conseguido el trabajo 95.
+Estudiante 1 ha conseguido el trabajo 60.
+Estudiante 99 ha conseguido el trabajo 93.
 	Todos los hilos de estudiantes han terminado.
-El trabajo 0 tiene el estudiante 25
-El trabajo 1 tiene el estudiante 15
-El trabajo 2 tiene el estudiante 6
-El trabajo 3 tiene el estudiante 7
-El trabajo 4 tiene el estudiante 20
-El trabajo 5 tiene el estudiante 4
-El trabajo 6 tiene el estudiante 98
-El trabajo 7 tiene el estudiante 13
-El trabajo 8 tiene el estudiante 14
-El trabajo 9 tiene el estudiante 5
-El trabajo 10 tiene el estudiante 3
-El trabajo 11 tiene el estudiante 17
-El trabajo 12 tiene el estudiante 12
-El trabajo 13 tiene el estudiante 18
-El trabajo 14 tiene el estudiante 19
-El trabajo 15 tiene el estudiante 2
-El trabajo 16 tiene el estudiante 94
-El trabajo 17 tiene el estudiante 21
-El trabajo 18 tiene el estudiante 0
-El trabajo 19 tiene el estudiante 16
-El trabajo 20 tiene el estudiante 11
+El trabajo 0 tiene el estudiante 49
+El trabajo 1 tiene el estudiante 88
+El trabajo 2 tiene el estudiante 74
+El trabajo 3 tiene el estudiante 27
+El trabajo 4 tiene el estudiante 61
+El trabajo 5 tiene el estudiante 75
+El trabajo 6 tiene el estudiante 47
+El trabajo 7 tiene el estudiante 2
+El trabajo 8 tiene el estudiante 48
+El trabajo 9 tiene el estudiante 56
+El trabajo 10 tiene el estudiante 21
+El trabajo 11 tiene el estudiante 73
+El trabajo 12 tiene el estudiante 87
+El trabajo 13 tiene el estudiante 33
+El trabajo 14 tiene el estudiante 52
+El trabajo 15 tiene el estudiante 42
+El trabajo 16 tiene el estudiante 77
+El trabajo 17 tiene el estudiante 23
+El trabajo 18 tiene el estudiante 62
+El trabajo 19 tiene el estudiante 72
+El trabajo 20 tiene el estudiante 30
 El trabajo 21 tiene el estudiante 83
-El trabajo 22 tiene el estudiante 84
-El trabajo 23 tiene el estudiante 85
-El trabajo 24 tiene el estudiante 10
-El trabajo 25 tiene el estudiante 80
-El trabajo 26 tiene el estudiante 8
-El trabajo 27 tiene el estudiante 9
-El trabajo 28 tiene el estudiante 79
-El trabajo 29 tiene el estudiante 1
-El trabajo 30 tiene el estudiante 88
-El trabajo 31 tiene el estudiante 92
-El trabajo 32 tiene el estudiante 77
-El trabajo 33 tiene el estudiante 58
-El trabajo 34 tiene el estudiante 71
-El trabajo 35 tiene el estudiante 66
-El trabajo 36 tiene el estudiante 60
-El trabajo 37 tiene el estudiante 68
-El trabajo 38 tiene el estudiante 78
-El trabajo 39 tiene el estudiante 70
-El trabajo 40 tiene el estudiante 61
-El trabajo 41 tiene el estudiante 62
-El trabajo 42 tiene el estudiante 63
-El trabajo 43 tiene el estudiante 67
-El trabajo 44 tiene el estudiante 69
-El trabajo 45 tiene el estudiante 72
-El trabajo 46 tiene el estudiante 74
-El trabajo 47 tiene el estudiante 64
-El trabajo 48 tiene el estudiante 93
-El trabajo 49 tiene el estudiante 89
-El trabajo 50 tiene el estudiante 86
-El trabajo 51 tiene el estudiante 73
-El trabajo 52 tiene el estudiante 96
-El trabajo 53 tiene el estudiante 56
-El trabajo 54 tiene el estudiante 53
-El trabajo 55 tiene el estudiante 97
-El trabajo 56 tiene el estudiante 57
-El trabajo 57 tiene el estudiante 95
-El trabajo 58 tiene el estudiante 45
-El trabajo 59 tiene el estudiante 90
-El trabajo 60 tiene el estudiante 48
-El trabajo 61 tiene el estudiante 23
-El trabajo 62 tiene el estudiante 52
-El trabajo 63 tiene el estudiante 82
-El trabajo 64 tiene el estudiante 55
-El trabajo 65 tiene el estudiante 46
-El trabajo 66 tiene el estudiante 54
-El trabajo 67 tiene el estudiante 65
-El trabajo 68 tiene el estudiante 44
-El trabajo 69 tiene el estudiante 91
-El trabajo 70 tiene el estudiante 37
-El trabajo 71 tiene el estudiante 39
-El trabajo 72 tiene el estudiante 87
-El trabajo 73 tiene el estudiante 81
-El trabajo 74 tiene el estudiante 75
-El trabajo 75 tiene el estudiante 36
-El trabajo 76 tiene el estudiante 31
-El trabajo 77 tiene el estudiante 43
-El trabajo 78 tiene el estudiante 29
-El trabajo 79 tiene el estudiante 30
-El trabajo 80 tiene el estudiante 28
-El trabajo 81 tiene el estudiante 22
-El trabajo 82 tiene el estudiante 33
-El trabajo 83 tiene el estudiante 26
-El trabajo 84 tiene el estudiante 59
-El trabajo 85 tiene el estudiante 76
-El trabajo 86 tiene el estudiante 51
-El trabajo 87 tiene el estudiante 32
-El trabajo 88 tiene el estudiante 42
-El trabajo 89 tiene el estudiante 27
-El trabajo 90 tiene el estudiante 99
-El trabajo 91 tiene el estudiante 34
-El trabajo 92 tiene el estudiante 24
-El trabajo 93 tiene el estudiante 40
-El trabajo 94 tiene el estudiante 38
-El trabajo 95 tiene el estudiante 41
-El trabajo 96 tiene el estudiante 50
-El trabajo 97 tiene el estudiante 49
-El trabajo 98 tiene el estudiante 47
-El trabajo 99 tiene el estudiante 35
+El trabajo 22 tiene el estudiante 35
+El trabajo 23 tiene el estudiante 25
+El trabajo 24 tiene el estudiante 85
+El trabajo 25 tiene el estudiante 89
+El trabajo 26 tiene el estudiante 39
+El trabajo 27 tiene el estudiante 60
+El trabajo 28 tiene el estudiante 57
+El trabajo 29 tiene el estudiante 32
+El trabajo 30 tiene el estudiante 40
+El trabajo 31 tiene el estudiante 84
+El trabajo 32 tiene el estudiante 93
+El trabajo 33 tiene el estudiante 16
+El trabajo 34 tiene el estudiante 29
+El trabajo 35 tiene el estudiante 51
+El trabajo 36 tiene el estudiante 15
+El trabajo 37 tiene el estudiante 38
+El trabajo 38 tiene el estudiante 46
+El trabajo 39 tiene el estudiante 24
+El trabajo 40 tiene el estudiante 58
+El trabajo 41 tiene el estudiante 37
+El trabajo 42 tiene el estudiante 98
+El trabajo 43 tiene el estudiante 13
+El trabajo 44 tiene el estudiante 14
+El trabajo 45 tiene el estudiante 69
+El trabajo 46 tiene el estudiante 64
+El trabajo 47 tiene el estudiante 76
+El trabajo 48 tiene el estudiante 41
+El trabajo 49 tiene el estudiante 17
+El trabajo 50 tiene el estudiante 54
+El trabajo 51 tiene el estudiante 79
+El trabajo 52 tiene el estudiante 20
+El trabajo 53 tiene el estudiante 43
+El trabajo 54 tiene el estudiante 3
+El trabajo 55 tiene el estudiante 66
+El trabajo 56 tiene el estudiante 4
+El trabajo 57 tiene el estudiante 18
+El trabajo 58 tiene el estudiante 10
+El trabajo 59 tiene el estudiante 59
+El trabajo 60 tiene el estudiante 1
+El trabajo 61 tiene el estudiante 82
+El trabajo 62 tiene el estudiante 7
+El trabajo 63 tiene el estudiante 92
+El trabajo 64 tiene el estudiante 34
+El trabajo 65 tiene el estudiante 97
+El trabajo 66 tiene el estudiante 22
+El trabajo 67 tiene el estudiante 80
+El trabajo 68 tiene el estudiante 45
+El trabajo 69 tiene el estudiante 8
+El trabajo 70 tiene el estudiante 67
+El trabajo 71 tiene el estudiante 31
+El trabajo 72 tiene el estudiante 96
+El trabajo 73 tiene el estudiante 70
+El trabajo 74 tiene el estudiante 78
+El trabajo 75 tiene el estudiante 53
+El trabajo 76 tiene el estudiante 63
+El trabajo 77 tiene el estudiante 81
+El trabajo 78 tiene el estudiante 5
+El trabajo 79 tiene el estudiante 9
+El trabajo 80 tiene el estudiante 44
+El trabajo 81 tiene el estudiante 65
+El trabajo 82 tiene el estudiante 19
+El trabajo 83 tiene el estudiante 86
+El trabajo 84 tiene el estudiante 36
+El trabajo 85 tiene el estudiante 90
+El trabajo 86 tiene el estudiante 55
+El trabajo 87 tiene el estudiante 26
+El trabajo 88 tiene el estudiante 6
+El trabajo 89 tiene el estudiante 71
+El trabajo 90 tiene el estudiante 68
+El trabajo 91 tiene el estudiante 11
+El trabajo 92 tiene el estudiante 50
+El trabajo 93 tiene el estudiante 99
+El trabajo 94 tiene el estudiante 12
+El trabajo 95 tiene el estudiante 0
+El trabajo 96 tiene el estudiante 95
+El trabajo 97 tiene el estudiante 94
+El trabajo 98 tiene el estudiante 28
+El trabajo 99 tiene el estudiante 91
 	Destruyendo postulaciones...
 	Todos los hilos han terminado.
 Test 1 completado exitosamente.
@@ -229,107 +227,7 @@ Test 2 completado exitosamente.
 Iniciando el test 3... con 100 estudiantes y 100 trabajos.
 	Iniciando postulaciones...
 	Creando hilos para los trabajos...
-El trabajo 1 va a dormir
-El trabajo 0 va a dormir
-El trabajo 4 va a dormir
-El trabajo 3 va a dormir
-El trabajo 2 va a dormir
-El trabajo 7 va a dormir
-El trabajo 5 va a dormir
-El trabajo 8 va a dormir
-El trabajo 12 va a dormir
-El trabajo 10 va a dormir
-El trabajo 9 va a dormir
-El trabajo 11 va a dormir
-El trabajo 22 va a dormir
-El trabajo 15 va a dormir
-El trabajo 26 va a dormir
-El trabajo 16 va a dormir
-El trabajo 27 va a dormir
-El trabajo 35 va a dormir
-El trabajo 36 va a dormir
-El trabajo 32 va a dormir
-El trabajo 38 va a dormir
-El trabajo 6 va a dormir
-El trabajo 39 va a dormir
-El trabajo 13 va a dormir
-El trabajo 40 va a dormir
-El trabajo 31 va a dormir
-El trabajo 34 va a dormir
-El trabajo 50 va a dormir
-El trabajo 19 va a dormir
-El trabajo 20 va a dormir
-El trabajo 24 va a dormir
-El trabajo 23 va a dormir
-El trabajo 14 va a dormir
-El trabajo 18 va a dormir
-El trabajo 51 va a dormir
-El trabajo 53 va a dormir
-El trabajo 21 va a dormir
-El trabajo 25 va a dormir
-El trabajo 54 va a dormir
-El trabajo 48 va a dormir
-El trabajo 17 va a dormir
-El trabajo 29 va a dormir
-El trabajo 37 va a dormir
-El trabajo 33 va a dormir
-El trabajo 77 va a dormir
-El trabajo 60 va a dormir
-El trabajo 78 va a dormir
-El trabajo 30 va a dormir
-El trabajo 75 va a dormir
-El trabajo 72 va a dormir
-El trabajo 28 va a dormir
-El trabajo 64 va a dormir
-El trabajo 73 va a dormir
-El trabajo 67 va a dormir
-El trabajo 80 va a dormir
-El trabajo 70 va a dormir
-El trabajo 45 va a dormir
-El trabajo 42 va a dormir
-El trabajo 79 va a dormir
-El trabajo 81 va a dormir
-El trabajo 76 va a dormir
-El trabajo 49 va a dormir
-El trabajo 46 va a dormir
-El trabajo 69 va a dormir
-El trabajo 41 va a dormir
-El trabajo 47 va a dormir
-El trabajo 44 va a dormir
-El trabajo 52 va a dormir
-El trabajo 82 va a dormir
-El trabajo 58 va a dormir
-El trabajo 59 va a dormir
-El trabajo 55 va a dormir
-El trabajo 56 va a dormir
-El trabajo 43 va a dormir
-El trabajo 68 va a dormir
-El trabajo 92 va a dormir
-El trabajo 61 va a dormir
-El trabajo 91 va a dormir
 	Esperando 5 segundos...
-El trabajo 62 va a dormir
-El trabajo 57 va a dormir
-El trabajo 74 va a dormir
-El trabajo 66 va a dormir
-El trabajo 89 va a dormir
-El trabajo 65 va a dormir
-El trabajo 71 va a dormir
-El trabajo 90 va a dormir
-El trabajo 63 va a dormir
-El trabajo 83 va a dormir
-El trabajo 87 va a dormir
-El trabajo 86 va a dormir
-El trabajo 94 va a dormir
-El trabajo 93 va a dormir
-El trabajo 85 va a dormir
-El trabajo 97 va a dormir
-El trabajo 88 va a dormir
-El trabajo 84 va a dormir
-El trabajo 98 va a dormir
-El trabajo 95 va a dormir
-El trabajo 96 va a dormir
-El trabajo 99 va a dormir
 	Despertando...
 	Creando hilos para las estudiantes...
 Creando hilo de estudiante 0...
@@ -337,7 +235,6 @@ Creando hilo de estudiante 1...
 Creando hilo de estudiante 2...
 Creando hilo de estudiante 3...
 Creando hilo de estudiante 4...
-El estudiente 0 despierta al trabajo 0
 Creando hilo de estudiante 5...
 Creando hilo de estudiante 6...
 Creando hilo de estudiante 7...
@@ -348,62 +245,30 @@ Creando hilo de estudiante 11...
 Creando hilo de estudiante 12...
 Creando hilo de estudiante 13...
 Creando hilo de estudiante 14...
-El estudiente 2 despierta al trabajo 2
-El estudiente 7 despierta al trabajo 7
 Creando hilo de estudiante 15...
-El estudiente 9 despierta al trabajo 9
 Creando hilo de estudiante 16...
 Creando hilo de estudiante 17...
-El estudiente 8 despierta al trabajo 8
-El estudiente 10 despierta al trabajo 10
-El estudiente 4 despierta al trabajo 4
-El estudiente 3 despierta al trabajo 3
 Creando hilo de estudiante 18...
 Creando hilo de estudiante 19...
 Creando hilo de estudiante 20...
 Creando hilo de estudiante 21...
 Creando hilo de estudiante 22...
-El estudiente 11 despierta al trabajo 11
 Creando hilo de estudiante 23...
-El estudiente 16 despierta al trabajo 16
-El estudiente 12 despierta al trabajo 12
-El estudiente 13 despierta al trabajo 13
 Creando hilo de estudiante 24...
 Creando hilo de estudiante 25...
-El estudiente 15 despierta al trabajo 15
-El estudiente 1 despierta al trabajo 1
-El estudiente 14 despierta al trabajo 14
-El estudiente 20 despierta al trabajo 20
 Creando hilo de estudiante 26...
 Creando hilo de estudiante 27...
 Creando hilo de estudiante 28...
 Creando hilo de estudiante 29...
-El estudiente 22 despierta al trabajo 22
-El estudiente 27 despierta al trabajo 27
 Creando hilo de estudiante 30...
-El estudiente 6 despierta al trabajo 6
-El estudiente 5 despierta al trabajo 5
-El estudiente 17 despierta al trabajo 17
 Creando hilo de estudiante 31...
 Creando hilo de estudiante 32...
-El estudiente 29 despierta al trabajo 29
 Creando hilo de estudiante 33...
 Creando hilo de estudiante 34...
-El estudiente 18 despierta al trabajo 18
-El estudiente 31 despierta al trabajo 31
-El estudiente 32 despierta al trabajo 32
-El estudiente 33 despierta al trabajo 33
 Creando hilo de estudiante 35...
-El estudiente 28 despierta al trabajo 28
-El estudiente 19 despierta al trabajo 19
 Creando hilo de estudiante 36...
-El estudiente 34 despierta al trabajo 34
-El estudiente 23 despierta al trabajo 23
-El estudiente 26 despierta al trabajo 26
 Creando hilo de estudiante 37...
 Creando hilo de estudiante 38...
-El estudiente 24 despierta al trabajo 24
-El estudiente 21 despierta al trabajo 21
 Creando hilo de estudiante 39...
 Creando hilo de estudiante 40...
 Creando hilo de estudiante 41...
@@ -443,10 +308,6 @@ Creando hilo de estudiante 74...
 Creando hilo de estudiante 75...
 Creando hilo de estudiante 76...
 Creando hilo de estudiante 77...
-El estudiente 74 despierta al trabajo 74
-El estudiente 76 despierta al trabajo 76
-El estudiente 75 despierta al trabajo 75
-El estudiente 25 despierta al trabajo 25
 Creando hilo de estudiante 78...
 Creando hilo de estudiante 79...
 Creando hilo de estudiante 80...
@@ -464,75 +325,12 @@ Creando hilo de estudiante 91...
 Creando hilo de estudiante 92...
 Creando hilo de estudiante 93...
 Creando hilo de estudiante 94...
-El estudiente 73 despierta al trabajo 73
-El estudiente 90 despierta al trabajo 90
 Creando hilo de estudiante 95...
 Creando hilo de estudiante 96...
 Creando hilo de estudiante 97...
 Creando hilo de estudiante 98...
 Creando hilo de estudiante 99...
-Uniendo estudiante 0Uniendo estudiante 1Uniendo estudiante 2Uniendo estudiante 3Uniendo estudiante 4Uniendo estudiante 5Uniendo estudiante 6Uniendo estudiante 7Uniendo estudiante 8Uniendo estudiante 9Uniendo estudiante 10Uniendo estudiante 11Uniendo estudiante 12Uniendo estudiante 13Uniendo estudiante 14Uniendo estudiante 15Uniendo estudiante 16Uniendo estudiante 17Uniendo estudiante 18Uniendo estudiante 19Uniendo estudiante 20Uniendo estudiante 21Uniendo estudiante 22Uniendo estudiante 23Uniendo estudiante 24Uniendo estudiante 25Uniendo estudiante 26Uniendo estudiante 27Uniendo estudiante 28Uniendo estudiante 29Uniendo estudiante 30El estudiente 80 despierta al trabajo 80
-El estudiente 82 despierta al trabajo 82
-El estudiente 36 despierta al trabajo 36
-El estudiente 37 despierta al trabajo 37
-El estudiente 30 despierta al trabajo 30
-El estudiente 92 despierta al trabajo 92
-El estudiente 60 despierta al trabajo 60
-Uniendo estudiante 31El estudiente 91 despierta al trabajo 91
-El estudiente 95 despierta al trabajo 95
-El estudiente 40 despierta al trabajo 40
-Uniendo estudiante 32Uniendo estudiante 33El estudiente 35 despierta al trabajo 35
-Uniendo estudiante 34El estudiente 38 despierta al trabajo 38
-El estudiente 43 despierta al trabajo 43
-El estudiente 48 despierta al trabajo 48
-Uniendo estudiante 35El estudiente 41 despierta al trabajo 41
-Uniendo estudiante 36Uniendo estudiante 37Uniendo estudiante 38Uniendo estudiante 39El estudiente 64 despierta al trabajo 64
-El estudiente 42 despierta al trabajo 42
-El estudiente 46 despierta al trabajo 46
-El estudiente 49 despierta al trabajo 49
-El estudiente 84 despierta al trabajo 84
-El estudiente 67 despierta al trabajo 67
-El estudiente 68 despierta al trabajo 68
-El estudiente 65 despierta al trabajo 65
-El estudiente 85 despierta al trabajo 85
-El estudiente 45 despierta al trabajo 45
-El estudiente 71 despierta al trabajo 71
-El estudiente 69 despierta al trabajo 69
-El estudiente 51 despierta al trabajo 51
-El estudiente 53 despierta al trabajo 53
-El estudiente 86 despierta al trabajo 86
-El estudiente 63 despierta al trabajo 63
-El estudiente 70 despierta al trabajo 70
-El estudiente 93 despierta al trabajo 93
-El estudiente 39 despierta al trabajo 39
-El estudiente 77 despierta al trabajo 77
-El estudiente 66 despierta al trabajo 66
-El estudiente 88 despierta al trabajo 88
-El estudiente 72 despierta al trabajo 72
-El estudiente 99 despierta al trabajo 99
-El estudiente 50 despierta al trabajo 50
-El estudiente 44 despierta al trabajo 44
-El estudiente 94 despierta al trabajo 94
-El estudiente 81 despierta al trabajo 81
-El estudiente 47 despierta al trabajo 47
-El estudiente 55 despierta al trabajo 55
-El estudiente 59 despierta al trabajo 59
-El estudiente 56 despierta al trabajo 56
-El estudiente 79 despierta al trabajo 79
-El estudiente 78 despierta al trabajo 78
-El estudiente 83 despierta al trabajo 83
-El estudiente 54 despierta al trabajo 54
-El estudiente 52 despierta al trabajo 52
-El estudiente 89 despierta al trabajo 89
-Uniendo estudiante 40Uniendo estudiante 41Uniendo estudiante 42Uniendo estudiante 43Uniendo estudiante 44El estudiente 87 despierta al trabajo 87
-El estudiente 98 despierta al trabajo 98
-El estudiente 57 despierta al trabajo 57
-El estudiente 58 despierta al trabajo 58
-El estudiente 61 despierta al trabajo 61
-El estudiente 62 despierta al trabajo 62
-El estudiente 96 despierta al trabajo 96
-Uniendo estudiante 45Uniendo estudiante 46Uniendo estudiante 47Uniendo estudiante 48Uniendo estudiante 49Uniendo estudiante 50Uniendo estudiante 51El estudiente 97 despierta al trabajo 97
-Uniendo estudiante 52Uniendo estudiante 53Uniendo estudiante 54Uniendo estudiante 55Uniendo estudiante 56Uniendo estudiante 57Uniendo estudiante 58Uniendo estudiante 59Uniendo estudiante 60Uniendo estudiante 61Uniendo estudiante 62Uniendo estudiante 63Uniendo estudiante 64Uniendo estudiante 65Uniendo estudiante 66Uniendo estudiante 67Uniendo estudiante 68Uniendo estudiante 69Uniendo estudiante 70Uniendo estudiante 71Uniendo estudiante 72Uniendo estudiante 73Uniendo estudiante 74Uniendo estudiante 75Uniendo estudiante 76Uniendo estudiante 77Uniendo estudiante 78Uniendo estudiante 79Uniendo estudiante 80Uniendo estudiante 81Uniendo estudiante 82Uniendo estudiante 83Uniendo estudiante 84Uniendo estudiante 85Uniendo estudiante 86Uniendo estudiante 87Uniendo estudiante 88Uniendo estudiante 89Uniendo estudiante 90Uniendo estudiante 91Uniendo estudiante 92Uniendo estudiante 93Uniendo estudiante 94Uniendo estudiante 95Uniendo estudiante 96Uniendo estudiante 97Uniendo estudiante 98Uniendo estudiante 99	Todos los hilos de estudiantes han terminado.
+	Todos los hilos de estudiantes han terminado.
 	Todos los hilos de trabajos han terminado.
 	Destruyendo postulaciones...
 	Todos los hilos de trabajos han terminado.
@@ -568,209 +366,207 @@ Iniciando el test 1... con 100 estudiantes y 100 trabajos.
 	Esperando 5 segundos...
 	Despertando...
 	Creando hilos para los trabajos...
-Estudiante 37 ha conseguido el trabajo 14.
-Estudiante 76 ha conseguido el trabajo 9.
-Estudiante 51 ha conseguido el trabajo 12.
-Estudiante 74 ha conseguido el trabajo 1.
-Estudiante 92 ha conseguido el trabajo 5.
-Estudiante 52 ha conseguido el trabajo 6.
-Estudiante 73 ha conseguido el trabajo 4.
-Estudiante 42 ha conseguido el trabajo 7.
-Estudiante 32 ha conseguido el trabajo 58.
-Estudiante 0 ha conseguido el trabajo 0.
-Estudiante 72 ha conseguido el trabajo 13.
-Estudiante 85 ha conseguido el trabajo 69.
-Estudiante 69 ha conseguido el trabajo 20.
-Estudiante 86 ha conseguido el trabajo 38.
-Estudiante 87 ha conseguido el trabajo 2.
-Estudiante 27 ha conseguido el trabajo 31.
-Estudiante 94 ha conseguido el trabajo 26.
-Estudiante 16 ha conseguido el trabajo 68.
-Estudiante 56 ha conseguido el trabajo 44.
-Estudiante 78 ha conseguido el trabajo 87.
-Estudiante 93 ha conseguido el trabajo 37.
-Estudiante 49 ha conseguido el trabajo 99.
-Estudiante 66 ha conseguido el trabajo 8.
-Estudiante 95 ha conseguido el trabajo 81.
-Estudiante 83 ha conseguido el trabajo 94.
-Estudiante 79 ha conseguido el trabajo 21.
-Estudiante 67 ha conseguido el trabajo 90.
-Estudiante 40 ha conseguido el trabajo 47.
-Estudiante 65 ha conseguido el trabajo 34.
-Estudiante 81 ha conseguido el trabajo 33.
-Estudiante 48 ha conseguido el trabajo 77.
-Estudiante 8 ha conseguido el trabajo 76.
-Estudiante 12 ha conseguido el trabajo 71.
-Estudiante 41 ha conseguido el trabajo 70.
-Estudiante 15 ha conseguido el trabajo 55.
-Estudiante 30 ha conseguido el trabajo 22.
-Estudiante 57 ha conseguido el trabajo 88.
-Estudiante 25 ha conseguido el trabajo 92.
-Estudiante 96 ha conseguido el trabajo 96.
-Estudiante 9 ha conseguido el trabajo 48.
-Estudiante 21 ha conseguido el trabajo 17.
-Estudiante 7 ha conseguido el trabajo 95.
-Estudiante 31 ha conseguido el trabajo 40.
-Estudiante 23 ha conseguido el trabajo 75.
-Estudiante 18 ha conseguido el trabajo 61.
-Estudiante 61 ha conseguido el trabajo 53.
-Estudiante 59 ha conseguido el trabajo 83.
-Estudiante 70 ha conseguido el trabajo 32.
-El trabajo 74 va a dormir
-Estudiante 20 ha conseguido el trabajo 56.
-Estudiante 38 ha conseguido el trabajo 15.
-Estudiante 88 ha conseguido el trabajo 73.
-Estudiante 11 ha conseguido el trabajo 62.
-Estudiante 91 ha conseguido el trabajo 52.
-Estudiante 1 ha conseguido el trabajo 63.
-Estudiante 39 ha conseguido el trabajo 39.
-Estudiante 26 ha conseguido el trabajo 66.
-Estudiante 29 ha conseguido el trabajo 89.
-Estudiante 47 ha conseguido el trabajo 57.
-Estudiante 34 ha conseguido el trabajo 93.
-Estudiante 54 ha conseguido el trabajo 27.
-Estudiante 3 ha conseguido el trabajo 59.
-Estudiante 19 ha conseguido el trabajo 72.
-Estudiante 63 ha conseguido el trabajo 24.
-Estudiante 6 ha conseguido el trabajo 97.
-Estudiante 80 ha conseguido el trabajo 25.
-Estudiante 58 ha conseguido el trabajo 79.
-Estudiante 45 ha conseguido el trabajo 60.
-Estudiante 43 ha conseguido el trabajo 54.
-Estudiante 24 ha conseguido el trabajo 46.
-Estudiante 90 ha conseguido el trabajo 42.
-Estudiante 55 ha conseguido el trabajo 91.
-Estudiante 14 ha conseguido el trabajo 86.
-Estudiante 46 ha conseguido el trabajo 78.
-Estudiante 50 ha conseguido el trabajo 84.
-Estudiante 71 ha conseguido el trabajo 28.
-Estudiante 68 ha conseguido el trabajo 23.
-Estudiante 82 ha conseguido el trabajo 3.
-Estudiante 44 ha conseguido el trabajo 50.
-Estudiante 4 ha conseguido el trabajo 43.
-Estudiante 77 ha conseguido el trabajo 98.
-Estudiante 60 ha conseguido el trabajo 11.
+Estudiante 87 ha conseguido el trabajo 8.
+Estudiante 74 ha conseguido el trabajo 43.
+Estudiante 84 ha conseguido el trabajo 77.
+Estudiante 72 ha conseguido el trabajo 42.
+Estudiante 60 ha conseguido el trabajo 4.
+Estudiante 58 ha conseguido el trabajo 80.
+Estudiante 67 ha conseguido el trabajo 7.
+Estudiante 28 ha conseguido el trabajo 89.
+Estudiante 49 ha conseguido el trabajo 37.
+Estudiante 23 ha conseguido el trabajo 84.
+Estudiante 70 ha conseguido el trabajo 79.
+Estudiante 36 ha conseguido el trabajo 59.
+Estudiante 42 ha conseguido el trabajo 98.
+Estudiante 93 ha conseguido el trabajo 39.
+Estudiante 22 ha conseguido el trabajo 78.
+Estudiante 62 ha conseguido el trabajo 70.
+Estudiante 94 ha conseguido el trabajo 93.
+Estudiante 57 ha conseguido el trabajo 66.
+Estudiante 97 ha conseguido el trabajo 81.
+Estudiante 24 ha conseguido el trabajo 45.
+Estudiante 91 ha conseguido el trabajo 1.
+Estudiante 1 ha conseguido el trabajo 0.
+Estudiante 80 ha conseguido el trabajo 29.
+Estudiante 85 ha conseguido el trabajo 20.
 Estudiante 35 ha conseguido el trabajo 67.
-Estudiante 5 ha conseguido el trabajo 85.
-Estudiante 36 ha conseguido el trabajo 35.
-Estudiante 53 ha conseguido el trabajo 82.
-Estudiante 2 ha conseguido el trabajo 64.
-Estudiante 64 ha conseguido el trabajo 29.
-Estudiante 75 ha conseguido el trabajo 51.
-Estudiante 22 ha conseguido el trabajo 41.
-Estudiante 89 ha conseguido el trabajo 10.
-Estudiante 10 ha conseguido el trabajo 49.
-Estudiante 62 ha conseguido el trabajo 19.
-Estudiante 98 ha conseguido el trabajo 36.
-Estudiante 13 ha conseguido el trabajo 16.
-Estudiante 28 ha conseguido el trabajo 18.
-Estudiante 17 ha conseguido el trabajo 45.
-Estudiante 84 ha conseguido el trabajo 65.
-Estudiante 97 ha conseguido el trabajo 80.
-Estudiante 33 ha conseguido el trabajo 30.
-El estudiente 99 despierta al trabajo 74
-Estudiante 99 ha conseguido el trabajo 74.
+Estudiante 73 ha conseguido el trabajo 6.
+Estudiante 32 ha conseguido el trabajo 41.
+Estudiante 25 ha conseguido el trabajo 54.
+Estudiante 81 ha conseguido el trabajo 90.
+Estudiante 33 ha conseguido el trabajo 83.
+Estudiante 64 ha conseguido el trabajo 25.
+Estudiante 48 ha conseguido el trabajo 99.
+Estudiante 37 ha conseguido el trabajo 51.
+Estudiante 79 ha conseguido el trabajo 11.
+Estudiante 78 ha conseguido el trabajo 61.
+Estudiante 75 ha conseguido el trabajo 47.
+Estudiante 31 ha conseguido el trabajo 76.
+Estudiante 29 ha conseguido el trabajo 10.
+Estudiante 90 ha conseguido el trabajo 27.
+Estudiante 34 ha conseguido el trabajo 57.
+Estudiante 92 ha conseguido el trabajo 21.
+Estudiante 44 ha conseguido el trabajo 86.
+Estudiante 26 ha conseguido el trabajo 35.
+Estudiante 89 ha conseguido el trabajo 3.
+Estudiante 82 ha conseguido el trabajo 18.
+Estudiante 86 ha conseguido el trabajo 94.
+Estudiante 53 ha conseguido el trabajo 64.
+Estudiante 83 ha conseguido el trabajo 92.
+Estudiante 43 ha conseguido el trabajo 23.
+Estudiante 50 ha conseguido el trabajo 53.
+Estudiante 95 ha conseguido el trabajo 75.
+Estudiante 10 ha conseguido el trabajo 68.
+Estudiante 7 ha conseguido el trabajo 28.
+Estudiante 30 ha conseguido el trabajo 26.
+Estudiante 13 ha conseguido el trabajo 33.
+Estudiante 27 ha conseguido el trabajo 85.
+Estudiante 8 ha conseguido el trabajo 22.
+Estudiante 96 ha conseguido el trabajo 91.
+Estudiante 63 ha conseguido el trabajo 58.
+Estudiante 69 ha conseguido el trabajo 15.
+Estudiante 9 ha conseguido el trabajo 31.
+Estudiante 39 ha conseguido el trabajo 38.
+Estudiante 66 ha conseguido el trabajo 49.
+Estudiante 12 ha conseguido el trabajo 13.
+Estudiante 21 ha conseguido el trabajo 96.
+Estudiante 68 ha conseguido el trabajo 88.
+Estudiante 52 ha conseguido el trabajo 9.
+Estudiante 19 ha conseguido el trabajo 12.
+Estudiante 20 ha conseguido el trabajo 24.
+Estudiante 11 ha conseguido el trabajo 55.
+Estudiante 46 ha conseguido el trabajo 46.
+Estudiante 55 ha conseguido el trabajo 17.
+Estudiante 45 ha conseguido el trabajo 40.
+Estudiante 51 ha conseguido el trabajo 52.
+Estudiante 18 ha conseguido el trabajo 50.
+Estudiante 77 ha conseguido el trabajo 82.
+Estudiante 16 ha conseguido el trabajo 44.
+Estudiante 61 ha conseguido el trabajo 72.
+Estudiante 71 ha conseguido el trabajo 65.
+Estudiante 56 ha conseguido el trabajo 30.
+Estudiante 38 ha conseguido el trabajo 62.
+Estudiante 15 ha conseguido el trabajo 32.
+Estudiante 6 ha conseguido el trabajo 71.
+Estudiante 2 ha conseguido el trabajo 95.
+Estudiante 54 ha conseguido el trabajo 97.
+Estudiante 88 ha conseguido el trabajo 87.
+Estudiante 0 ha conseguido el trabajo 60.
+Estudiante 4 ha conseguido el trabajo 74.
+Estudiante 98 ha conseguido el trabajo 19.
+Estudiante 5 ha conseguido el trabajo 34.
+Estudiante 3 ha conseguido el trabajo 14.
+Estudiante 40 ha conseguido el trabajo 63.
+Estudiante 41 ha conseguido el trabajo 73.
+Estudiante 47 ha conseguido el trabajo 36.
+Estudiante 14 ha conseguido el trabajo 69.
+Estudiante 17 ha conseguido el trabajo 48.
+Estudiante 65 ha conseguido el trabajo 2.
+Estudiante 76 ha conseguido el trabajo 5.
+Estudiante 59 ha conseguido el trabajo 56.
+Estudiante 99 ha conseguido el trabajo 16.
 	Todos los hilos de estudiantes han terminado.
-El trabajo 0 tiene el estudiante 0
-El trabajo 1 tiene el estudiante 74
-El trabajo 2 tiene el estudiante 87
-El trabajo 3 tiene el estudiante 82
-El trabajo 4 tiene el estudiante 73
-El trabajo 5 tiene el estudiante 92
-El trabajo 6 tiene el estudiante 52
-El trabajo 7 tiene el estudiante 42
-El trabajo 8 tiene el estudiante 66
-El trabajo 9 tiene el estudiante 76
-El trabajo 10 tiene el estudiante 89
-El trabajo 11 tiene el estudiante 60
-El trabajo 12 tiene el estudiante 51
-El trabajo 13 tiene el estudiante 72
-El trabajo 14 tiene el estudiante 37
-El trabajo 15 tiene el estudiante 38
-El trabajo 16 tiene el estudiante 13
-El trabajo 17 tiene el estudiante 21
-El trabajo 18 tiene el estudiante 28
-El trabajo 19 tiene el estudiante 62
-El trabajo 20 tiene el estudiante 69
-El trabajo 21 tiene el estudiante 79
-El trabajo 22 tiene el estudiante 30
-El trabajo 23 tiene el estudiante 68
-El trabajo 24 tiene el estudiante 63
-El trabajo 25 tiene el estudiante 80
-El trabajo 26 tiene el estudiante 94
-El trabajo 27 tiene el estudiante 54
-El trabajo 28 tiene el estudiante 71
-El trabajo 29 tiene el estudiante 64
-El trabajo 30 tiene el estudiante 33
-El trabajo 31 tiene el estudiante 27
-El trabajo 32 tiene el estudiante 70
-El trabajo 33 tiene el estudiante 81
-El trabajo 34 tiene el estudiante 65
-El trabajo 35 tiene el estudiante 36
-El trabajo 36 tiene el estudiante 98
-El trabajo 37 tiene el estudiante 93
-El trabajo 38 tiene el estudiante 86
-El trabajo 39 tiene el estudiante 39
-El trabajo 40 tiene el estudiante 31
-El trabajo 41 tiene el estudiante 22
-El trabajo 42 tiene el estudiante 90
-El trabajo 43 tiene el estudiante 4
-El trabajo 44 tiene el estudiante 56
-El trabajo 45 tiene el estudiante 17
-El trabajo 46 tiene el estudiante 24
-El trabajo 47 tiene el estudiante 40
-El trabajo 48 tiene el estudiante 9
-El trabajo 49 tiene el estudiante 10
-El trabajo 50 tiene el estudiante 44
-El trabajo 51 tiene el estudiante 75
-El trabajo 52 tiene el estudiante 91
-El trabajo 53 tiene el estudiante 61
-El trabajo 54 tiene el estudiante 43
-El trabajo 55 tiene el estudiante 15
-El trabajo 56 tiene el estudiante 20
-El trabajo 57 tiene el estudiante 47
-El trabajo 58 tiene el estudiante 32
-El trabajo 59 tiene el estudiante 3
-El trabajo 60 tiene el estudiante 45
-El trabajo 61 tiene el estudiante 18
-El trabajo 62 tiene el estudiante 11
-El trabajo 63 tiene el estudiante 1
-El trabajo 64 tiene el estudiante 2
-El trabajo 65 tiene el estudiante 84
-El trabajo 66 tiene el estudiante 26
+El trabajo 0 tiene el estudiante 1
+El trabajo 1 tiene el estudiante 91
+El trabajo 2 tiene el estudiante 65
+El trabajo 3 tiene el estudiante 89
+El trabajo 4 tiene el estudiante 60
+El trabajo 5 tiene el estudiante 76
+El trabajo 6 tiene el estudiante 73
+El trabajo 7 tiene el estudiante 67
+El trabajo 8 tiene el estudiante 87
+El trabajo 9 tiene el estudiante 52
+El trabajo 10 tiene el estudiante 29
+El trabajo 11 tiene el estudiante 79
+El trabajo 12 tiene el estudiante 19
+El trabajo 13 tiene el estudiante 12
+El trabajo 14 tiene el estudiante 3
+El trabajo 15 tiene el estudiante 69
+El trabajo 16 tiene el estudiante 99
+El trabajo 17 tiene el estudiante 55
+El trabajo 18 tiene el estudiante 82
+El trabajo 19 tiene el estudiante 98
+El trabajo 20 tiene el estudiante 85
+El trabajo 21 tiene el estudiante 92
+El trabajo 22 tiene el estudiante 8
+El trabajo 23 tiene el estudiante 43
+El trabajo 24 tiene el estudiante 20
+El trabajo 25 tiene el estudiante 64
+El trabajo 26 tiene el estudiante 30
+El trabajo 27 tiene el estudiante 90
+El trabajo 28 tiene el estudiante 7
+El trabajo 29 tiene el estudiante 80
+El trabajo 30 tiene el estudiante 56
+El trabajo 31 tiene el estudiante 9
+El trabajo 32 tiene el estudiante 15
+El trabajo 33 tiene el estudiante 13
+El trabajo 34 tiene el estudiante 5
+El trabajo 35 tiene el estudiante 26
+El trabajo 36 tiene el estudiante 47
+El trabajo 37 tiene el estudiante 49
+El trabajo 38 tiene el estudiante 39
+El trabajo 39 tiene el estudiante 93
+El trabajo 40 tiene el estudiante 45
+El trabajo 41 tiene el estudiante 32
+El trabajo 42 tiene el estudiante 72
+El trabajo 43 tiene el estudiante 74
+El trabajo 44 tiene el estudiante 16
+El trabajo 45 tiene el estudiante 24
+El trabajo 46 tiene el estudiante 46
+El trabajo 47 tiene el estudiante 75
+El trabajo 48 tiene el estudiante 17
+El trabajo 49 tiene el estudiante 66
+El trabajo 50 tiene el estudiante 18
+El trabajo 51 tiene el estudiante 37
+El trabajo 52 tiene el estudiante 51
+El trabajo 53 tiene el estudiante 50
+El trabajo 54 tiene el estudiante 25
+El trabajo 55 tiene el estudiante 11
+El trabajo 56 tiene el estudiante 59
+El trabajo 57 tiene el estudiante 34
+El trabajo 58 tiene el estudiante 63
+El trabajo 59 tiene el estudiante 36
+El trabajo 60 tiene el estudiante 0
+El trabajo 61 tiene el estudiante 78
+El trabajo 62 tiene el estudiante 38
+El trabajo 63 tiene el estudiante 40
+El trabajo 64 tiene el estudiante 53
+El trabajo 65 tiene el estudiante 71
+El trabajo 66 tiene el estudiante 57
 El trabajo 67 tiene el estudiante 35
-El trabajo 68 tiene el estudiante 16
-El trabajo 69 tiene el estudiante 85
-El trabajo 70 tiene el estudiante 41
-El trabajo 71 tiene el estudiante 12
-El trabajo 72 tiene el estudiante 19
-El trabajo 73 tiene el estudiante 88
-El trabajo 74 tiene el estudiante 99
-El trabajo 75 tiene el estudiante 23
-El trabajo 76 tiene el estudiante 8
-El trabajo 77 tiene el estudiante 48
-El trabajo 78 tiene el estudiante 46
-El trabajo 79 tiene el estudiante 58
-El trabajo 80 tiene el estudiante 97
-El trabajo 81 tiene el estudiante 95
-El trabajo 82 tiene el estudiante 53
-El trabajo 83 tiene el estudiante 59
-El trabajo 84 tiene el estudiante 50
-El trabajo 85 tiene el estudiante 5
-El trabajo 86 tiene el estudiante 14
-El trabajo 87 tiene el estudiante 78
-El trabajo 88 tiene el estudiante 57
-El trabajo 89 tiene el estudiante 29
-El trabajo 90 tiene el estudiante 67
-El trabajo 91 tiene el estudiante 55
-El trabajo 92 tiene el estudiante 25
-El trabajo 93 tiene el estudiante 34
-El trabajo 94 tiene el estudiante 83
-El trabajo 95 tiene el estudiante 7
-El trabajo 96 tiene el estudiante 96
-El trabajo 97 tiene el estudiante 6
-El trabajo 98 tiene el estudiante 77
-El trabajo 99 tiene el estudiante 49
+El trabajo 68 tiene el estudiante 10
+El trabajo 69 tiene el estudiante 14
+El trabajo 70 tiene el estudiante 62
+El trabajo 71 tiene el estudiante 6
+El trabajo 72 tiene el estudiante 61
+El trabajo 73 tiene el estudiante 41
+El trabajo 74 tiene el estudiante 4
+El trabajo 75 tiene el estudiante 95
+El trabajo 76 tiene el estudiante 31
+El trabajo 77 tiene el estudiante 84
+El trabajo 78 tiene el estudiante 22
+El trabajo 79 tiene el estudiante 70
+El trabajo 80 tiene el estudiante 58
+El trabajo 81 tiene el estudiante 97
+El trabajo 82 tiene el estudiante 77
+El trabajo 83 tiene el estudiante 33
+El trabajo 84 tiene el estudiante 23
+El trabajo 85 tiene el estudiante 27
+El trabajo 86 tiene el estudiante 44
+El trabajo 87 tiene el estudiante 88
+El trabajo 88 tiene el estudiante 68
+El trabajo 89 tiene el estudiante 28
+El trabajo 90 tiene el estudiante 81
+El trabajo 91 tiene el estudiante 96
+El trabajo 92 tiene el estudiante 83
+El trabajo 93 tiene el estudiante 94
+El trabajo 94 tiene el estudiante 86
+El trabajo 95 tiene el estudiante 2
+El trabajo 96 tiene el estudiante 21
+El trabajo 97 tiene el estudiante 54
+El trabajo 98 tiene el estudiante 42
+El trabajo 99 tiene el estudiante 48
 	Destruyendo postulaciones...
 	Todos los hilos han terminado.
 Test 1 completado exitosamente.
@@ -788,106 +584,6 @@ Iniciando el test 3... con 100 estudiantes y 100 trabajos.
 	Iniciando postulaciones...
 	Creando hilos para los trabajos...
 	Esperando 5 segundos...
-El trabajo 3 va a dormir
-El trabajo 4 va a dormir
-El trabajo 2 va a dormir
-El trabajo 5 va a dormir
-El trabajo 1 va a dormir
-El trabajo 36 va a dormir
-El trabajo 37 va a dormir
-El trabajo 35 va a dormir
-El trabajo 99 va a dormir
-El trabajo 38 va a dormir
-El trabajo 98 va a dormir
-El trabajo 31 va a dormir
-El trabajo 39 va a dormir
-El trabajo 0 va a dormir
-El trabajo 40 va a dormir
-El trabajo 54 va a dormir
-El trabajo 30 va a dormir
-El trabajo 47 va a dormir
-El trabajo 57 va a dormir
-El trabajo 84 va a dormir
-El trabajo 25 va a dormir
-El trabajo 93 va a dormir
-El trabajo 42 va a dormir
-El trabajo 28 va a dormir
-El trabajo 33 va a dormir
-El trabajo 34 va a dormir
-El trabajo 26 va a dormir
-El trabajo 23 va a dormir
-El trabajo 27 va a dormir
-El trabajo 32 va a dormir
-El trabajo 46 va a dormir
-El trabajo 56 va a dormir
-El trabajo 75 va a dormir
-El trabajo 53 va a dormir
-El trabajo 49 va a dormir
-El trabajo 67 va a dormir
-El trabajo 89 va a dormir
-El trabajo 91 va a dormir
-El trabajo 66 va a dormir
-El trabajo 68 va a dormir
-El trabajo 77 va a dormir
-El trabajo 48 va a dormir
-El trabajo 69 va a dormir
-El trabajo 74 va a dormir
-El trabajo 50 va a dormir
-El trabajo 45 va a dormir
-El trabajo 51 va a dormir
-El trabajo 94 va a dormir
-El trabajo 90 va a dormir
-El trabajo 52 va a dormir
-El trabajo 44 va a dormir
-El trabajo 86 va a dormir
-El trabajo 96 va a dormir
-El trabajo 70 va a dormir
-El trabajo 79 va a dormir
-El trabajo 64 va a dormir
-El trabajo 62 va a dormir
-El trabajo 65 va a dormir
-El trabajo 82 va a dormir
-El trabajo 63 va a dormir
-El trabajo 88 va a dormir
-El trabajo 17 va a dormir
-El trabajo 11 va a dormir
-El trabajo 14 va a dormir
-El trabajo 19 va a dormir
-El trabajo 22 va a dormir
-El trabajo 12 va a dormir
-El trabajo 7 va a dormir
-El trabajo 20 va a dormir
-El trabajo 18 va a dormir
-El trabajo 13 va a dormir
-El trabajo 97 va a dormir
-El trabajo 92 va a dormir
-El trabajo 9 va a dormir
-El trabajo 85 va a dormir
-El trabajo 41 va a dormir
-El trabajo 73 va a dormir
-El trabajo 29 va a dormir
-El trabajo 81 va a dormir
-El trabajo 76 va a dormir
-El trabajo 6 va a dormir
-El trabajo 80 va a dormir
-El trabajo 78 va a dormir
-El trabajo 43 va a dormir
-El trabajo 72 va a dormir
-El trabajo 55 va a dormir
-El trabajo 58 va a dormir
-El trabajo 95 va a dormir
-El trabajo 87 va a dormir
-El trabajo 71 va a dormir
-El trabajo 60 va a dormir
-El trabajo 83 va a dormir
-El trabajo 24 va a dormir
-El trabajo 16 va a dormir
-El trabajo 8 va a dormir
-El trabajo 15 va a dormir
-El trabajo 21 va a dormir
-El trabajo 10 va a dormir
-El trabajo 59 va a dormir
-El trabajo 61 va a dormir
 	Despertando...
 	Creando hilos para las estudiantes...
 Creando hilo de estudiante 0...
@@ -990,107 +686,7 @@ Creando hilo de estudiante 96...
 Creando hilo de estudiante 97...
 Creando hilo de estudiante 98...
 Creando hilo de estudiante 99...
-Uniendo estudiante 0El estudiente 0 despierta al trabajo 0
-El estudiente 2 despierta al trabajo 2
-El estudiente 19 despierta al trabajo 19
-El estudiente 62 despierta al trabajo 62
-El estudiente 13 despierta al trabajo 13
-El estudiente 1 despierta al trabajo 1
-El estudiente 14 despierta al trabajo 14
-El estudiente 99 despierta al trabajo 99
-El estudiente 42 despierta al trabajo 42
-El estudiente 79 despierta al trabajo 79
-El estudiente 68 despierta al trabajo 68
-El estudiente 67 despierta al trabajo 67
-El estudiente 47 despierta al trabajo 47
-El estudiente 60 despierta al trabajo 60
-El estudiente 8 despierta al trabajo 8
-El estudiente 37 despierta al trabajo 37
-El estudiente 56 despierta al trabajo 56
-El estudiente 39 despierta al trabajo 39
-El estudiente 26 despierta al trabajo 26
-El estudiente 36 despierta al trabajo 36
-El estudiente 58 despierta al trabajo 58
-El estudiente 65 despierta al trabajo 65
-El estudiente 64 despierta al trabajo 64
-El estudiente 11 despierta al trabajo 11
-El estudiente 94 despierta al trabajo 94
-El estudiente 48 despierta al trabajo 48
-El estudiente 85 despierta al trabajo 85
-El estudiente 6 despierta al trabajo 6
-El estudiente 35 despierta al trabajo 35
-El estudiente 40 despierta al trabajo 40
-El estudiente 78 despierta al trabajo 78
-El estudiente 27 despierta al trabajo 27
-El estudiente 70 despierta al trabajo 70
-El estudiente 92 despierta al trabajo 92
-El estudiente 66 despierta al trabajo 66
-El estudiente 31 despierta al trabajo 31
-El estudiente 96 despierta al trabajo 96
-El estudiente 87 despierta al trabajo 87
-El estudiente 18 despierta al trabajo 18
-El estudiente 55 despierta al trabajo 55
-El estudiente 90 despierta al trabajo 90
-El estudiente 72 despierta al trabajo 72
-El estudiente 23 despierta al trabajo 23
-El estudiente 50 despierta al trabajo 50
-El estudiente 10 despierta al trabajo 10
-El estudiente 53 despierta al trabajo 53
-El estudiente 32 despierta al trabajo 32
-El estudiente 22 despierta al trabajo 22
-El estudiente 44 despierta al trabajo 44
-El estudiente 21 despierta al trabajo 21
-El estudiente 97 despierta al trabajo 97
-El estudiente 89 despierta al trabajo 89
-El estudiente 29 despierta al trabajo 29
-El estudiente 46 despierta al trabajo 46
-El estudiente 30 despierta al trabajo 30
-El estudiente 52 despierta al trabajo 52
-El estudiente 45 despierta al trabajo 45
-El estudiente 59 despierta al trabajo 59
-El estudiente 61 despierta al trabajo 61
-El estudiente 16 despierta al trabajo 16
-El estudiente 73 despierta al trabajo 73
-El estudiente 82 despierta al trabajo 82
-El estudiente 80 despierta al trabajo 80
-El estudiente 75 despierta al trabajo 75
-El estudiente 69 despierta al trabajo 69
-El estudiente 41 despierta al trabajo 41
-El estudiente 57 despierta al trabajo 57
-El estudiente 43 despierta al trabajo 43
-El estudiente 33 despierta al trabajo 33
-El estudiente 12 despierta al trabajo 12
-El estudiente 25 despierta al trabajo 25
-El estudiente 81 despierta al trabajo 81
-El estudiente 83 despierta al trabajo 83
-El estudiente 86 despierta al trabajo 86
-El estudiente 51 despierta al trabajo 51
-El estudiente 98 despierta al trabajo 98
-El estudiente 76 despierta al trabajo 76
-El estudiente 15 despierta al trabajo 15
-El estudiente 38 despierta al trabajo 38
-El estudiente 28 despierta al trabajo 28
-El estudiente 7 despierta al trabajo 7
-El estudiente 74 despierta al trabajo 74
-El estudiente 17 despierta al trabajo 17
-El estudiente 24 despierta al trabajo 24
-El estudiente 93 despierta al trabajo 93
-El estudiente 49 despierta al trabajo 49
-El estudiente 88 despierta al trabajo 88
-El estudiente 91 despierta al trabajo 91
-El estudiente 9 despierta al trabajo 9
-El estudiente 77 despierta al trabajo 77
-El estudiente 71 despierta al trabajo 71
-El estudiente 95 despierta al trabajo 95
-El estudiente 5 despierta al trabajo 5
-El estudiente 3 despierta al trabajo 3
-El estudiente 84 despierta al trabajo 84
-El estudiente 34 despierta al trabajo 34
-El estudiente 63 despierta al trabajo 63
-El estudiente 20 despierta al trabajo 20
-El estudiente 4 despierta al trabajo 4
-El estudiente 54 despierta al trabajo 54
-Uniendo estudiante 1Uniendo estudiante 2Uniendo estudiante 3Uniendo estudiante 4Uniendo estudiante 5Uniendo estudiante 6Uniendo estudiante 7Uniendo estudiante 8Uniendo estudiante 9Uniendo estudiante 10Uniendo estudiante 11Uniendo estudiante 12Uniendo estudiante 13Uniendo estudiante 14Uniendo estudiante 15Uniendo estudiante 16Uniendo estudiante 17Uniendo estudiante 18Uniendo estudiante 19Uniendo estudiante 20Uniendo estudiante 21Uniendo estudiante 22Uniendo estudiante 23Uniendo estudiante 24Uniendo estudiante 25Uniendo estudiante 26Uniendo estudiante 27Uniendo estudiante 28Uniendo estudiante 29Uniendo estudiante 30Uniendo estudiante 31Uniendo estudiante 32Uniendo estudiante 33Uniendo estudiante 34Uniendo estudiante 35Uniendo estudiante 36Uniendo estudiante 37Uniendo estudiante 38Uniendo estudiante 39Uniendo estudiante 40Uniendo estudiante 41Uniendo estudiante 42Uniendo estudiante 43Uniendo estudiante 44Uniendo estudiante 45Uniendo estudiante 46Uniendo estudiante 47Uniendo estudiante 48Uniendo estudiante 49Uniendo estudiante 50Uniendo estudiante 51Uniendo estudiante 52Uniendo estudiante 53Uniendo estudiante 54Uniendo estudiante 55Uniendo estudiante 56Uniendo estudiante 57Uniendo estudiante 58Uniendo estudiante 59Uniendo estudiante 60Uniendo estudiante 61Uniendo estudiante 62Uniendo estudiante 63Uniendo estudiante 64Uniendo estudiante 65Uniendo estudiante 66Uniendo estudiante 67Uniendo estudiante 68Uniendo estudiante 69Uniendo estudiante 70Uniendo estudiante 71Uniendo estudiante 72Uniendo estudiante 73Uniendo estudiante 74Uniendo estudiante 75Uniendo estudiante 76Uniendo estudiante 77Uniendo estudiante 78Uniendo estudiante 79Uniendo estudiante 80Uniendo estudiante 81Uniendo estudiante 82Uniendo estudiante 83Uniendo estudiante 84Uniendo estudiante 85Uniendo estudiante 86Uniendo estudiante 87Uniendo estudiante 88Uniendo estudiante 89Uniendo estudiante 90Uniendo estudiante 91Uniendo estudiante 92Uniendo estudiante 93Uniendo estudiante 94Uniendo estudiante 95Uniendo estudiante 96Uniendo estudiante 97Uniendo estudiante 98Uniendo estudiante 99	Todos los hilos de estudiantes han terminado.
+	Todos los hilos de estudiantes han terminado.
 	Todos los hilos de trabajos han terminado.
 	Destruyendo postulaciones...
 	Todos los hilos de trabajos han terminado.
@@ -1101,12 +697,6 @@ Iniciando el test 4... con 100 estudiantes y 100 trabajos.
 	Esperando 5 segundos...
 	Despertando...
 	Creando hilos para los trabajos...
-El trabajo 30 va a dormir
-El trabajo 33 va a dormir
-El trabajo 48 va a dormir
-El estudiente 48 despierta al trabajo 48
-El estudiente 33 despierta al trabajo 33
-El estudiente 30 despierta al trabajo 30
 	Todos los hilos de estudiantes han terminado.
 	Destruyendo postulaciones...
 	Todos los hilos de trabajos han terminado.
@@ -1132,208 +722,206 @@ Iniciando el test 1... con 100 estudiantes y 100 trabajos.
 	Esperando 5 segundos...
 	Despertando...
 	Creando hilos para los trabajos...
-Estudiante 0 ha conseguido el trabajo 0.
-Estudiante 98 ha conseguido el trabajo 1.
-Estudiante 97 ha conseguido el trabajo 2.
-Estudiante 96 ha conseguido el trabajo 3.
-Estudiante 95 ha conseguido el trabajo 4.
-Estudiante 94 ha conseguido el trabajo 5.
-Estudiante 93 ha conseguido el trabajo 6.
-Estudiante 92 ha conseguido el trabajo 7.
-Estudiante 36 ha conseguido el trabajo 8.
-Estudiante 35 ha conseguido el trabajo 9.
-Estudiante 34 ha conseguido el trabajo 10.
-Estudiante 33 ha conseguido el trabajo 11.
-Estudiante 32 ha conseguido el trabajo 12.
-Estudiante 31 ha conseguido el trabajo 13.
-Estudiante 30 ha conseguido el trabajo 16.
-Estudiante 29 ha conseguido el trabajo 14.
-Estudiante 28 ha conseguido el trabajo 18.
-Estudiante 27 ha conseguido el trabajo 17.
-Estudiante 26 ha conseguido el trabajo 15.
-Estudiante 25 ha conseguido el trabajo 20.
-Estudiante 24 ha conseguido el trabajo 24.
-Estudiante 23 ha conseguido el trabajo 25.
-Estudiante 22 ha conseguido el trabajo 26.
-Estudiante 21 ha conseguido el trabajo 19.
-Estudiante 20 ha conseguido el trabajo 27.
-Estudiante 19 ha conseguido el trabajo 21.
-Estudiante 18 ha conseguido el trabajo 22.
-Estudiante 17 ha conseguido el trabajo 23.
-Estudiante 16 ha conseguido el trabajo 28.
-Estudiante 40 ha conseguido el trabajo 29.
-Estudiante 68 ha conseguido el trabajo 30.
-Estudiante 67 ha conseguido el trabajo 33.
-Estudiante 66 ha conseguido el trabajo 36.
-Estudiante 65 ha conseguido el trabajo 37.
-Estudiante 64 ha conseguido el trabajo 34.
-Estudiante 63 ha conseguido el trabajo 35.
-Estudiante 62 ha conseguido el trabajo 38.
-Estudiante 61 ha conseguido el trabajo 41.
-Estudiante 60 ha conseguido el trabajo 39.
-Estudiante 59 ha conseguido el trabajo 40.
-Estudiante 58 ha conseguido el trabajo 32.
+Estudiante 4 ha conseguido el trabajo 4.
+Estudiante 11 ha conseguido el trabajo 5.
+Estudiante 15 ha conseguido el trabajo 0.
+Estudiante 0 ha conseguido el trabajo 3.
+Estudiante 63 ha conseguido el trabajo 1.
+Estudiante 71 ha conseguido el trabajo 2.
+Estudiante 9 ha conseguido el trabajo 10.
+Estudiante 70 ha conseguido el trabajo 17.
+Estudiante 69 ha conseguido el trabajo 11.
+Estudiante 24 ha conseguido el trabajo 12.
+Estudiante 68 ha conseguido el trabajo 13.
+Estudiante 20 ha conseguido el trabajo 14.
+Estudiante 23 ha conseguido el trabajo 6.
+Estudiante 37 ha conseguido el trabajo 19.
+Estudiante 35 ha conseguido el trabajo 8.
+Estudiante 36 ha conseguido el trabajo 7.
+Estudiante 55 ha conseguido el trabajo 20.
+Estudiante 38 ha conseguido el trabajo 21.
+Estudiante 52 ha conseguido el trabajo 18.
+Estudiante 40 ha conseguido el trabajo 22.
+Estudiante 45 ha conseguido el trabajo 16.
+Estudiante 60 ha conseguido el trabajo 15.
+Estudiante 49 ha conseguido el trabajo 23.
+Estudiante 33 ha conseguido el trabajo 9.
+Estudiante 39 ha conseguido el trabajo 24.
+Estudiante 50 ha conseguido el trabajo 25.
+Estudiante 46 ha conseguido el trabajo 26.
+Estudiante 41 ha conseguido el trabajo 28.
+Estudiante 34 ha conseguido el trabajo 27.
+Estudiante 44 ha conseguido el trabajo 30.
 Estudiante 57 ha conseguido el trabajo 31.
-Estudiante 55 ha conseguido el trabajo 42.
-Estudiante 54 ha conseguido el trabajo 43.
-Estudiante 53 ha conseguido el trabajo 46.
-Estudiante 52 ha conseguido el trabajo 45.
-Estudiante 56 ha conseguido el trabajo 47.
-Estudiante 51 ha conseguido el trabajo 44.
-Estudiante 47 ha conseguido el trabajo 50.
-Estudiante 49 ha conseguido el trabajo 48.
-Estudiante 48 ha conseguido el trabajo 49.
-Estudiante 50 ha conseguido el trabajo 51.
-Estudiante 46 ha conseguido el trabajo 52.
-Estudiante 91 ha conseguido el trabajo 53.
-Estudiante 90 ha conseguido el trabajo 55.
-Estudiante 89 ha conseguido el trabajo 54.
-Estudiante 88 ha conseguido el trabajo 58.
-Estudiante 87 ha conseguido el trabajo 57.
-Estudiante 86 ha conseguido el trabajo 59.
-Estudiante 85 ha conseguido el trabajo 56.
-Estudiante 84 ha conseguido el trabajo 60.
-Estudiante 83 ha conseguido el trabajo 61.
-Estudiante 82 ha conseguido el trabajo 63.
-Estudiante 81 ha conseguido el trabajo 67.
-Estudiante 80 ha conseguido el trabajo 68.
-Estudiante 79 ha conseguido el trabajo 62.
-Estudiante 78 ha conseguido el trabajo 66.
-Estudiante 77 ha conseguido el trabajo 65.
-Estudiante 76 ha conseguido el trabajo 69.
-Estudiante 75 ha conseguido el trabajo 64.
-Estudiante 74 ha conseguido el trabajo 71.
-Estudiante 73 ha conseguido el trabajo 72.
-Estudiante 71 ha conseguido el trabajo 73.
-Estudiante 70 ha conseguido el trabajo 74.
-Estudiante 72 ha conseguido el trabajo 70.
-Estudiante 69 ha conseguido el trabajo 75.
-Estudiante 37 ha conseguido el trabajo 76.
-Estudiante 38 ha conseguido el trabajo 77.
-Estudiante 39 ha conseguido el trabajo 78.
-Estudiante 8 ha conseguido el trabajo 82.
-Estudiante 13 ha conseguido el trabajo 83.
-Estudiante 45 ha conseguido el trabajo 81.
-Estudiante 44 ha conseguido el trabajo 80.
-Estudiante 43 ha conseguido el trabajo 79.
-Estudiante 42 ha conseguido el trabajo 85.
-Estudiante 41 ha conseguido el trabajo 84.
-Estudiante 15 ha conseguido el trabajo 86.
-Estudiante 14 ha conseguido el trabajo 87.
-Estudiante 9 ha conseguido el trabajo 90.
-Estudiante 10 ha conseguido el trabajo 91.
-Estudiante 11 ha conseguido el trabajo 89.
-Estudiante 12 ha conseguido el trabajo 88.
-Estudiante 7 ha conseguido el trabajo 92.
-Estudiante 4 ha conseguido el trabajo 93.
-Estudiante 6 ha conseguido el trabajo 94.
-Estudiante 1 ha conseguido el trabajo 95.
-Estudiante 3 ha conseguido el trabajo 96.
-Estudiante 2 ha conseguido el trabajo 97.
-Estudiante 5 ha conseguido el trabajo 98.
-El trabajo 99 va a dormir
-El estudiente 99 despierta al trabajo 99
+Estudiante 43 ha conseguido el trabajo 32.
+Estudiante 58 ha conseguido el trabajo 29.
+Estudiante 42 ha conseguido el trabajo 33.
+Estudiante 48 ha conseguido el trabajo 35.
+Estudiante 56 ha conseguido el trabajo 40.
+Estudiante 62 ha conseguido el trabajo 36.
+Estudiante 31 ha conseguido el trabajo 41.
+Estudiante 59 ha conseguido el trabajo 42.
+Estudiante 32 ha conseguido el trabajo 43.
+Estudiante 53 ha conseguido el trabajo 37.
+Estudiante 54 ha conseguido el trabajo 38.
+Estudiante 47 ha conseguido el trabajo 39.
+Estudiante 51 ha conseguido el trabajo 34.
+Estudiante 6 ha conseguido el trabajo 44.
+Estudiante 72 ha conseguido el trabajo 45.
+Estudiante 73 ha conseguido el trabajo 48.
+Estudiante 22 ha conseguido el trabajo 46.
+Estudiante 14 ha conseguido el trabajo 49.
+Estudiante 67 ha conseguido el trabajo 50.
+Estudiante 10 ha conseguido el trabajo 55.
+Estudiante 66 ha conseguido el trabajo 56.
+Estudiante 74 ha conseguido el trabajo 47.
+Estudiante 65 ha conseguido el trabajo 66.
+Estudiante 18 ha conseguido el trabajo 51.
+Estudiante 13 ha conseguido el trabajo 54.
+Estudiante 16 ha conseguido el trabajo 53.
+Estudiante 64 ha conseguido el trabajo 67.
+Estudiante 98 ha conseguido el trabajo 65.
+Estudiante 97 ha conseguido el trabajo 63.
+Estudiante 96 ha conseguido el trabajo 60.
+Estudiante 19 ha conseguido el trabajo 58.
+Estudiante 95 ha conseguido el trabajo 61.
+Estudiante 30 ha conseguido el trabajo 64.
+Estudiante 61 ha conseguido el trabajo 59.
+Estudiante 94 ha conseguido el trabajo 57.
+Estudiante 93 ha conseguido el trabajo 62.
+Estudiante 92 ha conseguido el trabajo 68.
+Estudiante 91 ha conseguido el trabajo 52.
+Estudiante 90 ha conseguido el trabajo 69.
+Estudiante 89 ha conseguido el trabajo 71.
+Estudiante 88 ha conseguido el trabajo 74.
+Estudiante 87 ha conseguido el trabajo 75.
+Estudiante 86 ha conseguido el trabajo 76.
+Estudiante 85 ha conseguido el trabajo 77.
+Estudiante 84 ha conseguido el trabajo 78.
+Estudiante 83 ha conseguido el trabajo 79.
+Estudiante 82 ha conseguido el trabajo 80.
+Estudiante 81 ha conseguido el trabajo 81.
+Estudiante 76 ha conseguido el trabajo 86.
+Estudiante 80 ha conseguido el trabajo 82.
+Estudiante 75 ha conseguido el trabajo 87.
+Estudiante 79 ha conseguido el trabajo 83.
+Estudiante 78 ha conseguido el trabajo 84.
+Estudiante 77 ha conseguido el trabajo 85.
+Estudiante 17 ha conseguido el trabajo 70.
+Estudiante 5 ha conseguido el trabajo 73.
+Estudiante 8 ha conseguido el trabajo 88.
+Estudiante 12 ha conseguido el trabajo 72.
+Estudiante 21 ha conseguido el trabajo 89.
+Estudiante 25 ha conseguido el trabajo 90.
+Estudiante 26 ha conseguido el trabajo 91.
+Estudiante 27 ha conseguido el trabajo 94.
+Estudiante 28 ha conseguido el trabajo 95.
+Estudiante 29 ha conseguido el trabajo 96.
+Estudiante 1 ha conseguido el trabajo 97.
+Estudiante 2 ha conseguido el trabajo 98.
+Estudiante 3 ha conseguido el trabajo 92.
+Estudiante 7 ha conseguido el trabajo 93.
 Estudiante 99 ha conseguido el trabajo 99.
 	Todos los hilos de estudiantes han terminado.
-El trabajo 0 tiene el estudiante 0
-El trabajo 1 tiene el estudiante 98
-El trabajo 2 tiene el estudiante 97
-El trabajo 3 tiene el estudiante 96
-El trabajo 4 tiene el estudiante 95
-El trabajo 5 tiene el estudiante 94
-El trabajo 6 tiene el estudiante 93
-El trabajo 7 tiene el estudiante 92
-El trabajo 8 tiene el estudiante 36
-El trabajo 9 tiene el estudiante 35
-El trabajo 10 tiene el estudiante 34
-El trabajo 11 tiene el estudiante 33
-El trabajo 12 tiene el estudiante 32
-El trabajo 13 tiene el estudiante 31
-El trabajo 14 tiene el estudiante 29
-El trabajo 15 tiene el estudiante 26
-El trabajo 16 tiene el estudiante 30
-El trabajo 17 tiene el estudiante 27
-El trabajo 18 tiene el estudiante 28
-El trabajo 19 tiene el estudiante 21
-El trabajo 20 tiene el estudiante 25
-El trabajo 21 tiene el estudiante 19
-El trabajo 22 tiene el estudiante 18
-El trabajo 23 tiene el estudiante 17
-El trabajo 24 tiene el estudiante 24
-El trabajo 25 tiene el estudiante 23
-El trabajo 26 tiene el estudiante 22
-El trabajo 27 tiene el estudiante 20
-El trabajo 28 tiene el estudiante 16
-El trabajo 29 tiene el estudiante 40
-El trabajo 30 tiene el estudiante 68
+El trabajo 0 tiene el estudiante 15
+El trabajo 1 tiene el estudiante 63
+El trabajo 2 tiene el estudiante 71
+El trabajo 3 tiene el estudiante 0
+El trabajo 4 tiene el estudiante 4
+El trabajo 5 tiene el estudiante 11
+El trabajo 6 tiene el estudiante 23
+El trabajo 7 tiene el estudiante 36
+El trabajo 8 tiene el estudiante 35
+El trabajo 9 tiene el estudiante 33
+El trabajo 10 tiene el estudiante 9
+El trabajo 11 tiene el estudiante 69
+El trabajo 12 tiene el estudiante 24
+El trabajo 13 tiene el estudiante 68
+El trabajo 14 tiene el estudiante 20
+El trabajo 15 tiene el estudiante 60
+El trabajo 16 tiene el estudiante 45
+El trabajo 17 tiene el estudiante 70
+El trabajo 18 tiene el estudiante 52
+El trabajo 19 tiene el estudiante 37
+El trabajo 20 tiene el estudiante 55
+El trabajo 21 tiene el estudiante 38
+El trabajo 22 tiene el estudiante 40
+El trabajo 23 tiene el estudiante 49
+El trabajo 24 tiene el estudiante 39
+El trabajo 25 tiene el estudiante 50
+El trabajo 26 tiene el estudiante 46
+El trabajo 27 tiene el estudiante 34
+El trabajo 28 tiene el estudiante 41
+El trabajo 29 tiene el estudiante 58
+El trabajo 30 tiene el estudiante 44
 El trabajo 31 tiene el estudiante 57
-El trabajo 32 tiene el estudiante 58
-El trabajo 33 tiene el estudiante 67
-El trabajo 34 tiene el estudiante 64
-El trabajo 35 tiene el estudiante 63
-El trabajo 36 tiene el estudiante 66
-El trabajo 37 tiene el estudiante 65
-El trabajo 38 tiene el estudiante 62
-El trabajo 39 tiene el estudiante 60
-El trabajo 40 tiene el estudiante 59
-El trabajo 41 tiene el estudiante 61
-El trabajo 42 tiene el estudiante 55
-El trabajo 43 tiene el estudiante 54
-El trabajo 44 tiene el estudiante 51
-El trabajo 45 tiene el estudiante 52
-El trabajo 46 tiene el estudiante 53
-El trabajo 47 tiene el estudiante 56
-El trabajo 48 tiene el estudiante 49
-El trabajo 49 tiene el estudiante 48
-El trabajo 50 tiene el estudiante 47
-El trabajo 51 tiene el estudiante 50
-El trabajo 52 tiene el estudiante 46
-El trabajo 53 tiene el estudiante 91
-El trabajo 54 tiene el estudiante 89
-El trabajo 55 tiene el estudiante 90
-El trabajo 56 tiene el estudiante 85
-El trabajo 57 tiene el estudiante 87
-El trabajo 58 tiene el estudiante 88
-El trabajo 59 tiene el estudiante 86
-El trabajo 60 tiene el estudiante 84
-El trabajo 61 tiene el estudiante 83
-El trabajo 62 tiene el estudiante 79
-El trabajo 63 tiene el estudiante 82
-El trabajo 64 tiene el estudiante 75
-El trabajo 65 tiene el estudiante 77
-El trabajo 66 tiene el estudiante 78
-El trabajo 67 tiene el estudiante 81
-El trabajo 68 tiene el estudiante 80
-El trabajo 69 tiene el estudiante 76
-El trabajo 70 tiene el estudiante 72
-El trabajo 71 tiene el estudiante 74
-El trabajo 72 tiene el estudiante 73
-El trabajo 73 tiene el estudiante 71
-El trabajo 74 tiene el estudiante 70
-El trabajo 75 tiene el estudiante 69
-El trabajo 76 tiene el estudiante 37
-El trabajo 77 tiene el estudiante 38
-El trabajo 78 tiene el estudiante 39
-El trabajo 79 tiene el estudiante 43
-El trabajo 80 tiene el estudiante 44
-El trabajo 81 tiene el estudiante 45
-El trabajo 82 tiene el estudiante 8
-El trabajo 83 tiene el estudiante 13
-El trabajo 84 tiene el estudiante 41
-El trabajo 85 tiene el estudiante 42
-El trabajo 86 tiene el estudiante 15
-El trabajo 87 tiene el estudiante 14
-El trabajo 88 tiene el estudiante 12
-El trabajo 89 tiene el estudiante 11
-El trabajo 90 tiene el estudiante 9
-El trabajo 91 tiene el estudiante 10
-El trabajo 92 tiene el estudiante 7
-El trabajo 93 tiene el estudiante 4
-El trabajo 94 tiene el estudiante 6
-El trabajo 95 tiene el estudiante 1
-El trabajo 96 tiene el estudiante 3
-El trabajo 97 tiene el estudiante 2
-El trabajo 98 tiene el estudiante 5
+El trabajo 32 tiene el estudiante 43
+El trabajo 33 tiene el estudiante 42
+El trabajo 34 tiene el estudiante 51
+El trabajo 35 tiene el estudiante 48
+El trabajo 36 tiene el estudiante 62
+El trabajo 37 tiene el estudiante 53
+El trabajo 38 tiene el estudiante 54
+El trabajo 39 tiene el estudiante 47
+El trabajo 40 tiene el estudiante 56
+El trabajo 41 tiene el estudiante 31
+El trabajo 42 tiene el estudiante 59
+El trabajo 43 tiene el estudiante 32
+El trabajo 44 tiene el estudiante 6
+El trabajo 45 tiene el estudiante 72
+El trabajo 46 tiene el estudiante 22
+El trabajo 47 tiene el estudiante 74
+El trabajo 48 tiene el estudiante 73
+El trabajo 49 tiene el estudiante 14
+El trabajo 50 tiene el estudiante 67
+El trabajo 51 tiene el estudiante 18
+El trabajo 52 tiene el estudiante 91
+El trabajo 53 tiene el estudiante 16
+El trabajo 54 tiene el estudiante 13
+El trabajo 55 tiene el estudiante 10
+El trabajo 56 tiene el estudiante 66
+El trabajo 57 tiene el estudiante 94
+El trabajo 58 tiene el estudiante 19
+El trabajo 59 tiene el estudiante 61
+El trabajo 60 tiene el estudiante 96
+El trabajo 61 tiene el estudiante 95
+El trabajo 62 tiene el estudiante 93
+El trabajo 63 tiene el estudiante 97
+El trabajo 64 tiene el estudiante 30
+El trabajo 65 tiene el estudiante 98
+El trabajo 66 tiene el estudiante 65
+El trabajo 67 tiene el estudiante 64
+El trabajo 68 tiene el estudiante 92
+El trabajo 69 tiene el estudiante 90
+El trabajo 70 tiene el estudiante 17
+El trabajo 71 tiene el estudiante 89
+El trabajo 72 tiene el estudiante 12
+El trabajo 73 tiene el estudiante 5
+El trabajo 74 tiene el estudiante 88
+El trabajo 75 tiene el estudiante 87
+El trabajo 76 tiene el estudiante 86
+El trabajo 77 tiene el estudiante 85
+El trabajo 78 tiene el estudiante 84
+El trabajo 79 tiene el estudiante 83
+El trabajo 80 tiene el estudiante 82
+El trabajo 81 tiene el estudiante 81
+El trabajo 82 tiene el estudiante 80
+El trabajo 83 tiene el estudiante 79
+El trabajo 84 tiene el estudiante 78
+El trabajo 85 tiene el estudiante 77
+El trabajo 86 tiene el estudiante 76
+El trabajo 87 tiene el estudiante 75
+El trabajo 88 tiene el estudiante 8
+El trabajo 89 tiene el estudiante 21
+El trabajo 90 tiene el estudiante 25
+El trabajo 91 tiene el estudiante 26
+El trabajo 92 tiene el estudiante 3
+El trabajo 93 tiene el estudiante 7
+El trabajo 94 tiene el estudiante 27
+El trabajo 95 tiene el estudiante 28
+El trabajo 96 tiene el estudiante 29
+El trabajo 97 tiene el estudiante 1
+El trabajo 98 tiene el estudiante 2
 El trabajo 99 tiene el estudiante 99
 	Destruyendo postulaciones...
 	Todos los hilos han terminado.
@@ -1351,107 +939,7 @@ Test 2 completado exitosamente.
 Iniciando el test 3... con 100 estudiantes y 100 trabajos.
 	Iniciando postulaciones...
 	Creando hilos para los trabajos...
-El trabajo 3 va a dormir
-El trabajo 4 va a dormir
-El trabajo 5 va a dormir
-El trabajo 0 va a dormir
-El trabajo 7 va a dormir
-El trabajo 8 va a dormir
-El trabajo 11 va a dormir
-El trabajo 12 va a dormir
-El trabajo 13 va a dormir
-El trabajo 23 va a dormir
-El trabajo 24 va a dormir
-El trabajo 2 va a dormir
-El trabajo 1 va a dormir
-El trabajo 22 va a dormir
-El trabajo 25 va a dormir
-El trabajo 20 va a dormir
-El trabajo 16 va a dormir
-El trabajo 21 va a dormir
-El trabajo 18 va a dormir
-El trabajo 19 va a dormir
-El trabajo 15 va a dormir
-El trabajo 14 va a dormir
-El trabajo 17 va a dormir
-El trabajo 10 va a dormir
-El trabajo 9 va a dormir
-El trabajo 26 va a dormir
-El trabajo 27 va a dormir
-El trabajo 29 va a dormir
-El trabajo 6 va a dormir
-El trabajo 28 va a dormir
-El trabajo 37 va a dormir
-El trabajo 35 va a dormir
-El trabajo 36 va a dormir
-El trabajo 34 va a dormir
-El trabajo 33 va a dormir
-El trabajo 32 va a dormir
-El trabajo 31 va a dormir
-El trabajo 30 va a dormir
-El trabajo 39 va a dormir
-El trabajo 41 va a dormir
-El trabajo 38 va a dormir
-El trabajo 40 va a dormir
-El trabajo 48 va a dormir
-El trabajo 47 va a dormir
-El trabajo 46 va a dormir
-El trabajo 45 va a dormir
-El trabajo 44 va a dormir
-El trabajo 43 va a dormir
-El trabajo 49 va a dormir
-El trabajo 50 va a dormir
-El trabajo 51 va a dormir
-El trabajo 42 va a dormir
-El trabajo 57 va a dormir
-El trabajo 58 va a dormir
-El trabajo 56 va a dormir
-El trabajo 55 va a dormir
-El trabajo 54 va a dormir
-El trabajo 53 va a dormir
-El trabajo 59 va a dormir
-El trabajo 60 va a dormir
-El trabajo 61 va a dormir
-El trabajo 52 va a dormir
-El trabajo 71 va a dormir
-El trabajo 70 va a dormir
-El trabajo 69 va a dormir
-El trabajo 67 va a dormir
-El trabajo 68 va a dormir
-El trabajo 66 va a dormir
-El trabajo 65 va a dormir
-El trabajo 64 va a dormir
-El trabajo 63 va a dormir
-El trabajo 62 va a dormir
-El trabajo 73 va a dormir
-El trabajo 74 va a dormir
-El trabajo 75 va a dormir
-El trabajo 89 va a dormir
-El trabajo 72 va a dormir
-El trabajo 90 va a dormir
-El trabajo 91 va a dormir
-El trabajo 76 va a dormir
-El trabajo 77 va a dormir
-El trabajo 78 va a dormir
 	Esperando 5 segundos...
-El trabajo 81 va a dormir
-El trabajo 82 va a dormir
-El trabajo 83 va a dormir
-El trabajo 84 va a dormir
-El trabajo 85 va a dormir
-El trabajo 86 va a dormir
-El trabajo 87 va a dormir
-El trabajo 88 va a dormir
-El trabajo 92 va a dormir
-El trabajo 93 va a dormir
-El trabajo 94 va a dormir
-El trabajo 95 va a dormir
-El trabajo 96 va a dormir
-El trabajo 97 va a dormir
-El trabajo 80 va a dormir
-El trabajo 79 va a dormir
-El trabajo 99 va a dormir
-El trabajo 98 va a dormir
 	Despertando...
 	Creando hilos para las estudiantes...
 Creando hilo de estudiante 0...
@@ -1467,20 +955,7 @@ Creando hilo de estudiante 9...
 Creando hilo de estudiante 10...
 Creando hilo de estudiante 11...
 Creando hilo de estudiante 12...
-El estudiente 7 despierta al trabajo 7
-El estudiente 8 despierta al trabajo 8
-El estudiente 9 despierta al trabajo 9
-El estudiente 10 despierta al trabajo 10
-El estudiente 11 despierta al trabajo 11
-El estudiente 4 despierta al trabajo 4
-El estudiente 5 despierta al trabajo 5
 Creando hilo de estudiante 13...
-El estudiente 0 despierta al trabajo 0
-El estudiente 2 despierta al trabajo 2
-El estudiente 3 despierta al trabajo 3
-El estudiente 6 despierta al trabajo 6
-El estudiente 12 despierta al trabajo 12
-El estudiente 1 despierta al trabajo 1
 Creando hilo de estudiante 14...
 Creando hilo de estudiante 15...
 Creando hilo de estudiante 16...
@@ -1530,62 +1005,10 @@ Creando hilo de estudiante 59...
 Creando hilo de estudiante 60...
 Creando hilo de estudiante 61...
 Creando hilo de estudiante 62...
-El estudiente 15 despierta al trabajo 15
 Creando hilo de estudiante 63...
-El estudiente 16 despierta al trabajo 16
 Creando hilo de estudiante 64...
-El estudiente 26 despierta al trabajo 26
-El estudiente 27 despierta al trabajo 27
-El estudiente 28 despierta al trabajo 28
-El estudiente 29 despierta al trabajo 29
-El estudiente 30 despierta al trabajo 30
-El estudiente 37 despierta al trabajo 37
-El estudiente 60 despierta al trabajo 60
-El estudiente 33 despierta al trabajo 33
-El estudiente 35 despierta al trabajo 35
-El estudiente 32 despierta al trabajo 32
-El estudiente 31 despierta al trabajo 31
-El estudiente 34 despierta al trabajo 34
-El estudiente 36 despierta al trabajo 36
-El estudiente 62 despierta al trabajo 62
-El estudiente 63 despierta al trabajo 63
-El estudiente 61 despierta al trabajo 61
-El estudiente 25 despierta al trabajo 25
-El estudiente 52 despierta al trabajo 52
-El estudiente 55 despierta al trabajo 55
-El estudiente 51 despierta al trabajo 51
-El estudiente 49 despierta al trabajo 49
-El estudiente 54 despierta al trabajo 54
-El estudiente 48 despierta al trabajo 48
-El estudiente 53 despierta al trabajo 53
-El estudiente 43 despierta al trabajo 43
-El estudiente 46 despierta al trabajo 46
-El estudiente 39 despierta al trabajo 39
-El estudiente 50 despierta al trabajo 50
-El estudiente 56 despierta al trabajo 56
-El estudiente 44 despierta al trabajo 44
-El estudiente 42 despierta al trabajo 42
-El estudiente 59 despierta al trabajo 59
-El estudiente 58 despierta al trabajo 58
-El estudiente 14 despierta al trabajo 14
-El estudiente 17 despierta al trabajo 17
-El estudiente 13 despierta al trabajo 13
-El estudiente 20 despierta al trabajo 20
-El estudiente 45 despierta al trabajo 45
-El estudiente 40 despierta al trabajo 40
-El estudiente 38 despierta al trabajo 38
-El estudiente 47 despierta al trabajo 47
-El estudiente 57 despierta al trabajo 57
-El estudiente 41 despierta al trabajo 41
-El estudiente 22 despierta al trabajo 22
-El estudiente 23 despierta al trabajo 23
 Creando hilo de estudiante 65...
-El estudiente 18 despierta al trabajo 18
-El estudiente 19 despierta al trabajo 19
-El estudiente 24 despierta al trabajo 24
-El estudiente 21 despierta al trabajo 21
 Creando hilo de estudiante 66...
-El estudiente 64 despierta al trabajo 64
 Creando hilo de estudiante 67...
 Creando hilo de estudiante 68...
 Creando hilo de estudiante 69...
@@ -1619,42 +1042,7 @@ Creando hilo de estudiante 96...
 Creando hilo de estudiante 97...
 Creando hilo de estudiante 98...
 Creando hilo de estudiante 99...
-Uniendo estudiante 0Uniendo estudiante 1Uniendo estudiante 2Uniendo estudiante 3Uniendo estudiante 4Uniendo estudiante 5Uniendo estudiante 6Uniendo estudiante 7Uniendo estudiante 8Uniendo estudiante 9Uniendo estudiante 10Uniendo estudiante 11Uniendo estudiante 12Uniendo estudiante 13Uniendo estudiante 14Uniendo estudiante 15Uniendo estudiante 16Uniendo estudiante 17Uniendo estudiante 18Uniendo estudiante 19Uniendo estudiante 20Uniendo estudiante 21Uniendo estudiante 22Uniendo estudiante 23Uniendo estudiante 24Uniendo estudiante 25Uniendo estudiante 26Uniendo estudiante 27Uniendo estudiante 28Uniendo estudiante 29Uniendo estudiante 30Uniendo estudiante 31Uniendo estudiante 32Uniendo estudiante 33Uniendo estudiante 34Uniendo estudiante 35Uniendo estudiante 36Uniendo estudiante 37Uniendo estudiante 38Uniendo estudiante 39Uniendo estudiante 40Uniendo estudiante 41Uniendo estudiante 42Uniendo estudiante 43Uniendo estudiante 44Uniendo estudiante 45Uniendo estudiante 46Uniendo estudiante 47Uniendo estudiante 48Uniendo estudiante 49Uniendo estudiante 50Uniendo estudiante 51Uniendo estudiante 52Uniendo estudiante 53Uniendo estudiante 54Uniendo estudiante 55Uniendo estudiante 56Uniendo estudiante 57Uniendo estudiante 58Uniendo estudiante 59Uniendo estudiante 60Uniendo estudiante 61Uniendo estudiante 62Uniendo estudiante 63Uniendo estudiante 64El estudiente 65 despierta al trabajo 65
-El estudiente 66 despierta al trabajo 66
-El estudiente 67 despierta al trabajo 67
-Uniendo estudiante 65Uniendo estudiante 66Uniendo estudiante 67Uniendo estudiante 68El estudiente 68 despierta al trabajo 68
-Uniendo estudiante 69El estudiente 69 despierta al trabajo 69
-Uniendo estudiante 70El estudiente 70 despierta al trabajo 70
-Uniendo estudiante 71El estudiente 71 despierta al trabajo 71
-El estudiente 72 despierta al trabajo 72
-El estudiente 73 despierta al trabajo 73
-El estudiente 74 despierta al trabajo 74
-El estudiente 75 despierta al trabajo 75
-El estudiente 76 despierta al trabajo 76
-El estudiente 77 despierta al trabajo 77
-El estudiente 78 despierta al trabajo 78
-El estudiente 79 despierta al trabajo 79
-Uniendo estudiante 72Uniendo estudiante 73Uniendo estudiante 74Uniendo estudiante 75Uniendo estudiante 76Uniendo estudiante 77Uniendo estudiante 78Uniendo estudiante 79Uniendo estudiante 80El estudiente 80 despierta al trabajo 80
-Uniendo estudiante 81El estudiente 81 despierta al trabajo 81
-Uniendo estudiante 82El estudiente 82 despierta al trabajo 82
-Uniendo estudiante 83El estudiente 83 despierta al trabajo 83
-Uniendo estudiante 84El estudiente 84 despierta al trabajo 84
-Uniendo estudiante 85El estudiente 85 despierta al trabajo 85
-Uniendo estudiante 86El estudiente 86 despierta al trabajo 86
-Uniendo estudiante 87El estudiente 87 despierta al trabajo 87
-Uniendo estudiante 88El estudiente 88 despierta al trabajo 88
-Uniendo estudiante 89El estudiente 89 despierta al trabajo 89
-El estudiente 90 despierta al trabajo 90
-El estudiente 91 despierta al trabajo 91
-El estudiente 92 despierta al trabajo 92
-El estudiente 93 despierta al trabajo 93
-El estudiente 94 despierta al trabajo 94
-El estudiente 95 despierta al trabajo 95
-El estudiente 96 despierta al trabajo 96
-El estudiente 97 despierta al trabajo 97
-El estudiente 98 despierta al trabajo 98
-El estudiente 99 despierta al trabajo 99
-Uniendo estudiante 90Uniendo estudiante 91Uniendo estudiante 92Uniendo estudiante 93Uniendo estudiante 94Uniendo estudiante 95Uniendo estudiante 96Uniendo estudiante 97Uniendo estudiante 98Uniendo estudiante 99	Todos los hilos de estudiantes han terminado.
+	Todos los hilos de estudiantes han terminado.
 	Todos los hilos de trabajos han terminado.
 	Destruyendo postulaciones...
 	Todos los hilos de trabajos han terminado.
@@ -1690,208 +1078,206 @@ Iniciando el test 1... con 100 estudiantes y 100 trabajos.
 	Esperando 5 segundos...
 	Despertando...
 	Creando hilos para los trabajos...
-Estudiante 17 ha conseguido el trabajo 95.
-Estudiante 26 ha conseguido el trabajo 48.
-Estudiante 59 ha conseguido el trabajo 29.
-Estudiante 7 ha conseguido el trabajo 26.
-Estudiante 5 ha conseguido el trabajo 92.
-Estudiante 62 ha conseguido el trabajo 33.
-El trabajo 99 va a dormir
-Estudiante 70 ha conseguido el trabajo 53.
-Estudiante 29 ha conseguido el trabajo 55.
-Estudiante 44 ha conseguido el trabajo 85.
-Estudiante 52 ha conseguido el trabajo 79.
-Estudiante 43 ha conseguido el trabajo 83.
-Estudiante 63 ha conseguido el trabajo 35.
-Estudiante 87 ha conseguido el trabajo 18.
-Estudiante 96 ha conseguido el trabajo 3.
-Estudiante 40 ha conseguido el trabajo 78.
-Estudiante 46 ha conseguido el trabajo 90.
-Estudiante 67 ha conseguido el trabajo 60.
-Estudiante 95 ha conseguido el trabajo 4.
-Estudiante 16 ha conseguido el trabajo 97.
-Estudiante 6 ha conseguido el trabajo 91.
-Estudiante 32 ha conseguido el trabajo 62.
-Estudiante 92 ha conseguido el trabajo 10.
-Estudiante 94 ha conseguido el trabajo 5.
-Estudiante 72 ha conseguido el trabajo 50.
-Estudiante 97 ha conseguido el trabajo 2.
-Estudiante 50 ha conseguido el trabajo 84.
-Estudiante 24 ha conseguido el trabajo 96.
-Estudiante 47 ha conseguido el trabajo 89.
-Estudiante 78 ha conseguido el trabajo 39.
-Estudiante 36 ha conseguido el trabajo 69.
-Estudiante 57 ha conseguido el trabajo 70.
-Estudiante 37 ha conseguido el trabajo 72.
-Estudiante 11 ha conseguido el trabajo 19.
-Estudiante 88 ha conseguido el trabajo 17.
-Estudiante 81 ha conseguido el trabajo 31.
-Estudiante 98 ha conseguido el trabajo 1.
-Estudiante 60 ha conseguido el trabajo 30.
-Estudiante 18 ha conseguido el trabajo 93.
-Estudiante 23 ha conseguido el trabajo 44.
-Estudiante 69 ha conseguido el trabajo 56.
-Estudiante 4 ha conseguido el trabajo 94.
-Estudiante 65 ha conseguido el trabajo 64.
-Estudiante 73 ha conseguido el trabajo 49.
-Estudiante 10 ha conseguido el trabajo 22.
-Estudiante 19 ha conseguido el trabajo 37.
-Estudiante 27 ha conseguido el trabajo 51.
-Estudiante 30 ha conseguido el trabajo 58.
-Estudiante 28 ha conseguido el trabajo 54.
-Estudiante 86 ha conseguido el trabajo 20.
-Estudiante 14 ha conseguido el trabajo 16.
-Estudiante 3 ha conseguido el trabajo 9.
-Estudiante 83 ha conseguido el trabajo 27.
-Estudiante 84 ha conseguido el trabajo 24.
-Estudiante 9 ha conseguido el trabajo 23.
-Estudiante 91 ha conseguido el trabajo 11.
-Estudiante 31 ha conseguido el trabajo 59.
-Estudiante 64 ha conseguido el trabajo 67.
-Estudiante 85 ha conseguido el trabajo 21.
-Estudiante 53 ha conseguido el trabajo 77.
-Estudiante 41 ha conseguido el trabajo 80.
-Estudiante 76 ha conseguido el trabajo 43.
-Estudiante 51 ha conseguido el trabajo 81.
-Estudiante 33 ha conseguido el trabajo 63.
-Estudiante 89 ha conseguido el trabajo 14.
-Estudiante 61 ha conseguido el trabajo 32.
-Estudiante 68 ha conseguido el trabajo 57.
-Estudiante 13 ha conseguido el trabajo 12.
-Estudiante 21 ha conseguido el trabajo 40.
-Estudiante 12 ha conseguido el trabajo 15.
-Estudiante 1 ha conseguido el trabajo 6.
-Estudiante 79 ha conseguido el trabajo 36.
-Estudiante 49 ha conseguido el trabajo 86.
-Estudiante 25 ha conseguido el trabajo 47.
-Estudiante 22 ha conseguido el trabajo 41.
-Estudiante 38 ha conseguido el trabajo 74.
-Estudiante 75 ha conseguido el trabajo 45.
-Estudiante 39 ha conseguido el trabajo 76.
-Estudiante 48 ha conseguido el trabajo 88.
-Estudiante 8 ha conseguido el trabajo 25.
-Estudiante 54 ha conseguido el trabajo 75.
-Estudiante 45 ha conseguido el trabajo 87.
-Estudiante 58 ha conseguido el trabajo 68.
-Estudiante 2 ha conseguido el trabajo 7.
-Estudiante 77 ha conseguido el trabajo 42.
-Estudiante 90 ha conseguido el trabajo 13.
-Estudiante 80 ha conseguido el trabajo 34.
-Estudiante 93 ha conseguido el trabajo 8.
-Estudiante 71 ha conseguido el trabajo 52.
-Estudiante 15 ha conseguido el trabajo 98.
-Estudiante 66 ha conseguido el trabajo 61.
-Estudiante 55 ha conseguido el trabajo 73.
-Estudiante 74 ha conseguido el trabajo 46.
-Estudiante 0 ha conseguido el trabajo 0.
-Estudiante 42 ha conseguido el trabajo 82.
-Estudiante 35 ha conseguido el trabajo 66.
-Estudiante 82 ha conseguido el trabajo 28.
-Estudiante 56 ha conseguido el trabajo 71.
-Estudiante 34 ha conseguido el trabajo 65.
-Estudiante 20 ha conseguido el trabajo 38.
-El estudiente 99 despierta al trabajo 99
+Estudiante 81 ha conseguido el trabajo 2.
+Estudiante 80 ha conseguido el trabajo 6.
+Estudiante 74 ha conseguido el trabajo 9.
+Estudiante 73 ha conseguido el trabajo 12.
+Estudiante 72 ha conseguido el trabajo 15.
+Estudiante 71 ha conseguido el trabajo 18.
+Estudiante 70 ha conseguido el trabajo 21.
+Estudiante 69 ha conseguido el trabajo 24.
+Estudiante 68 ha conseguido el trabajo 26.
+Estudiante 67 ha conseguido el trabajo 29.
+Estudiante 66 ha conseguido el trabajo 32.
+Estudiante 65 ha conseguido el trabajo 35.
+Estudiante 64 ha conseguido el trabajo 38.
+Estudiante 63 ha conseguido el trabajo 41.
+Estudiante 62 ha conseguido el trabajo 44.
+Estudiante 61 ha conseguido el trabajo 47.
+Estudiante 60 ha conseguido el trabajo 49.
+Estudiante 59 ha conseguido el trabajo 52.
+Estudiante 58 ha conseguido el trabajo 55.
+Estudiante 21 ha conseguido el trabajo 58.
+Estudiante 20 ha conseguido el trabajo 61.
+Estudiante 19 ha conseguido el trabajo 64.
+Estudiante 18 ha conseguido el trabajo 67.
+Estudiante 17 ha conseguido el trabajo 70.
+Estudiante 16 ha conseguido el trabajo 72.
+Estudiante 15 ha conseguido el trabajo 76.
+Estudiante 14 ha conseguido el trabajo 79.
+Estudiante 13 ha conseguido el trabajo 82.
+Estudiante 12 ha conseguido el trabajo 85.
+Estudiante 11 ha conseguido el trabajo 88.
+Estudiante 10 ha conseguido el trabajo 91.
+Estudiante 98 ha conseguido el trabajo 92.
+Estudiante 97 ha conseguido el trabajo 93.
+Estudiante 96 ha conseguido el trabajo 94.
+Estudiante 95 ha conseguido el trabajo 95.
+Estudiante 94 ha conseguido el trabajo 96.
+Estudiante 9 ha conseguido el trabajo 97.
+Estudiante 8 ha conseguido el trabajo 98.
+Estudiante 46 ha conseguido el trabajo 27.
+Estudiante 49 ha conseguido el trabajo 36.
+Estudiante 56 ha conseguido el trabajo 46.
+Estudiante 45 ha conseguido el trabajo 25.
+Estudiante 3 ha conseguido el trabajo 90.
+Estudiante 2 ha conseguido el trabajo 89.
+Estudiante 44 ha conseguido el trabajo 20.
+Estudiante 79 ha conseguido el trabajo 16.
+Estudiante 32 ha conseguido el trabajo 65.
+Estudiante 78 ha conseguido el trabajo 14.
+Estudiante 6 ha conseguido el trabajo 0.
+Estudiante 41 ha conseguido el trabajo 68.
+Estudiante 75 ha conseguido el trabajo 3.
+Estudiante 54 ha conseguido el trabajo 51.
+Estudiante 77 ha conseguido el trabajo 8.
+Estudiante 29 ha conseguido el trabajo 54.
+Estudiante 39 ha conseguido el trabajo 74.
+Estudiante 52 ha conseguido el trabajo 57.
+Estudiante 82 ha conseguido el trabajo 1.
+Estudiante 50 ha conseguido el trabajo 62.
+Estudiante 36 ha conseguido el trabajo 77.
+Estudiante 76 ha conseguido el trabajo 7.
+Estudiante 35 ha conseguido el trabajo 75.
+Estudiante 43 ha conseguido el trabajo 19.
+Estudiante 7 ha conseguido el trabajo 83.
+Estudiante 34 ha conseguido el trabajo 73.
+Estudiante 40 ha conseguido el trabajo 71.
+Estudiante 51 ha conseguido el trabajo 60.
+Estudiante 37 ha conseguido el trabajo 80.
+Estudiante 28 ha conseguido el trabajo 53.
+Estudiante 1 ha conseguido el trabajo 86.
+Estudiante 33 ha conseguido el trabajo 69.
+Estudiante 53 ha conseguido el trabajo 56.
+Estudiante 42 ha conseguido el trabajo 66.
+Estudiante 31 ha conseguido el trabajo 63.
+Estudiante 30 ha conseguido el trabajo 59.
+Estudiante 38 ha conseguido el trabajo 78.
+Estudiante 24 ha conseguido el trabajo 37.
+Estudiante 84 ha conseguido el trabajo 39.
+Estudiante 27 ha conseguido el trabajo 48.
+Estudiante 47 ha conseguido el trabajo 28.
+Estudiante 55 ha conseguido el trabajo 50.
+Estudiante 25 ha conseguido el trabajo 40.
+Estudiante 26 ha conseguido el trabajo 45.
+Estudiante 57 ha conseguido el trabajo 43.
+Estudiante 83 ha conseguido el trabajo 42.
+Estudiante 48 ha conseguido el trabajo 34.
+Estudiante 88 ha conseguido el trabajo 23.
+Estudiante 4 ha conseguido el trabajo 84.
+Estudiante 85 ha conseguido el trabajo 33.
+Estudiante 90 ha conseguido el trabajo 17.
+Estudiante 0 ha conseguido el trabajo 81.
+Estudiante 5 ha conseguido el trabajo 87.
+Estudiante 92 ha conseguido el trabajo 11.
+Estudiante 22 ha conseguido el trabajo 5.
+Estudiante 93 ha conseguido el trabajo 10.
+Estudiante 89 ha conseguido el trabajo 22.
+Estudiante 86 ha conseguido el trabajo 31.
+Estudiante 87 ha conseguido el trabajo 30.
+Estudiante 23 ha conseguido el trabajo 4.
+Estudiante 91 ha conseguido el trabajo 13.
 Estudiante 99 ha conseguido el trabajo 99.
 	Todos los hilos de estudiantes han terminado.
-El trabajo 0 tiene el estudiante 0
-El trabajo 1 tiene el estudiante 98
-El trabajo 2 tiene el estudiante 97
-El trabajo 3 tiene el estudiante 96
-El trabajo 4 tiene el estudiante 95
-El trabajo 5 tiene el estudiante 94
-El trabajo 6 tiene el estudiante 1
-El trabajo 7 tiene el estudiante 2
-El trabajo 8 tiene el estudiante 93
-El trabajo 9 tiene el estudiante 3
-El trabajo 10 tiene el estudiante 92
-El trabajo 11 tiene el estudiante 91
-El trabajo 12 tiene el estudiante 13
-El trabajo 13 tiene el estudiante 90
-El trabajo 14 tiene el estudiante 89
-El trabajo 15 tiene el estudiante 12
-El trabajo 16 tiene el estudiante 14
-El trabajo 17 tiene el estudiante 88
-El trabajo 18 tiene el estudiante 87
-El trabajo 19 tiene el estudiante 11
-El trabajo 20 tiene el estudiante 86
-El trabajo 21 tiene el estudiante 85
-El trabajo 22 tiene el estudiante 10
-El trabajo 23 tiene el estudiante 9
-El trabajo 24 tiene el estudiante 84
-El trabajo 25 tiene el estudiante 8
-El trabajo 26 tiene el estudiante 7
-El trabajo 27 tiene el estudiante 83
-El trabajo 28 tiene el estudiante 82
-El trabajo 29 tiene el estudiante 59
-El trabajo 30 tiene el estudiante 60
-El trabajo 31 tiene el estudiante 81
-El trabajo 32 tiene el estudiante 61
-El trabajo 33 tiene el estudiante 62
-El trabajo 34 tiene el estudiante 80
-El trabajo 35 tiene el estudiante 63
-El trabajo 36 tiene el estudiante 79
-El trabajo 37 tiene el estudiante 19
-El trabajo 38 tiene el estudiante 20
-El trabajo 39 tiene el estudiante 78
-El trabajo 40 tiene el estudiante 21
-El trabajo 41 tiene el estudiante 22
-El trabajo 42 tiene el estudiante 77
-El trabajo 43 tiene el estudiante 76
-El trabajo 44 tiene el estudiante 23
-El trabajo 45 tiene el estudiante 75
-El trabajo 46 tiene el estudiante 74
-El trabajo 47 tiene el estudiante 25
-El trabajo 48 tiene el estudiante 26
-El trabajo 49 tiene el estudiante 73
-El trabajo 50 tiene el estudiante 72
-El trabajo 51 tiene el estudiante 27
-El trabajo 52 tiene el estudiante 71
-El trabajo 53 tiene el estudiante 70
-El trabajo 54 tiene el estudiante 28
-El trabajo 55 tiene el estudiante 29
-El trabajo 56 tiene el estudiante 69
-El trabajo 57 tiene el estudiante 68
-El trabajo 58 tiene el estudiante 30
-El trabajo 59 tiene el estudiante 31
-El trabajo 60 tiene el estudiante 67
-El trabajo 61 tiene el estudiante 66
-El trabajo 62 tiene el estudiante 32
-El trabajo 63 tiene el estudiante 33
-El trabajo 64 tiene el estudiante 65
-El trabajo 65 tiene el estudiante 34
-El trabajo 66 tiene el estudiante 35
-El trabajo 67 tiene el estudiante 64
-El trabajo 68 tiene el estudiante 58
-El trabajo 69 tiene el estudiante 36
-El trabajo 70 tiene el estudiante 57
-El trabajo 71 tiene el estudiante 56
-El trabajo 72 tiene el estudiante 37
-El trabajo 73 tiene el estudiante 55
-El trabajo 74 tiene el estudiante 38
-El trabajo 75 tiene el estudiante 54
-El trabajo 76 tiene el estudiante 39
-El trabajo 77 tiene el estudiante 53
-El trabajo 78 tiene el estudiante 40
-El trabajo 79 tiene el estudiante 52
-El trabajo 80 tiene el estudiante 41
-El trabajo 81 tiene el estudiante 51
-El trabajo 82 tiene el estudiante 42
-El trabajo 83 tiene el estudiante 43
-El trabajo 84 tiene el estudiante 50
-El trabajo 85 tiene el estudiante 44
-El trabajo 86 tiene el estudiante 49
-El trabajo 87 tiene el estudiante 45
-El trabajo 88 tiene el estudiante 48
-El trabajo 89 tiene el estudiante 47
-El trabajo 90 tiene el estudiante 46
-El trabajo 91 tiene el estudiante 6
-El trabajo 92 tiene el estudiante 5
-El trabajo 93 tiene el estudiante 18
-El trabajo 94 tiene el estudiante 4
-El trabajo 95 tiene el estudiante 17
-El trabajo 96 tiene el estudiante 24
-El trabajo 97 tiene el estudiante 16
-El trabajo 98 tiene el estudiante 15
+El trabajo 0 tiene el estudiante 6
+El trabajo 1 tiene el estudiante 82
+El trabajo 2 tiene el estudiante 81
+El trabajo 3 tiene el estudiante 75
+El trabajo 4 tiene el estudiante 23
+El trabajo 5 tiene el estudiante 22
+El trabajo 6 tiene el estudiante 80
+El trabajo 7 tiene el estudiante 76
+El trabajo 8 tiene el estudiante 77
+El trabajo 9 tiene el estudiante 74
+El trabajo 10 tiene el estudiante 93
+El trabajo 11 tiene el estudiante 92
+El trabajo 12 tiene el estudiante 73
+El trabajo 13 tiene el estudiante 91
+El trabajo 14 tiene el estudiante 78
+El trabajo 15 tiene el estudiante 72
+El trabajo 16 tiene el estudiante 79
+El trabajo 17 tiene el estudiante 90
+El trabajo 18 tiene el estudiante 71
+El trabajo 19 tiene el estudiante 43
+El trabajo 20 tiene el estudiante 44
+El trabajo 21 tiene el estudiante 70
+El trabajo 22 tiene el estudiante 89
+El trabajo 23 tiene el estudiante 88
+El trabajo 24 tiene el estudiante 69
+El trabajo 25 tiene el estudiante 45
+El trabajo 26 tiene el estudiante 68
+El trabajo 27 tiene el estudiante 46
+El trabajo 28 tiene el estudiante 47
+El trabajo 29 tiene el estudiante 67
+El trabajo 30 tiene el estudiante 87
+El trabajo 31 tiene el estudiante 86
+El trabajo 32 tiene el estudiante 66
+El trabajo 33 tiene el estudiante 85
+El trabajo 34 tiene el estudiante 48
+El trabajo 35 tiene el estudiante 65
+El trabajo 36 tiene el estudiante 49
+El trabajo 37 tiene el estudiante 24
+El trabajo 38 tiene el estudiante 64
+El trabajo 39 tiene el estudiante 84
+El trabajo 40 tiene el estudiante 25
+El trabajo 41 tiene el estudiante 63
+El trabajo 42 tiene el estudiante 83
+El trabajo 43 tiene el estudiante 57
+El trabajo 44 tiene el estudiante 62
+El trabajo 45 tiene el estudiante 26
+El trabajo 46 tiene el estudiante 56
+El trabajo 47 tiene el estudiante 61
+El trabajo 48 tiene el estudiante 27
+El trabajo 49 tiene el estudiante 60
+El trabajo 50 tiene el estudiante 55
+El trabajo 51 tiene el estudiante 54
+El trabajo 52 tiene el estudiante 59
+El trabajo 53 tiene el estudiante 28
+El trabajo 54 tiene el estudiante 29
+El trabajo 55 tiene el estudiante 58
+El trabajo 56 tiene el estudiante 53
+El trabajo 57 tiene el estudiante 52
+El trabajo 58 tiene el estudiante 21
+El trabajo 59 tiene el estudiante 30
+El trabajo 60 tiene el estudiante 51
+El trabajo 61 tiene el estudiante 20
+El trabajo 62 tiene el estudiante 50
+El trabajo 63 tiene el estudiante 31
+El trabajo 64 tiene el estudiante 19
+El trabajo 65 tiene el estudiante 32
+El trabajo 66 tiene el estudiante 42
+El trabajo 67 tiene el estudiante 18
+El trabajo 68 tiene el estudiante 41
+El trabajo 69 tiene el estudiante 33
+El trabajo 70 tiene el estudiante 17
+El trabajo 71 tiene el estudiante 40
+El trabajo 72 tiene el estudiante 16
+El trabajo 73 tiene el estudiante 34
+El trabajo 74 tiene el estudiante 39
+El trabajo 75 tiene el estudiante 35
+El trabajo 76 tiene el estudiante 15
+El trabajo 77 tiene el estudiante 36
+El trabajo 78 tiene el estudiante 38
+El trabajo 79 tiene el estudiante 14
+El trabajo 80 tiene el estudiante 37
+El trabajo 81 tiene el estudiante 0
+El trabajo 82 tiene el estudiante 13
+El trabajo 83 tiene el estudiante 7
+El trabajo 84 tiene el estudiante 4
+El trabajo 85 tiene el estudiante 12
+El trabajo 86 tiene el estudiante 1
+El trabajo 87 tiene el estudiante 5
+El trabajo 88 tiene el estudiante 11
+El trabajo 89 tiene el estudiante 2
+El trabajo 90 tiene el estudiante 3
+El trabajo 91 tiene el estudiante 10
+El trabajo 92 tiene el estudiante 98
+El trabajo 93 tiene el estudiante 97
+El trabajo 94 tiene el estudiante 96
+El trabajo 95 tiene el estudiante 95
+El trabajo 96 tiene el estudiante 94
+El trabajo 97 tiene el estudiante 9
+El trabajo 98 tiene el estudiante 8
 El trabajo 99 tiene el estudiante 99
 	Destruyendo postulaciones...
 	Todos los hilos han terminado.
@@ -1909,107 +1295,7 @@ Test 2 completado exitosamente.
 Iniciando el test 3... con 100 estudiantes y 100 trabajos.
 	Iniciando postulaciones...
 	Creando hilos para los trabajos...
-El trabajo 0 va a dormir
 	Esperando 5 segundos...
-El trabajo 1 va a dormir
-El trabajo 6 va a dormir
-El trabajo 2 va a dormir
-El trabajo 7 va a dormir
-El trabajo 58 va a dormir
-El trabajo 8 va a dormir
-El trabajo 9 va a dormir
-El trabajo 14 va a dormir
-El trabajo 59 va a dormir
-El trabajo 15 va a dormir
-El trabajo 60 va a dormir
-El trabajo 16 va a dormir
-El trabajo 61 va a dormir
-El trabajo 17 va a dormir
-El trabajo 62 va a dormir
-El trabajo 18 va a dormir
-El trabajo 63 va a dormir
-El trabajo 19 va a dormir
-El trabajo 64 va a dormir
-El trabajo 20 va a dormir
-El trabajo 21 va a dormir
-El trabajo 65 va a dormir
-El trabajo 22 va a dormir
-El trabajo 71 va a dormir
-El trabajo 72 va a dormir
-El trabajo 23 va a dormir
-El trabajo 73 va a dormir
-El trabajo 24 va a dormir
-El trabajo 74 va a dormir
-El trabajo 25 va a dormir
-El trabajo 75 va a dormir
-El trabajo 26 va a dormir
-El trabajo 76 va a dormir
-El trabajo 27 va a dormir
-El trabajo 77 va a dormir
-El trabajo 28 va a dormir
-El trabajo 78 va a dormir
-El trabajo 29 va a dormir
-El trabajo 79 va a dormir
-El trabajo 30 va a dormir
-El trabajo 80 va a dormir
-El trabajo 31 va a dormir
-El trabajo 81 va a dormir
-El trabajo 32 va a dormir
-El trabajo 82 va a dormir
-El trabajo 33 va a dormir
-El trabajo 83 va a dormir
-El trabajo 34 va a dormir
-El trabajo 85 va a dormir
-El trabajo 35 va a dormir
-El trabajo 86 va a dormir
-El trabajo 36 va a dormir
-El trabajo 37 va a dormir
-El trabajo 87 va a dormir
-El trabajo 38 va a dormir
-El trabajo 88 va a dormir
-El trabajo 46 va a dormir
-El trabajo 89 va a dormir
-El trabajo 47 va a dormir
-El trabajo 48 va a dormir
-El trabajo 90 va a dormir
-El trabajo 49 va a dormir
-El trabajo 91 va a dormir
-El trabajo 50 va a dormir
-El trabajo 92 va a dormir
-El trabajo 51 va a dormir
-El trabajo 93 va a dormir
-El trabajo 52 va a dormir
-El trabajo 53 va a dormir
-El trabajo 95 va a dormir
-El trabajo 54 va a dormir
-El trabajo 55 va a dormir
-El trabajo 96 va a dormir
-El trabajo 56 va a dormir
-El trabajo 97 va a dormir
-El trabajo 57 va a dormir
-El trabajo 98 va a dormir
-El trabajo 84 va a dormir
-El trabajo 70 va a dormir
-El trabajo 99 va a dormir
-El trabajo 69 va a dormir
-El trabajo 68 va a dormir
-El trabajo 13 va a dormir
-El trabajo 12 va a dormir
-El trabajo 67 va a dormir
-El trabajo 66 va a dormir
-El trabajo 11 va a dormir
-El trabajo 10 va a dormir
-El trabajo 45 va a dormir
-El trabajo 44 va a dormir
-El trabajo 43 va a dormir
-El trabajo 42 va a dormir
-El trabajo 41 va a dormir
-El trabajo 40 va a dormir
-El trabajo 39 va a dormir
-El trabajo 5 va a dormir
-El trabajo 94 va a dormir
-El trabajo 4 va a dormir
-El trabajo 3 va a dormir
 	Despertando...
 	Creando hilos para las estudiantes...
 Creando hilo de estudiante 0...
@@ -2112,107 +1398,7 @@ Creando hilo de estudiante 96...
 Creando hilo de estudiante 97...
 Creando hilo de estudiante 98...
 Creando hilo de estudiante 99...
-Uniendo estudiante 0El estudiente 0 despierta al trabajo 0
-El estudiente 1 despierta al trabajo 1
-El estudiente 2 despierta al trabajo 2
-El estudiente 3 despierta al trabajo 3
-El estudiente 4 despierta al trabajo 4
-El estudiente 24 despierta al trabajo 24
-El estudiente 25 despierta al trabajo 25
-El estudiente 5 despierta al trabajo 5
-El estudiente 26 despierta al trabajo 26
-El estudiente 27 despierta al trabajo 27
-El estudiente 6 despierta al trabajo 6
-El estudiente 7 despierta al trabajo 7
-El estudiente 28 despierta al trabajo 28
-El estudiente 29 despierta al trabajo 29
-El estudiente 8 despierta al trabajo 8
-El estudiente 9 despierta al trabajo 9
-El estudiente 30 despierta al trabajo 30
-El estudiente 10 despierta al trabajo 10
-El estudiente 31 despierta al trabajo 31
-El estudiente 11 despierta al trabajo 11
-El estudiente 12 despierta al trabajo 12
-El estudiente 32 despierta al trabajo 32
-El estudiente 13 despierta al trabajo 13
-El estudiente 14 despierta al trabajo 14
-El estudiente 15 despierta al trabajo 15
-El estudiente 33 despierta al trabajo 33
-El estudiente 34 despierta al trabajo 34
-El estudiente 16 despierta al trabajo 16
-El estudiente 17 despierta al trabajo 17
-El estudiente 35 despierta al trabajo 35
-El estudiente 18 despierta al trabajo 18
-El estudiente 36 despierta al trabajo 36
-El estudiente 37 despierta al trabajo 37
-El estudiente 19 despierta al trabajo 19
-El estudiente 20 despierta al trabajo 20
-El estudiente 38 despierta al trabajo 38
-El estudiente 39 despierta al trabajo 39
-El estudiente 21 despierta al trabajo 21
-El estudiente 22 despierta al trabajo 22
-El estudiente 46 despierta al trabajo 46
-El estudiente 23 despierta al trabajo 23
-El estudiente 45 despierta al trabajo 45
-El estudiente 47 despierta al trabajo 47
-El estudiente 48 despierta al trabajo 48
-El estudiente 44 despierta al trabajo 44
-El estudiente 43 despierta al trabajo 43
-El estudiente 49 despierta al trabajo 49
-El estudiente 42 despierta al trabajo 42
-El estudiente 41 despierta al trabajo 41
-El estudiente 50 despierta al trabajo 50
-El estudiente 51 despierta al trabajo 51
-El estudiente 40 despierta al trabajo 40
-El estudiente 52 despierta al trabajo 52
-El estudiente 99 despierta al trabajo 99
-El estudiente 53 despierta al trabajo 53
-El estudiente 54 despierta al trabajo 54
-El estudiente 55 despierta al trabajo 55
-El estudiente 56 despierta al trabajo 56
-El estudiente 57 despierta al trabajo 57
-El estudiente 58 despierta al trabajo 58
-El estudiente 59 despierta al trabajo 59
-El estudiente 60 despierta al trabajo 60
-El estudiente 74 despierta al trabajo 74
-El estudiente 73 despierta al trabajo 73
-El estudiente 72 despierta al trabajo 72
-El estudiente 71 despierta al trabajo 71
-El estudiente 61 despierta al trabajo 61
-El estudiente 70 despierta al trabajo 70
-El estudiente 62 despierta al trabajo 62
-El estudiente 69 despierta al trabajo 69
-El estudiente 68 despierta al trabajo 68
-El estudiente 63 despierta al trabajo 63
-El estudiente 67 despierta al trabajo 67
-El estudiente 64 despierta al trabajo 64
-El estudiente 65 despierta al trabajo 65
-El estudiente 66 despierta al trabajo 66
-El estudiente 75 despierta al trabajo 75
-El estudiente 76 despierta al trabajo 76
-El estudiente 77 despierta al trabajo 77
-El estudiente 78 despierta al trabajo 78
-El estudiente 79 despierta al trabajo 79
-El estudiente 80 despierta al trabajo 80
-El estudiente 81 despierta al trabajo 81
-El estudiente 82 despierta al trabajo 82
-El estudiente 83 despierta al trabajo 83
-El estudiente 84 despierta al trabajo 84
-El estudiente 85 despierta al trabajo 85
-El estudiente 86 despierta al trabajo 86
-El estudiente 87 despierta al trabajo 87
-El estudiente 88 despierta al trabajo 88
-El estudiente 89 despierta al trabajo 89
-El estudiente 90 despierta al trabajo 90
-El estudiente 91 despierta al trabajo 91
-El estudiente 92 despierta al trabajo 92
-El estudiente 93 despierta al trabajo 93
-El estudiente 94 despierta al trabajo 94
-El estudiente 95 despierta al trabajo 95
-El estudiente 96 despierta al trabajo 96
-El estudiente 97 despierta al trabajo 97
-El estudiente 98 despierta al trabajo 98
-Uniendo estudiante 1Uniendo estudiante 2Uniendo estudiante 3Uniendo estudiante 4Uniendo estudiante 5Uniendo estudiante 6Uniendo estudiante 7Uniendo estudiante 8Uniendo estudiante 9Uniendo estudiante 10Uniendo estudiante 11Uniendo estudiante 12Uniendo estudiante 13Uniendo estudiante 14Uniendo estudiante 15Uniendo estudiante 16Uniendo estudiante 17Uniendo estudiante 18Uniendo estudiante 19Uniendo estudiante 20Uniendo estudiante 21Uniendo estudiante 22Uniendo estudiante 23Uniendo estudiante 24Uniendo estudiante 25Uniendo estudiante 26Uniendo estudiante 27Uniendo estudiante 28Uniendo estudiante 29Uniendo estudiante 30Uniendo estudiante 31Uniendo estudiante 32Uniendo estudiante 33Uniendo estudiante 34Uniendo estudiante 35Uniendo estudiante 36Uniendo estudiante 37Uniendo estudiante 38Uniendo estudiante 39Uniendo estudiante 40Uniendo estudiante 41Uniendo estudiante 42Uniendo estudiante 43Uniendo estudiante 44Uniendo estudiante 45Uniendo estudiante 46Uniendo estudiante 47Uniendo estudiante 48Uniendo estudiante 49Uniendo estudiante 50Uniendo estudiante 51Uniendo estudiante 52Uniendo estudiante 53Uniendo estudiante 54Uniendo estudiante 55Uniendo estudiante 56Uniendo estudiante 57Uniendo estudiante 58Uniendo estudiante 59Uniendo estudiante 60Uniendo estudiante 61Uniendo estudiante 62Uniendo estudiante 63Uniendo estudiante 64Uniendo estudiante 65Uniendo estudiante 66Uniendo estudiante 67Uniendo estudiante 68Uniendo estudiante 69Uniendo estudiante 70Uniendo estudiante 71Uniendo estudiante 72Uniendo estudiante 73Uniendo estudiante 74Uniendo estudiante 75Uniendo estudiante 76Uniendo estudiante 77Uniendo estudiante 78Uniendo estudiante 79Uniendo estudiante 80Uniendo estudiante 81Uniendo estudiante 82Uniendo estudiante 83Uniendo estudiante 84Uniendo estudiante 85Uniendo estudiante 86Uniendo estudiante 87Uniendo estudiante 88Uniendo estudiante 89Uniendo estudiante 90Uniendo estudiante 91Uniendo estudiante 92Uniendo estudiante 93Uniendo estudiante 94Uniendo estudiante 95Uniendo estudiante 96Uniendo estudiante 97Uniendo estudiante 98Uniendo estudiante 99	Todos los hilos de estudiantes han terminado.
+	Todos los hilos de estudiantes han terminado.
 	Todos los hilos de trabajos han terminado.
 	Destruyendo postulaciones...
 	Todos los hilos de trabajos han terminado.
@@ -2248,1109 +1434,202 @@ Iniciando el test 1... con 100 estudiantes y 100 trabajos.
 	Esperando 5 segundos...
 	Despertando...
 	Creando hilos para los trabajos...
-Estudiante 0 ha conseguido el trabajo 0.
-Estudiante 98 ha conseguido el trabajo 4.
-Estudiante 97 ha conseguido el trabajo 3.
-Estudiante 96 ha conseguido el trabajo 2.
-Estudiante 95 ha conseguido el trabajo 1.
-Estudiante 94 ha conseguido el trabajo 6.
-Estudiante 93 ha conseguido el trabajo 5.
-Estudiante 92 ha conseguido el trabajo 8.
-Estudiante 91 ha conseguido el trabajo 11.
-Estudiante 90 ha conseguido el trabajo 9.
-Estudiante 89 ha conseguido el trabajo 10.
-Estudiante 88 ha conseguido el trabajo 12.
-Estudiante 87 ha conseguido el trabajo 13.
-Estudiante 50 ha conseguido el trabajo 7.
-Estudiante 49 ha conseguido el trabajo 14.
-Estudiante 48 ha conseguido el trabajo 15.
-Estudiante 47 ha conseguido el trabajo 16.
-Estudiante 46 ha conseguido el trabajo 17.
-Estudiante 44 ha conseguido el trabajo 22.
-Estudiante 43 ha conseguido el trabajo 18.
-Estudiante 42 ha conseguido el trabajo 37.
-Estudiante 45 ha conseguido el trabajo 30.
-Estudiante 86 ha conseguido el trabajo 32.
-Estudiante 85 ha conseguido el trabajo 29.
-Estudiante 84 ha conseguido el trabajo 33.
-Estudiante 83 ha conseguido el trabajo 34.
-Estudiante 82 ha conseguido el trabajo 28.
-Estudiante 81 ha conseguido el trabajo 27.
-Estudiante 80 ha conseguido el trabajo 35.
-Estudiante 79 ha conseguido el trabajo 26.
-Estudiante 78 ha conseguido el trabajo 36.
-Estudiante 77 ha conseguido el trabajo 31.
-Estudiante 76 ha conseguido el trabajo 25.
-Estudiante 75 ha conseguido el trabajo 24.
-Estudiante 74 ha conseguido el trabajo 23.
-Estudiante 73 ha conseguido el trabajo 21.
-Estudiante 72 ha conseguido el trabajo 20.
-Estudiante 71 ha conseguido el trabajo 19.
-Estudiante 70 ha conseguido el trabajo 38.
-Estudiante 69 ha conseguido el trabajo 40.
-Estudiante 68 ha conseguido el trabajo 43.
-Estudiante 67 ha conseguido el trabajo 44.
-Estudiante 66 ha conseguido el trabajo 39.
-Estudiante 65 ha conseguido el trabajo 42.
-Estudiante 64 ha conseguido el trabajo 41.
-Estudiante 63 ha conseguido el trabajo 45.
-Estudiante 62 ha conseguido el trabajo 46.
-Estudiante 61 ha conseguido el trabajo 47.
-Estudiante 60 ha conseguido el trabajo 48.
-Estudiante 59 ha conseguido el trabajo 51.
-Estudiante 58 ha conseguido el trabajo 52.
-Estudiante 57 ha conseguido el trabajo 53.
-Estudiante 56 ha conseguido el trabajo 50.
-Estudiante 55 ha conseguido el trabajo 49.
-Estudiante 54 ha conseguido el trabajo 54.
-Estudiante 53 ha conseguido el trabajo 56.
-Estudiante 52 ha conseguido el trabajo 60.
-Estudiante 51 ha conseguido el trabajo 61.
-Estudiante 12 ha conseguido el trabajo 55.
-Estudiante 13 ha conseguido el trabajo 62.
-Estudiante 40 ha conseguido el trabajo 58.
-Estudiante 39 ha conseguido el trabajo 57.
-Estudiante 9 ha conseguido el trabajo 59.
-Estudiante 38 ha conseguido el trabajo 63.
-Estudiante 37 ha conseguido el trabajo 64.
-Estudiante 34 ha conseguido el trabajo 65.
-Estudiante 33 ha conseguido el trabajo 69.
-Estudiante 32 ha conseguido el trabajo 68.
-Estudiante 31 ha conseguido el trabajo 67.
-Estudiante 30 ha conseguido el trabajo 70.
-Estudiante 29 ha conseguido el trabajo 66.
-Estudiante 28 ha conseguido el trabajo 72.
-Estudiante 27 ha conseguido el trabajo 75.
-Estudiante 26 ha conseguido el trabajo 74.
-Estudiante 25 ha conseguido el trabajo 71.
-Estudiante 24 ha conseguido el trabajo 73.
-Estudiante 23 ha conseguido el trabajo 76.
-Estudiante 22 ha conseguido el trabajo 77.
-Estudiante 21 ha conseguido el trabajo 78.
-Estudiante 20 ha conseguido el trabajo 79.
-Estudiante 19 ha conseguido el trabajo 80.
-Estudiante 18 ha conseguido el trabajo 82.
-Estudiante 17 ha conseguido el trabajo 81.
-Estudiante 36 ha conseguido el trabajo 88.
-Estudiante 35 ha conseguido el trabajo 87.
-Estudiante 5 ha conseguido el trabajo 89.
-Estudiante 6 ha conseguido el trabajo 90.
-Estudiante 14 ha conseguido el trabajo 85.
-Estudiante 15 ha conseguido el trabajo 84.
-Estudiante 41 ha conseguido el trabajo 86.
-Estudiante 16 ha conseguido el trabajo 83.
-Estudiante 11 ha conseguido el trabajo 91.
-Estudiante 10 ha conseguido el trabajo 92.
-Estudiante 7 ha conseguido el trabajo 93.
-Estudiante 8 ha conseguido el trabajo 95.
-Estudiante 4 ha conseguido el trabajo 94.
-El trabajo 99 va a dormir
-Estudiante 3 ha conseguido el trabajo 96.
-Estudiante 2 ha conseguido el trabajo 97.
-Estudiante 1 ha conseguido el trabajo 98.
-El estudiente 99 despierta al trabajo 99
-Estudiante 99 ha conseguido el trabajo 99.
-	Todos los hilos de estudiantes han terminado.
-El trabajo 0 tiene el estudiante 0
-El trabajo 1 tiene el estudiante 95
-El trabajo 2 tiene el estudiante 96
-El trabajo 3 tiene el estudiante 97
-El trabajo 4 tiene el estudiante 98
-El trabajo 5 tiene el estudiante 93
-El trabajo 6 tiene el estudiante 94
-El trabajo 7 tiene el estudiante 50
-El trabajo 8 tiene el estudiante 92
-El trabajo 9 tiene el estudiante 90
-El trabajo 10 tiene el estudiante 89
-El trabajo 11 tiene el estudiante 91
-El trabajo 12 tiene el estudiante 88
-El trabajo 13 tiene el estudiante 87
-El trabajo 14 tiene el estudiante 49
-El trabajo 15 tiene el estudiante 48
-El trabajo 16 tiene el estudiante 47
-El trabajo 17 tiene el estudiante 46
-El trabajo 18 tiene el estudiante 43
-El trabajo 19 tiene el estudiante 71
-El trabajo 20 tiene el estudiante 72
-El trabajo 21 tiene el estudiante 73
-El trabajo 22 tiene el estudiante 44
-El trabajo 23 tiene el estudiante 74
-El trabajo 24 tiene el estudiante 75
-El trabajo 25 tiene el estudiante 76
-El trabajo 26 tiene el estudiante 79
-El trabajo 27 tiene el estudiante 81
-El trabajo 28 tiene el estudiante 82
-El trabajo 29 tiene el estudiante 85
-El trabajo 30 tiene el estudiante 45
-El trabajo 31 tiene el estudiante 77
-El trabajo 32 tiene el estudiante 86
-El trabajo 33 tiene el estudiante 84
-El trabajo 34 tiene el estudiante 83
-El trabajo 35 tiene el estudiante 80
-El trabajo 36 tiene el estudiante 78
-El trabajo 37 tiene el estudiante 42
-El trabajo 38 tiene el estudiante 70
-El trabajo 39 tiene el estudiante 66
-El trabajo 40 tiene el estudiante 69
-El trabajo 41 tiene el estudiante 64
-El trabajo 42 tiene el estudiante 65
-El trabajo 43 tiene el estudiante 68
-El trabajo 44 tiene el estudiante 67
-El trabajo 45 tiene el estudiante 63
-El trabajo 46 tiene el estudiante 62
-El trabajo 47 tiene el estudiante 61
-El trabajo 48 tiene el estudiante 60
-El trabajo 49 tiene el estudiante 55
-El trabajo 50 tiene el estudiante 56
-El trabajo 51 tiene el estudiante 59
-El trabajo 52 tiene el estudiante 58
-El trabajo 53 tiene el estudiante 57
-El trabajo 54 tiene el estudiante 54
-El trabajo 55 tiene el estudiante 12
-El trabajo 56 tiene el estudiante 53
-El trabajo 57 tiene el estudiante 39
-El trabajo 58 tiene el estudiante 40
-El trabajo 59 tiene el estudiante 9
-El trabajo 60 tiene el estudiante 52
-El trabajo 61 tiene el estudiante 51
-El trabajo 62 tiene el estudiante 13
-El trabajo 63 tiene el estudiante 38
-El trabajo 64 tiene el estudiante 37
-El trabajo 65 tiene el estudiante 34
-El trabajo 66 tiene el estudiante 29
-El trabajo 67 tiene el estudiante 31
-El trabajo 68 tiene el estudiante 32
-El trabajo 69 tiene el estudiante 33
-El trabajo 70 tiene el estudiante 30
-El trabajo 71 tiene el estudiante 25
-El trabajo 72 tiene el estudiante 28
-El trabajo 73 tiene el estudiante 24
-El trabajo 74 tiene el estudiante 26
-El trabajo 75 tiene el estudiante 27
-El trabajo 76 tiene el estudiante 23
-El trabajo 77 tiene el estudiante 22
-El trabajo 78 tiene el estudiante 21
-El trabajo 79 tiene el estudiante 20
-El trabajo 80 tiene el estudiante 19
-El trabajo 81 tiene el estudiante 17
-El trabajo 82 tiene el estudiante 18
-El trabajo 83 tiene el estudiante 16
-El trabajo 84 tiene el estudiante 15
-El trabajo 85 tiene el estudiante 14
-El trabajo 86 tiene el estudiante 41
-El trabajo 87 tiene el estudiante 35
-El trabajo 88 tiene el estudiante 36
-El trabajo 89 tiene el estudiante 5
-El trabajo 90 tiene el estudiante 6
-El trabajo 91 tiene el estudiante 11
-El trabajo 92 tiene el estudiante 10
-El trabajo 93 tiene el estudiante 7
-El trabajo 94 tiene el estudiante 4
-El trabajo 95 tiene el estudiante 8
-El trabajo 96 tiene el estudiante 3
-El trabajo 97 tiene el estudiante 2
-El trabajo 98 tiene el estudiante 1
-El trabajo 99 tiene el estudiante 99
-	Destruyendo postulaciones...
-	Todos los hilos han terminado.
-Test 1 completado exitosamente.
-Iniciando el test 2... con 100 estudiantes y 100 trabajos.
-	Iniciando postulaciones...
-	Creando hilos para las estudiantes...
-	Esperando 5 segundos...
-	Despertando...
-	Creando hilos para los trabajos...
-	Todos los hilos de estudiantes han terminado.
-	Destruyendo postulaciones...
-	Todos los hilos han terminado.
-Test 2 completado exitosamente.
-Iniciando el test 3... con 100 estudiantes y 100 trabajos.
-	Iniciando postulaciones...
-	Creando hilos para los trabajos...
-El trabajo 0 va a dormir
-El trabajo 3 va a dormir
-El trabajo 4 va a dormir
-El trabajo 6 va a dormir
-El trabajo 5 va a dormir
-El trabajo 8 va a dormir
-El trabajo 7 va a dormir
-El trabajo 1 va a dormir
-El trabajo 2 va a dormir
-El trabajo 9 va a dormir
-El trabajo 10 va a dormir
-El trabajo 12 va a dormir
-El trabajo 14 va a dormir
-El trabajo 13 va a dormir
-El trabajo 15 va a dormir
-El trabajo 16 va a dormir
-El trabajo 17 va a dormir
-El trabajo 11 va a dormir
-El trabajo 20 va a dormir
-El trabajo 19 va a dormir
-El trabajo 18 va a dormir
-El trabajo 22 va a dormir
-El trabajo 23 va a dormir
-El trabajo 21 va a dormir
-El trabajo 24 va a dormir
-El trabajo 28 va a dormir
-El trabajo 27 va a dormir
-El trabajo 26 va a dormir
-El trabajo 25 va a dormir
-El trabajo 30 va a dormir
-El trabajo 29 va a dormir
-El trabajo 31 va a dormir
-El trabajo 32 va a dormir
-El trabajo 33 va a dormir
-El trabajo 34 va a dormir
-El trabajo 35 va a dormir
-El trabajo 36 va a dormir
-El trabajo 39 va a dormir
-El trabajo 40 va a dormir
-El trabajo 41 va a dormir
-El trabajo 44 va a dormir
-El trabajo 45 va a dormir
-El trabajo 42 va a dormir
-El trabajo 43 va a dormir
-El trabajo 37 va a dormir
-El trabajo 38 va a dormir
-El trabajo 46 va a dormir
-El trabajo 48 va a dormir
-El trabajo 47 va a dormir
-El trabajo 50 va a dormir
-El trabajo 51 va a dormir
-El trabajo 49 va a dormir
-El trabajo 52 va a dormir
-El trabajo 53 va a dormir
-El trabajo 54 va a dormir
-El trabajo 55 va a dormir
-El trabajo 56 va a dormir
-El trabajo 57 va a dormir
-El trabajo 58 va a dormir
-El trabajo 59 va a dormir
-El trabajo 62 va a dormir
-El trabajo 63 va a dormir
-El trabajo 64 va a dormir
-El trabajo 65 va a dormir
-El trabajo 69 va a dormir
-El trabajo 60 va a dormir
-El trabajo 70 va a dormir
-El trabajo 71 va a dormir
-El trabajo 66 va a dormir
-El trabajo 67 va a dormir
-El trabajo 68 va a dormir
-El trabajo 61 va a dormir
-El trabajo 73 va a dormir
-El trabajo 74 va a dormir
-El trabajo 77 va a dormir
-El trabajo 78 va a dormir
-El trabajo 79 va a dormir
-El trabajo 80 va a dormir
-El trabajo 81 va a dormir
-El trabajo 72 va a dormir
-El trabajo 76 va a dormir
-El trabajo 75 va a dormir
-El trabajo 84 va a dormir
-El trabajo 85 va a dormir
-El trabajo 86 va a dormir
-El trabajo 82 va a dormir
-El trabajo 83 va a dormir
-El trabajo 87 va a dormir
-El trabajo 88 va a dormir
-El trabajo 89 va a dormir
-El trabajo 90 va a dormir
-El trabajo 91 va a dormir
-El trabajo 92 va a dormir
-El trabajo 93 va a dormir
-El trabajo 95 va a dormir
-El trabajo 96 va a dormir
-El trabajo 97 va a dormir
-	Esperando 5 segundos...
-El trabajo 94 va a dormir
-El trabajo 99 va a dormir
-El trabajo 98 va a dormir
-	Despertando...
-	Creando hilos para las estudiantes...
-Creando hilo de estudiante 0...
-Creando hilo de estudiante 1...
-Creando hilo de estudiante 2...
-Creando hilo de estudiante 3...
-El estudiente 0 despierta al trabajo 0
-Creando hilo de estudiante 4...
-El estudiente 2 despierta al trabajo 2
-Creando hilo de estudiante 5...
-El estudiente 1 despierta al trabajo 1
-El estudiente 4 despierta al trabajo 4
-El estudiente 3 despierta al trabajo 3
-Creando hilo de estudiante 6...
-El estudiente 5 despierta al trabajo 5
-Creando hilo de estudiante 7...
-El estudiente 6 despierta al trabajo 6
-Creando hilo de estudiante 8...
-Creando hilo de estudiante 9...
-Creando hilo de estudiante 10...
-El estudiente 7 despierta al trabajo 7
-Creando hilo de estudiante 11...
-El estudiente 9 despierta al trabajo 9
-Creando hilo de estudiante 12...
-El estudiente 8 despierta al trabajo 8
-El estudiente 10 despierta al trabajo 10
-Creando hilo de estudiante 13...
-Creando hilo de estudiante 14...
-El estudiente 12 despierta al trabajo 12
-Creando hilo de estudiante 15...
-El estudiente 11 despierta al trabajo 11
-El estudiente 14 despierta al trabajo 14
-Creando hilo de estudiante 16...
-Creando hilo de estudiante 17...
-Creando hilo de estudiante 18...
-El estudiente 13 despierta al trabajo 13
-El estudiente 15 despierta al trabajo 15
-El estudiente 16 despierta al trabajo 16
-Creando hilo de estudiante 19...
-El estudiente 17 despierta al trabajo 17
-El estudiente 18 despierta al trabajo 18
-Creando hilo de estudiante 20...
-Creando hilo de estudiante 21...
-Creando hilo de estudiante 22...
-El estudiente 19 despierta al trabajo 19
-Creando hilo de estudiante 23...
-Creando hilo de estudiante 24...
-Creando hilo de estudiante 25...
-El estudiente 22 despierta al trabajo 22
-Creando hilo de estudiante 26...
-Creando hilo de estudiante 27...
-El estudiente 25 despierta al trabajo 25
-El estudiente 26 despierta al trabajo 26
-El estudiente 24 despierta al trabajo 24
-El estudiente 21 despierta al trabajo 21
-El estudiente 23 despierta al trabajo 23
-Creando hilo de estudiante 28...
-Creando hilo de estudiante 29...
-Creando hilo de estudiante 30...
-Creando hilo de estudiante 31...
-Creando hilo de estudiante 32...
-El estudiente 30 despierta al trabajo 30
-Creando hilo de estudiante 33...
-Creando hilo de estudiante 34...
-El estudiente 20 despierta al trabajo 20
-El estudiente 28 despierta al trabajo 28
-El estudiente 31 despierta al trabajo 31
-El estudiente 32 despierta al trabajo 32
-El estudiente 27 despierta al trabajo 27
-El estudiente 29 despierta al trabajo 29
-Creando hilo de estudiante 35...
-El estudiente 33 despierta al trabajo 33
-Creando hilo de estudiante 36...
-El estudiente 34 despierta al trabajo 34
-Creando hilo de estudiante 37...
-Creando hilo de estudiante 38...
-Creando hilo de estudiante 39...
-Creando hilo de estudiante 40...
-Creando hilo de estudiante 41...
-Creando hilo de estudiante 42...
-Creando hilo de estudiante 43...
-El estudiente 36 despierta al trabajo 36
-El estudiente 40 despierta al trabajo 40
-El estudiente 41 despierta al trabajo 41
-El estudiente 39 despierta al trabajo 39
-Creando hilo de estudiante 44...
-El estudiente 42 despierta al trabajo 42
-El estudiente 43 despierta al trabajo 43
-Creando hilo de estudiante 45...
-Creando hilo de estudiante 46...
-Creando hilo de estudiante 47...
-Creando hilo de estudiante 48...
-Creando hilo de estudiante 49...
-Creando hilo de estudiante 50...
-El estudiente 44 despierta al trabajo 44
-El estudiente 45 despierta al trabajo 45
-Creando hilo de estudiante 51...
-Creando hilo de estudiante 52...
-Creando hilo de estudiante 53...
-Creando hilo de estudiante 54...
-Creando hilo de estudiante 55...
-Creando hilo de estudiante 56...
-El estudiente 50 despierta al trabajo 50
-Creando hilo de estudiante 57...
-El estudiente 51 despierta al trabajo 51
-El estudiente 52 despierta al trabajo 52
-El estudiente 53 despierta al trabajo 53
-El estudiente 54 despierta al trabajo 54
-El estudiente 55 despierta al trabajo 55
-El estudiente 56 despierta al trabajo 56
-Creando hilo de estudiante 58...
-Creando hilo de estudiante 59...
-El estudiente 35 despierta al trabajo 35
-El estudiente 38 despierta al trabajo 38
-El estudiente 37 despierta al trabajo 37
-El estudiente 57 despierta al trabajo 57
-El estudiente 58 despierta al trabajo 58
-El estudiente 49 despierta al trabajo 49
-El estudiente 48 despierta al trabajo 48
-El estudiente 47 despierta al trabajo 47
-El estudiente 46 despierta al trabajo 46
-Creando hilo de estudiante 60...
-El estudiente 59 despierta al trabajo 59
-Creando hilo de estudiante 61...
-El estudiente 60 despierta al trabajo 60
-Creando hilo de estudiante 62...
-Creando hilo de estudiante 63...
-Creando hilo de estudiante 64...
-Creando hilo de estudiante 65...
-Creando hilo de estudiante 66...
-Creando hilo de estudiante 67...
-Creando hilo de estudiante 68...
-Creando hilo de estudiante 69...
-Creando hilo de estudiante 70...
-Creando hilo de estudiante 71...
-Creando hilo de estudiante 72...
-Creando hilo de estudiante 73...
-Creando hilo de estudiante 74...
-Creando hilo de estudiante 75...
-Creando hilo de estudiante 76...
-Creando hilo de estudiante 77...
-Creando hilo de estudiante 78...
-Creando hilo de estudiante 79...
-Creando hilo de estudiante 80...
-Creando hilo de estudiante 81...
-Creando hilo de estudiante 82...
-Creando hilo de estudiante 83...
-Creando hilo de estudiante 84...
-Creando hilo de estudiante 85...
-Creando hilo de estudiante 86...
-Creando hilo de estudiante 87...
-Creando hilo de estudiante 88...
-Creando hilo de estudiante 89...
-Creando hilo de estudiante 90...
-Creando hilo de estudiante 91...
-Creando hilo de estudiante 92...
-Creando hilo de estudiante 93...
-Creando hilo de estudiante 94...
-Creando hilo de estudiante 95...
-Creando hilo de estudiante 96...
-Creando hilo de estudiante 97...
-Creando hilo de estudiante 98...
-Creando hilo de estudiante 99...
-Uniendo estudiante 0Uniendo estudiante 1Uniendo estudiante 2Uniendo estudiante 3Uniendo estudiante 4Uniendo estudiante 5Uniendo estudiante 6Uniendo estudiante 7Uniendo estudiante 8Uniendo estudiante 9Uniendo estudiante 10Uniendo estudiante 11Uniendo estudiante 12Uniendo estudiante 13Uniendo estudiante 14Uniendo estudiante 15Uniendo estudiante 16Uniendo estudiante 17Uniendo estudiante 18Uniendo estudiante 19Uniendo estudiante 20Uniendo estudiante 21Uniendo estudiante 22Uniendo estudiante 23Uniendo estudiante 24Uniendo estudiante 25Uniendo estudiante 26Uniendo estudiante 27Uniendo estudiante 28Uniendo estudiante 29Uniendo estudiante 30Uniendo estudiante 31Uniendo estudiante 32Uniendo estudiante 33Uniendo estudiante 34Uniendo estudiante 35Uniendo estudiante 36Uniendo estudiante 37Uniendo estudiante 38Uniendo estudiante 39Uniendo estudiante 40Uniendo estudiante 41Uniendo estudiante 42Uniendo estudiante 43Uniendo estudiante 44Uniendo estudiante 45Uniendo estudiante 46Uniendo estudiante 47Uniendo estudiante 48Uniendo estudiante 49Uniendo estudiante 50Uniendo estudiante 51Uniendo estudiante 52Uniendo estudiante 53Uniendo estudiante 54Uniendo estudiante 55Uniendo estudiante 56Uniendo estudiante 57Uniendo estudiante 58Uniendo estudiante 59Uniendo estudiante 60Uniendo estudiante 61El estudiente 63 despierta al trabajo 63
-El estudiente 62 despierta al trabajo 62
-El estudiente 61 despierta al trabajo 61
-Uniendo estudiante 62El estudiente 67 despierta al trabajo 67
-El estudiente 68 despierta al trabajo 68
-El estudiente 69 despierta al trabajo 69
-El estudiente 70 despierta al trabajo 70
-El estudiente 71 despierta al trabajo 71
-El estudiente 72 despierta al trabajo 72
-El estudiente 73 despierta al trabajo 73
-El estudiente 74 despierta al trabajo 74
-El estudiente 75 despierta al trabajo 75
-El estudiente 76 despierta al trabajo 76
-El estudiente 77 despierta al trabajo 77
-El estudiente 78 despierta al trabajo 78
-El estudiente 79 despierta al trabajo 79
-El estudiente 80 despierta al trabajo 80
-El estudiente 81 despierta al trabajo 81
-El estudiente 82 despierta al trabajo 82
-Uniendo estudiante 63Uniendo estudiante 64El estudiente 83 despierta al trabajo 83
-El estudiente 84 despierta al trabajo 84
-El estudiente 85 despierta al trabajo 85
-El estudiente 86 despierta al trabajo 86
-El estudiente 87 despierta al trabajo 87
-El estudiente 88 despierta al trabajo 88
-El estudiente 89 despierta al trabajo 89
-El estudiente 90 despierta al trabajo 90
-El estudiente 91 despierta al trabajo 91
-El estudiente 92 despierta al trabajo 92
-El estudiente 93 despierta al trabajo 93
-El estudiente 94 despierta al trabajo 94
-El estudiente 95 despierta al trabajo 95
-El estudiente 96 despierta al trabajo 96
-El estudiente 97 despierta al trabajo 97
-El estudiente 98 despierta al trabajo 98
-El estudiente 99 despierta al trabajo 99
-El estudiente 64 despierta al trabajo 64
-El estudiente 65 despierta al trabajo 65
-El estudiente 66 despierta al trabajo 66
-Uniendo estudiante 65Uniendo estudiante 66Uniendo estudiante 67Uniendo estudiante 68Uniendo estudiante 69Uniendo estudiante 70Uniendo estudiante 71Uniendo estudiante 72Uniendo estudiante 73Uniendo estudiante 74Uniendo estudiante 75Uniendo estudiante 76Uniendo estudiante 77Uniendo estudiante 78Uniendo estudiante 79Uniendo estudiante 80Uniendo estudiante 81Uniendo estudiante 82Uniendo estudiante 83Uniendo estudiante 84Uniendo estudiante 85Uniendo estudiante 86Uniendo estudiante 87Uniendo estudiante 88Uniendo estudiante 89Uniendo estudiante 90Uniendo estudiante 91Uniendo estudiante 92Uniendo estudiante 93Uniendo estudiante 94Uniendo estudiante 95Uniendo estudiante 96Uniendo estudiante 97Uniendo estudiante 98Uniendo estudiante 99	Todos los hilos de estudiantes han terminado.
-	Todos los hilos de trabajos han terminado.
-	Destruyendo postulaciones...
-	Todos los hilos de trabajos han terminado.
-Test 3 completado exitosamente! :)
-Iniciando el test 4... con 100 estudiantes y 100 trabajos.
-	Iniciando postulaciones...
-	Creando hilos para las estudiantes...
-	Esperando 5 segundos...
-	Despertando...
-	Creando hilos para los trabajos...
-	Todos los hilos de estudiantes han terminado.
-	Destruyendo postulaciones...
-	Todos los hilos de trabajos han terminado.
-Test 4 completado exitosamente! :)
-Iniciando el test 5... con 100 estudiantes y 100 trabajos.
-	Iniciando postulaciones...
-	Creando hilos para las estudiantes...
-	Esperando 5 segundos
-	Despertando...
-	Creando hilos para los trabajos...
-	Todos los hilos de estudiantes han terminado.
-	Destruyendo postulaciones...
-	Todos los hilos de trabajos han terminado.
-Test 5 completado exitosamente! :)
-
-===============================================
-Prueba con spinlocks verdaderos con busywaiting
-===============================================
-
-Iniciando el test 1... con 100 estudiantes y 100 trabajos.
-	Iniciando postulaciones...
-	Creando hilos para las estudiantes...
-	Esperando 5 segundos...
-	Despertando...
-	Creando hilos para los trabajos...
-Estudiante 69 ha conseguido el trabajo 36.
-Estudiante 18 ha conseguido el trabajo 98.
-El trabajo 99 va a dormir
-Estudiante 12 ha conseguido el trabajo 23.
-Estudiante 80 ha conseguido el trabajo 76.
-Estudiante 64 ha conseguido el trabajo 32.
-Estudiante 91 ha conseguido el trabajo 24.
-Estudiante 98 ha conseguido el trabajo 52.
-Estudiante 37 ha conseguido el trabajo 30.
-Estudiante 1 ha conseguido el trabajo 60.
-Estudiante 25 ha conseguido el trabajo 6.
-Estudiante 76 ha conseguido el trabajo 47.
-Estudiante 84 ha conseguido el trabajo 68.
-Estudiante 93 ha conseguido el trabajo 61.
-Estudiante 50 ha conseguido el trabajo 84.
-Estudiante 96 ha conseguido el trabajo 56.
-Estudiante 85 ha conseguido el trabajo 67.
-Estudiante 24 ha conseguido el trabajo 37.
-Estudiante 26 ha conseguido el trabajo 1.
-Estudiante 92 ha conseguido el trabajo 62.
-Estudiante 49 ha conseguido el trabajo 87.
-Estudiante 7 ha conseguido el trabajo 93.
-Estudiante 53 ha conseguido el trabajo 40.
-Estudiante 79 ha conseguido el trabajo 79.
-Estudiante 52 ha conseguido el trabajo 17.
-Estudiante 94 ha conseguido el trabajo 59.
-Estudiante 8 ha conseguido el trabajo 69.
-Estudiante 73 ha conseguido el trabajo 44.
-Estudiante 39 ha conseguido el trabajo 29.
-Estudiante 82 ha conseguido el trabajo 72.
-Estudiante 57 ha conseguido el trabajo 38.
-Estudiante 0 ha conseguido el trabajo 20.
-Estudiante 22 ha conseguido el trabajo 50.
-Estudiante 29 ha conseguido el trabajo 28.
-Estudiante 46 ha conseguido el trabajo 92.
-Estudiante 78 ha conseguido el trabajo 81.
-Estudiante 2 ha conseguido el trabajo 73.
-Estudiante 41 ha conseguido el trabajo 83.
-Estudiante 30 ha conseguido el trabajo 34.
-Estudiante 47 ha conseguido el trabajo 91.
-Estudiante 16 ha conseguido el trabajo 77.
-Estudiante 95 ha conseguido el trabajo 57.
-Estudiante 90 ha conseguido el trabajo 21.
-Estudiante 62 ha conseguido el trabajo 7.
-Estudiante 11 ha conseguido el trabajo 63.
-Estudiante 55 ha conseguido el trabajo 16.
-Estudiante 34 ha conseguido el trabajo 80.
-Estudiante 9 ha conseguido el trabajo 66.
-Estudiante 31 ha conseguido el trabajo 70.
-Estudiante 44 ha conseguido el trabajo 88.
-Estudiante 28 ha conseguido el trabajo 48.
-Estudiante 6 ha conseguido el trabajo 94.
-Estudiante 77 ha conseguido el trabajo 82.
-Estudiante 63 ha conseguido el trabajo 55.
-Estudiante 23 ha conseguido el trabajo 10.
-Estudiante 3 ha conseguido el trabajo 74.
-Estudiante 21 ha conseguido el trabajo 11.
-Estudiante 10 ha conseguido el trabajo 65.
-Estudiante 51 ha conseguido el trabajo 26.
-Estudiante 75 ha conseguido el trabajo 12.
-Estudiante 61 ha conseguido el trabajo 46.
-Estudiante 17 ha conseguido el trabajo 78.
-Estudiante 27 ha conseguido el trabajo 39.
-Estudiante 56 ha conseguido el trabajo 49.
-Estudiante 38 ha conseguido el trabajo 51.
-Estudiante 5 ha conseguido el trabajo 96.
-Estudiante 45 ha conseguido el trabajo 90.
-Estudiante 81 ha conseguido el trabajo 75.
-Estudiante 14 ha conseguido el trabajo 22.
-Estudiante 40 ha conseguido el trabajo 41.
-Estudiante 33 ha conseguido el trabajo 53.
-Estudiante 67 ha conseguido el trabajo 25.
-Estudiante 68 ha conseguido el trabajo 4.
+Estudiante 0 ha conseguido el trabajo 3.
+Estudiante 91 ha conseguido el trabajo 0.
+Estudiante 33 ha conseguido el trabajo 7.
+Estudiante 92 ha conseguido el trabajo 4.
+Estudiante 95 ha conseguido el trabajo 5.
+Estudiante 66 ha conseguido el trabajo 19.
+Estudiante 67 ha conseguido el trabajo 20.
+Estudiante 64 ha conseguido el trabajo 21.
+Estudiante 58 ha conseguido el trabajo 22.
+Estudiante 57 ha conseguido el trabajo 2.
+Estudiante 55 ha conseguido el trabajo 1.
+Estudiante 54 ha conseguido el trabajo 6.
+Estudiante 52 ha conseguido el trabajo 8.
+Estudiante 14 ha conseguido el trabajo 9.
+Estudiante 12 ha conseguido el trabajo 10.
+Estudiante 11 ha conseguido el trabajo 11.
+Estudiante 9 ha conseguido el trabajo 12.
+Estudiante 90 ha conseguido el trabajo 13.
+Estudiante 89 ha conseguido el trabajo 14.
+Estudiante 88 ha conseguido el trabajo 15.
+Estudiante 6 ha conseguido el trabajo 16.
+Estudiante 76 ha conseguido el trabajo 23.
+Estudiante 2 ha conseguido el trabajo 18.
+Estudiante 86 ha conseguido el trabajo 17.
+Estudiante 97 ha conseguido el trabajo 24.
+Estudiante 98 ha conseguido el trabajo 26.
+Estudiante 96 ha conseguido el trabajo 25.
+Estudiante 93 ha conseguido el trabajo 27.
+Estudiante 94 ha conseguido el trabajo 28.
+Estudiante 7 ha conseguido el trabajo 31.
+Estudiante 18 ha conseguido el trabajo 29.
+Estudiante 35 ha conseguido el trabajo 33.
+Estudiante 41 ha conseguido el trabajo 30.
+Estudiante 37 ha conseguido el trabajo 34.
+Estudiante 10 ha conseguido el trabajo 35.
+Estudiante 32 ha conseguido el trabajo 36.
+Estudiante 79 ha conseguido el trabajo 39.
+Estudiante 20 ha conseguido el trabajo 32.
+Estudiante 26 ha conseguido el trabajo 38.
+Estudiante 30 ha conseguido el trabajo 37.
+Estudiante 31 ha conseguido el trabajo 41.
+Estudiante 83 ha conseguido el trabajo 42.
+Estudiante 81 ha conseguido el trabajo 40.
+Estudiante 85 ha conseguido el trabajo 44.
+Estudiante 61 ha conseguido el trabajo 43.
+Estudiante 56 ha conseguido el trabajo 45.
+Estudiante 22 ha conseguido el trabajo 46.
+Estudiante 29 ha conseguido el trabajo 47.
+Estudiante 23 ha conseguido el trabajo 48.
+Estudiante 46 ha conseguido el trabajo 49.
+Estudiante 24 ha conseguido el trabajo 50.
+Estudiante 1 ha conseguido el trabajo 52.
+Estudiante 78 ha conseguido el trabajo 51.
+Estudiante 38 ha conseguido el trabajo 54.
+Estudiante 17 ha conseguido el trabajo 53.
+Estudiante 72 ha conseguido el trabajo 55.
+Estudiante 34 ha conseguido el trabajo 56.
 Estudiante 60 ha conseguido el trabajo 58.
-Estudiante 15 ha conseguido el trabajo 19.
-Estudiante 36 ha conseguido el trabajo 43.
-Estudiante 54 ha conseguido el trabajo 15.
-Estudiante 72 ha conseguido el trabajo 2.
-Estudiante 83 ha conseguido el trabajo 71.
-Estudiante 13 ha conseguido el trabajo 18.
-Estudiante 71 ha conseguido el trabajo 27.
-Estudiante 43 ha conseguido el trabajo 86.
-Estudiante 89 ha conseguido el trabajo 35.
-Estudiante 66 ha conseguido el trabajo 8.
-Estudiante 19 ha conseguido el trabajo 97.
-Estudiante 35 ha conseguido el trabajo 45.
-Estudiante 58 ha conseguido el trabajo 3.
+Estudiante 43 ha conseguido el trabajo 62.
+Estudiante 36 ha conseguido el trabajo 57.
+Estudiante 40 ha conseguido el trabajo 61.
+Estudiante 15 ha conseguido el trabajo 63.
+Estudiante 42 ha conseguido el trabajo 60.
+Estudiante 39 ha conseguido el trabajo 59.
+Estudiante 80 ha conseguido el trabajo 64.
+Estudiante 74 ha conseguido el trabajo 65.
+Estudiante 49 ha conseguido el trabajo 70.
+Estudiante 69 ha conseguido el trabajo 69.
+Estudiante 16 ha conseguido el trabajo 71.
+Estudiante 50 ha conseguido el trabajo 67.
+Estudiante 75 ha conseguido el trabajo 68.
+Estudiante 45 ha conseguido el trabajo 66.
+Estudiante 62 ha conseguido el trabajo 72.
+Estudiante 71 ha conseguido el trabajo 78.
+Estudiante 77 ha conseguido el trabajo 79.
+Estudiante 8 ha conseguido el trabajo 74.
+Estudiante 87 ha conseguido el trabajo 76.
+Estudiante 68 ha conseguido el trabajo 77.
+Estudiante 70 ha conseguido el trabajo 73.
+Estudiante 13 ha conseguido el trabajo 75.
+Estudiante 53 ha conseguido el trabajo 80.
+Estudiante 19 ha conseguido el trabajo 81.
+Estudiante 21 ha conseguido el trabajo 86.
+Estudiante 27 ha conseguido el trabajo 84.
+Estudiante 28 ha conseguido el trabajo 85.
+Estudiante 25 ha conseguido el trabajo 87.
+Estudiante 84 ha conseguido el trabajo 83.
+Estudiante 82 ha conseguido el trabajo 82.
+Estudiante 73 ha conseguido el trabajo 88.
 Estudiante 48 ha conseguido el trabajo 89.
-Estudiante 70 ha conseguido el trabajo 9.
-Estudiante 4 ha conseguido el trabajo 0.
-Estudiante 88 ha conseguido el trabajo 13.
-Estudiante 65 ha conseguido el trabajo 31.
-Estudiante 59 ha conseguido el trabajo 5.
-Estudiante 86 ha conseguido el trabajo 64.
-Estudiante 20 ha conseguido el trabajo 95.
-Estudiante 32 ha conseguido el trabajo 42.
-Estudiante 97 ha conseguido el trabajo 54.
-Estudiante 74 ha conseguido el trabajo 14.
-Estudiante 42 ha conseguido el trabajo 85.
-Estudiante 87 ha conseguido el trabajo 33.
-El estudiente 99 despierta al trabajo 99
-Estudiante 99 ha conseguido el trabajo 99.
+Estudiante 47 ha conseguido el trabajo 93.
+Estudiante 65 ha conseguido el trabajo 91.
+Estudiante 59 ha conseguido el trabajo 92.
+Estudiante 51 ha conseguido el trabajo 90.
+Estudiante 63 ha conseguido el trabajo 94.
+Estudiante 44 ha conseguido el trabajo 95.
+Estudiante 5 ha conseguido el trabajo 97.
+Estudiante 3 ha conseguido el trabajo 96.
+Estudiante 4 ha conseguido el trabajo 99.
+Estudiante 99 ha conseguido el trabajo 98.
 	Todos los hilos de estudiantes han terminado.
-El trabajo 0 tiene el estudiante 4
-El trabajo 1 tiene el estudiante 26
-El trabajo 2 tiene el estudiante 72
-El trabajo 3 tiene el estudiante 58
-El trabajo 4 tiene el estudiante 68
-El trabajo 5 tiene el estudiante 59
-El trabajo 6 tiene el estudiante 25
-El trabajo 7 tiene el estudiante 62
-El trabajo 8 tiene el estudiante 66
-El trabajo 9 tiene el estudiante 70
-El trabajo 10 tiene el estudiante 23
-El trabajo 11 tiene el estudiante 21
-El trabajo 12 tiene el estudiante 75
-El trabajo 13 tiene el estudiante 88
-El trabajo 14 tiene el estudiante 74
-El trabajo 15 tiene el estudiante 54
-El trabajo 16 tiene el estudiante 55
-El trabajo 17 tiene el estudiante 52
-El trabajo 18 tiene el estudiante 13
-El trabajo 19 tiene el estudiante 15
-El trabajo 20 tiene el estudiante 0
-El trabajo 21 tiene el estudiante 90
-El trabajo 22 tiene el estudiante 14
-El trabajo 23 tiene el estudiante 12
-El trabajo 24 tiene el estudiante 91
-El trabajo 25 tiene el estudiante 67
-El trabajo 26 tiene el estudiante 51
-El trabajo 27 tiene el estudiante 71
-El trabajo 28 tiene el estudiante 29
-El trabajo 29 tiene el estudiante 39
-El trabajo 30 tiene el estudiante 37
-El trabajo 31 tiene el estudiante 65
-El trabajo 32 tiene el estudiante 64
-El trabajo 33 tiene el estudiante 87
-El trabajo 34 tiene el estudiante 30
-El trabajo 35 tiene el estudiante 89
-El trabajo 36 tiene el estudiante 69
-El trabajo 37 tiene el estudiante 24
-El trabajo 38 tiene el estudiante 57
-El trabajo 39 tiene el estudiante 27
-El trabajo 40 tiene el estudiante 53
-El trabajo 41 tiene el estudiante 40
-El trabajo 42 tiene el estudiante 32
-El trabajo 43 tiene el estudiante 36
-El trabajo 44 tiene el estudiante 73
-El trabajo 45 tiene el estudiante 35
-El trabajo 46 tiene el estudiante 61
-El trabajo 47 tiene el estudiante 76
-El trabajo 48 tiene el estudiante 28
-El trabajo 49 tiene el estudiante 56
-El trabajo 50 tiene el estudiante 22
-El trabajo 51 tiene el estudiante 38
-El trabajo 52 tiene el estudiante 98
-El trabajo 53 tiene el estudiante 33
-El trabajo 54 tiene el estudiante 97
-El trabajo 55 tiene el estudiante 63
-El trabajo 56 tiene el estudiante 96
-El trabajo 57 tiene el estudiante 95
+El trabajo 0 tiene el estudiante 91
+El trabajo 1 tiene el estudiante 55
+El trabajo 2 tiene el estudiante 57
+El trabajo 3 tiene el estudiante 0
+El trabajo 4 tiene el estudiante 92
+El trabajo 5 tiene el estudiante 95
+El trabajo 6 tiene el estudiante 54
+El trabajo 7 tiene el estudiante 33
+El trabajo 8 tiene el estudiante 52
+El trabajo 9 tiene el estudiante 14
+El trabajo 10 tiene el estudiante 12
+El trabajo 11 tiene el estudiante 11
+El trabajo 12 tiene el estudiante 9
+El trabajo 13 tiene el estudiante 90
+El trabajo 14 tiene el estudiante 89
+El trabajo 15 tiene el estudiante 88
+El trabajo 16 tiene el estudiante 6
+El trabajo 17 tiene el estudiante 86
+El trabajo 18 tiene el estudiante 2
+El trabajo 19 tiene el estudiante 66
+El trabajo 20 tiene el estudiante 67
+El trabajo 21 tiene el estudiante 64
+El trabajo 22 tiene el estudiante 58
+El trabajo 23 tiene el estudiante 76
+El trabajo 24 tiene el estudiante 97
+El trabajo 25 tiene el estudiante 96
+El trabajo 26 tiene el estudiante 98
+El trabajo 27 tiene el estudiante 93
+El trabajo 28 tiene el estudiante 94
+El trabajo 29 tiene el estudiante 18
+El trabajo 30 tiene el estudiante 41
+El trabajo 31 tiene el estudiante 7
+El trabajo 32 tiene el estudiante 20
+El trabajo 33 tiene el estudiante 35
+El trabajo 34 tiene el estudiante 37
+El trabajo 35 tiene el estudiante 10
+El trabajo 36 tiene el estudiante 32
+El trabajo 37 tiene el estudiante 30
+El trabajo 38 tiene el estudiante 26
+El trabajo 39 tiene el estudiante 79
+El trabajo 40 tiene el estudiante 81
+El trabajo 41 tiene el estudiante 31
+El trabajo 42 tiene el estudiante 83
+El trabajo 43 tiene el estudiante 61
+El trabajo 44 tiene el estudiante 85
+El trabajo 45 tiene el estudiante 56
+El trabajo 46 tiene el estudiante 22
+El trabajo 47 tiene el estudiante 29
+El trabajo 48 tiene el estudiante 23
+El trabajo 49 tiene el estudiante 46
+El trabajo 50 tiene el estudiante 24
+El trabajo 51 tiene el estudiante 78
+El trabajo 52 tiene el estudiante 1
+El trabajo 53 tiene el estudiante 17
+El trabajo 54 tiene el estudiante 38
+El trabajo 55 tiene el estudiante 72
+El trabajo 56 tiene el estudiante 34
+El trabajo 57 tiene el estudiante 36
 El trabajo 58 tiene el estudiante 60
-El trabajo 59 tiene el estudiante 94
-El trabajo 60 tiene el estudiante 1
-El trabajo 61 tiene el estudiante 93
-El trabajo 62 tiene el estudiante 92
-El trabajo 63 tiene el estudiante 11
-El trabajo 64 tiene el estudiante 86
-El trabajo 65 tiene el estudiante 10
-El trabajo 66 tiene el estudiante 9
-El trabajo 67 tiene el estudiante 85
-El trabajo 68 tiene el estudiante 84
-El trabajo 69 tiene el estudiante 8
-El trabajo 70 tiene el estudiante 31
-El trabajo 71 tiene el estudiante 83
-El trabajo 72 tiene el estudiante 82
-El trabajo 73 tiene el estudiante 2
-El trabajo 74 tiene el estudiante 3
-El trabajo 75 tiene el estudiante 81
-El trabajo 76 tiene el estudiante 80
-El trabajo 77 tiene el estudiante 16
-El trabajo 78 tiene el estudiante 17
-El trabajo 79 tiene el estudiante 79
-El trabajo 80 tiene el estudiante 34
-El trabajo 81 tiene el estudiante 78
-El trabajo 82 tiene el estudiante 77
-El trabajo 83 tiene el estudiante 41
-El trabajo 84 tiene el estudiante 50
-El trabajo 85 tiene el estudiante 42
-El trabajo 86 tiene el estudiante 43
-El trabajo 87 tiene el estudiante 49
-El trabajo 88 tiene el estudiante 44
+El trabajo 59 tiene el estudiante 39
+El trabajo 60 tiene el estudiante 42
+El trabajo 61 tiene el estudiante 40
+El trabajo 62 tiene el estudiante 43
+El trabajo 63 tiene el estudiante 15
+El trabajo 64 tiene el estudiante 80
+El trabajo 65 tiene el estudiante 74
+El trabajo 66 tiene el estudiante 45
+El trabajo 67 tiene el estudiante 50
+El trabajo 68 tiene el estudiante 75
+El trabajo 69 tiene el estudiante 69
+El trabajo 70 tiene el estudiante 49
+El trabajo 71 tiene el estudiante 16
+El trabajo 72 tiene el estudiante 62
+El trabajo 73 tiene el estudiante 70
+El trabajo 74 tiene el estudiante 8
+El trabajo 75 tiene el estudiante 13
+El trabajo 76 tiene el estudiante 87
+El trabajo 77 tiene el estudiante 68
+El trabajo 78 tiene el estudiante 71
+El trabajo 79 tiene el estudiante 77
+El trabajo 80 tiene el estudiante 53
+El trabajo 81 tiene el estudiante 19
+El trabajo 82 tiene el estudiante 82
+El trabajo 83 tiene el estudiante 84
+El trabajo 84 tiene el estudiante 27
+El trabajo 85 tiene el estudiante 28
+El trabajo 86 tiene el estudiante 21
+El trabajo 87 tiene el estudiante 25
+El trabajo 88 tiene el estudiante 73
 El trabajo 89 tiene el estudiante 48
-El trabajo 90 tiene el estudiante 45
-El trabajo 91 tiene el estudiante 47
-El trabajo 92 tiene el estudiante 46
-El trabajo 93 tiene el estudiante 7
-El trabajo 94 tiene el estudiante 6
-El trabajo 95 tiene el estudiante 20
-El trabajo 96 tiene el estudiante 5
-El trabajo 97 tiene el estudiante 19
-El trabajo 98 tiene el estudiante 18
-El trabajo 99 tiene el estudiante 99
-	Destruyendo postulaciones...
-	Todos los hilos han terminado.
-Test 1 completado exitosamente.
-Iniciando el test 2... con 100 estudiantes y 100 trabajos.
-	Iniciando postulaciones...
-	Creando hilos para las estudiantes...
-	Esperando 5 segundos...
-	Despertando...
-	Creando hilos para los trabajos...
-	Todos los hilos de estudiantes han terminado.
-	Destruyendo postulaciones...
-	Todos los hilos han terminado.
-Test 2 completado exitosamente.
-Iniciando el test 3... con 100 estudiantes y 100 trabajos.
-	Iniciando postulaciones...
-	Creando hilos para los trabajos...
-El trabajo 1 va a dormir
-	Esperando 5 segundos...
-El trabajo 2 va a dormir
-El trabajo 10 va a dormir
-El trabajo 11 va a dormir
-El trabajo 3 va a dormir
-El trabajo 12 va a dormir
-El trabajo 13 va a dormir
-El trabajo 4 va a dormir
-El trabajo 5 va a dormir
-El trabajo 14 va a dormir
-El trabajo 15 va a dormir
-El trabajo 6 va a dormir
-El trabajo 16 va a dormir
-El trabajo 7 va a dormir
-El trabajo 17 va a dormir
-El trabajo 53 va a dormir
-El trabajo 18 va a dormir
-El trabajo 19 va a dormir
-El trabajo 54 va a dormir
-El trabajo 20 va a dormir
-El trabajo 21 va a dormir
-El trabajo 56 va a dormir
-El trabajo 22 va a dormir
-El trabajo 57 va a dormir
-El trabajo 23 va a dormir
-El trabajo 58 va a dormir
-El trabajo 24 va a dormir
-El trabajo 59 va a dormir
-El trabajo 25 va a dormir
-El trabajo 60 va a dormir
-El trabajo 26 va a dormir
-El trabajo 27 va a dormir
-El trabajo 61 va a dormir
-El trabajo 28 va a dormir
-El trabajo 62 va a dormir
-El trabajo 29 va a dormir
-El trabajo 30 va a dormir
-El trabajo 63 va a dormir
-El trabajo 31 va a dormir
-El trabajo 64 va a dormir
-El trabajo 32 va a dormir
-El trabajo 65 va a dormir
-El trabajo 33 va a dormir
-El trabajo 66 va a dormir
-El trabajo 34 va a dormir
-El trabajo 67 va a dormir
-El trabajo 35 va a dormir
-El trabajo 68 va a dormir
-El trabajo 69 va a dormir
-El trabajo 36 va a dormir
-El trabajo 37 va a dormir
-El trabajo 70 va a dormir
-El trabajo 38 va a dormir
-El trabajo 71 va a dormir
-El trabajo 39 va a dormir
-El trabajo 72 va a dormir
-El trabajo 40 va a dormir
-El trabajo 73 va a dormir
-El trabajo 41 va a dormir
-El trabajo 74 va a dormir
-El trabajo 42 va a dormir
-El trabajo 75 va a dormir
-El trabajo 55 va a dormir
-El trabajo 76 va a dormir
-El trabajo 52 va a dormir
-El trabajo 77 va a dormir
-El trabajo 51 va a dormir
-El trabajo 78 va a dormir
-El trabajo 50 va a dormir
-El trabajo 79 va a dormir
-El trabajo 80 va a dormir
-El trabajo 49 va a dormir
-El trabajo 48 va a dormir
-El trabajo 81 va a dormir
-El trabajo 82 va a dormir
-El trabajo 47 va a dormir
-El trabajo 46 va a dormir
-El trabajo 83 va a dormir
-El trabajo 45 va a dormir
-El trabajo 84 va a dormir
-El trabajo 44 va a dormir
-El trabajo 85 va a dormir
-El trabajo 43 va a dormir
-El trabajo 86 va a dormir
-El trabajo 8 va a dormir
-El trabajo 87 va a dormir
-El trabajo 88 va a dormir
-El trabajo 89 va a dormir
-El trabajo 90 va a dormir
-El trabajo 91 va a dormir
-El trabajo 9 va a dormir
-El trabajo 92 va a dormir
-El trabajo 93 va a dormir
-El trabajo 94 va a dormir
-El trabajo 95 va a dormir
-El trabajo 96 va a dormir
-El trabajo 0 va a dormir
-El trabajo 97 va a dormir
-El trabajo 98 va a dormir
-El trabajo 99 va a dormir
-	Despertando...
-	Creando hilos para las estudiantes...
-Creando hilo de estudiante 0...
-Creando hilo de estudiante 1...
-Creando hilo de estudiante 2...
-Creando hilo de estudiante 3...
-Creando hilo de estudiante 4...
-Creando hilo de estudiante 5...
-Creando hilo de estudiante 6...
-Creando hilo de estudiante 7...
-Creando hilo de estudiante 8...
-Creando hilo de estudiante 9...
-Creando hilo de estudiante 10...
-Creando hilo de estudiante 11...
-Creando hilo de estudiante 12...
-Creando hilo de estudiante 13...
-Creando hilo de estudiante 14...
-Creando hilo de estudiante 15...
-Creando hilo de estudiante 16...
-Creando hilo de estudiante 17...
-Creando hilo de estudiante 18...
-Creando hilo de estudiante 19...
-Creando hilo de estudiante 20...
-Creando hilo de estudiante 21...
-Creando hilo de estudiante 22...
-Creando hilo de estudiante 23...
-Creando hilo de estudiante 24...
-Creando hilo de estudiante 25...
-Creando hilo de estudiante 26...
-Creando hilo de estudiante 27...
-Creando hilo de estudiante 28...
-Creando hilo de estudiante 29...
-Creando hilo de estudiante 30...
-Creando hilo de estudiante 31...
-Creando hilo de estudiante 32...
-Creando hilo de estudiante 33...
-Creando hilo de estudiante 34...
-Creando hilo de estudiante 35...
-Creando hilo de estudiante 36...
-Creando hilo de estudiante 37...
-Creando hilo de estudiante 38...
-Creando hilo de estudiante 39...
-Creando hilo de estudiante 40...
-Creando hilo de estudiante 41...
-Creando hilo de estudiante 42...
-Creando hilo de estudiante 43...
-Creando hilo de estudiante 44...
-Creando hilo de estudiante 45...
-Creando hilo de estudiante 46...
-Creando hilo de estudiante 47...
-Creando hilo de estudiante 48...
-Creando hilo de estudiante 49...
-Creando hilo de estudiante 50...
-Creando hilo de estudiante 51...
-Creando hilo de estudiante 52...
-Creando hilo de estudiante 53...
-Creando hilo de estudiante 54...
-Creando hilo de estudiante 55...
-Creando hilo de estudiante 56...
-Creando hilo de estudiante 57...
-Creando hilo de estudiante 58...
-Creando hilo de estudiante 59...
-Creando hilo de estudiante 60...
-Creando hilo de estudiante 61...
-Creando hilo de estudiante 62...
-Creando hilo de estudiante 63...
-Creando hilo de estudiante 64...
-Creando hilo de estudiante 65...
-Creando hilo de estudiante 66...
-Creando hilo de estudiante 67...
-Creando hilo de estudiante 68...
-Creando hilo de estudiante 69...
-Creando hilo de estudiante 70...
-Creando hilo de estudiante 71...
-Creando hilo de estudiante 72...
-Creando hilo de estudiante 73...
-Creando hilo de estudiante 74...
-Creando hilo de estudiante 75...
-Creando hilo de estudiante 76...
-Creando hilo de estudiante 77...
-Creando hilo de estudiante 78...
-Creando hilo de estudiante 79...
-Creando hilo de estudiante 80...
-Creando hilo de estudiante 81...
-Creando hilo de estudiante 82...
-Creando hilo de estudiante 83...
-Creando hilo de estudiante 84...
-Creando hilo de estudiante 85...
-Creando hilo de estudiante 86...
-Creando hilo de estudiante 87...
-Creando hilo de estudiante 88...
-Creando hilo de estudiante 89...
-Creando hilo de estudiante 90...
-Creando hilo de estudiante 91...
-Creando hilo de estudiante 92...
-Creando hilo de estudiante 93...
-Creando hilo de estudiante 94...
-Creando hilo de estudiante 95...
-Creando hilo de estudiante 96...
-Creando hilo de estudiante 97...
-Creando hilo de estudiante 98...
-Creando hilo de estudiante 99...
-Uniendo estudiante 0El estudiente 0 despierta al trabajo 0
-El estudiente 1 despierta al trabajo 1
-El estudiente 2 despierta al trabajo 2
-El estudiente 4 despierta al trabajo 4
-El estudiente 5 despierta al trabajo 5
-El estudiente 6 despierta al trabajo 6
-El estudiente 7 despierta al trabajo 7
-El estudiente 8 despierta al trabajo 8
-El estudiente 9 despierta al trabajo 9
-El estudiente 10 despierta al trabajo 10
-El estudiente 11 despierta al trabajo 11
-El estudiente 12 despierta al trabajo 12
-El estudiente 13 despierta al trabajo 13
-El estudiente 26 despierta al trabajo 26
-El estudiente 25 despierta al trabajo 25
-El estudiente 27 despierta al trabajo 27
-El estudiente 24 despierta al trabajo 24
-El estudiente 28 despierta al trabajo 28
-El estudiente 23 despierta al trabajo 23
-El estudiente 29 despierta al trabajo 29
-El estudiente 22 despierta al trabajo 22
-El estudiente 30 despierta al trabajo 30
-El estudiente 21 despierta al trabajo 21
-El estudiente 31 despierta al trabajo 31
-El estudiente 20 despierta al trabajo 20
-El estudiente 32 despierta al trabajo 32
-El estudiente 19 despierta al trabajo 19
-El estudiente 33 despierta al trabajo 33
-El estudiente 18 despierta al trabajo 18
-El estudiente 34 despierta al trabajo 34
-El estudiente 17 despierta al trabajo 17
-El estudiente 46 despierta al trabajo 46
-El estudiente 16 despierta al trabajo 16
-El estudiente 47 despierta al trabajo 47
-El estudiente 15 despierta al trabajo 15
-El estudiente 48 despierta al trabajo 48
-El estudiente 14 despierta al trabajo 14
-El estudiente 49 despierta al trabajo 49
-El estudiente 45 despierta al trabajo 45
-El estudiente 50 despierta al trabajo 50
-El estudiente 44 despierta al trabajo 44
-El estudiente 51 despierta al trabajo 51
-El estudiente 43 despierta al trabajo 43
-El estudiente 52 despierta al trabajo 52
-El estudiente 42 despierta al trabajo 42
-El estudiente 53 despierta al trabajo 53
-El estudiente 41 despierta al trabajo 41
-El estudiente 54 despierta al trabajo 54
-El estudiente 40 despierta al trabajo 40
-El estudiente 55 despierta al trabajo 55
-El estudiente 39 despierta al trabajo 39
-El estudiente 56 despierta al trabajo 56
-El estudiente 38 despierta al trabajo 38
-El estudiente 57 despierta al trabajo 57
-El estudiente 37 despierta al trabajo 37
-El estudiente 58 despierta al trabajo 58
-El estudiente 36 despierta al trabajo 36
-El estudiente 59 despierta al trabajo 59
-El estudiente 35 despierta al trabajo 35
-El estudiente 60 despierta al trabajo 60
-El estudiente 83 despierta al trabajo 83
-El estudiente 61 despierta al trabajo 61
-El estudiente 82 despierta al trabajo 82
-El estudiente 62 despierta al trabajo 62
-El estudiente 81 despierta al trabajo 81
-El estudiente 63 despierta al trabajo 63
-El estudiente 80 despierta al trabajo 80
-El estudiente 64 despierta al trabajo 64
-El estudiente 79 despierta al trabajo 79
-El estudiente 65 despierta al trabajo 65
-El estudiente 78 despierta al trabajo 78
-El estudiente 66 despierta al trabajo 66
-El estudiente 77 despierta al trabajo 77
-El estudiente 76 despierta al trabajo 76
-El estudiente 84 despierta al trabajo 84
-El estudiente 75 despierta al trabajo 75
-El estudiente 85 despierta al trabajo 85
-El estudiente 86 despierta al trabajo 86
-El estudiente 74 despierta al trabajo 74
-El estudiente 73 despierta al trabajo 73
-El estudiente 87 despierta al trabajo 87
-El estudiente 88 despierta al trabajo 88
-El estudiente 72 despierta al trabajo 72
-El estudiente 71 despierta al trabajo 71
-El estudiente 89 despierta al trabajo 89
-El estudiente 70 despierta al trabajo 70
-El estudiente 90 despierta al trabajo 90
-El estudiente 91 despierta al trabajo 91
-El estudiente 69 despierta al trabajo 69
-El estudiente 68 despierta al trabajo 68
-El estudiente 92 despierta al trabajo 92
-El estudiente 93 despierta al trabajo 93
-El estudiente 67 despierta al trabajo 67
-El estudiente 94 despierta al trabajo 94
-El estudiente 99 despierta al trabajo 99
-El estudiente 95 despierta al trabajo 95
-El estudiente 96 despierta al trabajo 96
-El estudiente 97 despierta al trabajo 97
-El estudiente 98 despierta al trabajo 98
-El estudiente 3 despierta al trabajo 3
-Uniendo estudiante 1Uniendo estudiante 2Uniendo estudiante 3Uniendo estudiante 4Uniendo estudiante 5Uniendo estudiante 6Uniendo estudiante 7Uniendo estudiante 8Uniendo estudiante 9Uniendo estudiante 10Uniendo estudiante 11Uniendo estudiante 12Uniendo estudiante 13Uniendo estudiante 14Uniendo estudiante 15Uniendo estudiante 16Uniendo estudiante 17Uniendo estudiante 18Uniendo estudiante 19Uniendo estudiante 20Uniendo estudiante 21Uniendo estudiante 22Uniendo estudiante 23Uniendo estudiante 24Uniendo estudiante 25Uniendo estudiante 26Uniendo estudiante 27Uniendo estudiante 28Uniendo estudiante 29Uniendo estudiante 30Uniendo estudiante 31Uniendo estudiante 32Uniendo estudiante 33Uniendo estudiante 34Uniendo estudiante 35Uniendo estudiante 36Uniendo estudiante 37Uniendo estudiante 38Uniendo estudiante 39Uniendo estudiante 40Uniendo estudiante 41Uniendo estudiante 42Uniendo estudiante 43Uniendo estudiante 44Uniendo estudiante 45Uniendo estudiante 46Uniendo estudiante 47Uniendo estudiante 48Uniendo estudiante 49Uniendo estudiante 50Uniendo estudiante 51Uniendo estudiante 52Uniendo estudiante 53Uniendo estudiante 54Uniendo estudiante 55Uniendo estudiante 56Uniendo estudiante 57Uniendo estudiante 58Uniendo estudiante 59Uniendo estudiante 60Uniendo estudiante 61Uniendo estudiante 62Uniendo estudiante 63Uniendo estudiante 64Uniendo estudiante 65Uniendo estudiante 66Uniendo estudiante 67Uniendo estudiante 68Uniendo estudiante 69Uniendo estudiante 70Uniendo estudiante 71Uniendo estudiante 72Uniendo estudiante 73Uniendo estudiante 74Uniendo estudiante 75Uniendo estudiante 76Uniendo estudiante 77Uniendo estudiante 78Uniendo estudiante 79Uniendo estudiante 80Uniendo estudiante 81Uniendo estudiante 82Uniendo estudiante 83Uniendo estudiante 84Uniendo estudiante 85Uniendo estudiante 86Uniendo estudiante 87Uniendo estudiante 88Uniendo estudiante 89Uniendo estudiante 90Uniendo estudiante 91Uniendo estudiante 92Uniendo estudiante 93Uniendo estudiante 94Uniendo estudiante 95Uniendo estudiante 96Uniendo estudiante 97Uniendo estudiante 98Uniendo estudiante 99	Todos los hilos de estudiantes han terminado.
-	Todos los hilos de trabajos han terminado.
-	Destruyendo postulaciones...
-	Todos los hilos de trabajos han terminado.
-Test 3 completado exitosamente! :)
-Iniciando el test 4... con 100 estudiantes y 100 trabajos.
-	Iniciando postulaciones...
-	Creando hilos para las estudiantes...
-	Esperando 5 segundos...
-	Despertando...
-	Creando hilos para los trabajos...
-	Todos los hilos de estudiantes han terminado.
-	Destruyendo postulaciones...
-	Todos los hilos de trabajos han terminado.
-Test 4 completado exitosamente! :)
-Iniciando el test 5... con 100 estudiantes y 100 trabajos.
-	Iniciando postulaciones...
-	Creando hilos para las estudiantes...
-	Esperando 5 segundos
-	Despertando...
-	Creando hilos para los trabajos...
-	Todos los hilos de estudiantes han terminado.
-	Destruyendo postulaciones...
-	Todos los hilos de trabajos han terminado.
-Test 5 completado exitosamente! :)
-Todos los tests han finalizado. Felicidades!
+El trabajo 90 tiene el estudiante 51
+El trabajo 91 tiene el estudiante 65
+El trabajo 92 tiene el estudiante 59
+El trabajo 93 tiene el estudiante 47
+El trabajo 94 tiene el estudiante 63
+El trabajo 95 tiene el estudiante 44
+El trabajo 96 tiene el estudiante 3
+El trabajo 97 tiene el estudia
