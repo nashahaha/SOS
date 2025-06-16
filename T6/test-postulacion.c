@@ -333,6 +333,7 @@ static int test3(){
     }
 
     for (int i = 0; i < NUM_ESTUDIANTES; i++) {
+        //printf("Join estudiente %d\n", i);
         pthread_join(threads_estudiantes[i], NULL);
     }
     printf("\tTodos los hilos de estudiantes han terminado.\n");
