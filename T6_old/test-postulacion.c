@@ -71,8 +71,9 @@ static void *estudiante_thread_test1(void *arg) {
     }
     postularTrabajo(estudiante, trabajos_de_interes, ranking);
     postularTrabajoThreadFinalizado[estudiante->id] = 1; // Marcar que el estudiante ha postulado
+    printf("Estudiante %d ha conseguido el trabajo %d.\n", estudiante->id, estudiante->trabajo_id);
     free(estudiante); // Liberar la memoria del estudiante
-    //printf("Estudiante %d ha conseguido el trabajo %d.\n", estudiante->id, estudiante->trabajo_id);
+    
     return NULL;
 }
 
@@ -212,12 +213,13 @@ static int test1(){
     for (int i = 0; i < NUM_TRABAJOS; i++) {
         trabajos_index[i] = i;
         pthread_create(&threads_trabajos[i], NULL, trabajo_thread_test1, (void *)&trabajos_index[i]);
+        //printf("Creando hilo de trabajos %d...\n", i);
     }
 
     for (int i = 0; i < NUM_ESTUDIANTES-1; i++) {
         pthread_join(threads_estudiantes[i], NULL);
     }
-    
+
     int hay_trabajos_pendientes = 0;
     for (int i = 0; i < NUM_TRABAJOS; i++) {
         if (postulacionTrabajos[i] == -1) {
@@ -226,13 +228,17 @@ static int test1(){
     }
     if (hay_trabajos_pendientes != 1) 
         fatalError("test1", "Error: Debía quedar solamente un trabajo no asignado, pero hay %d trabajos no asignados.\n", hay_trabajos_pendientes);
-
+    
     Estudiante *ultimo = malloc(sizeof(Estudiante));
     ultimo->id = NUM_ESTUDIANTES - 1;
     ultimo->trabajo_id = -1; // Inicialmente no tiene trabajo
+
     pthread_create(&threads_estudiantes[NUM_ESTUDIANTES - 1], NULL, &estudiante_thread_test1, (void *)ultimo);
-    pthread_join(threads_estudiantes[NUM_ESTUDIANTES - 1], NULL);
+    pthread_join(threads_estudiantes[NUM_ESTUDIANTES - 1], NULL); // <-- ESTE JOIN
+    
     printf("\tTodos los hilos de estudiantes han terminado.\n");
+    for (int i = 0; i < NUM_TRABAJOS; i++) 
+        printf("El trabajo %d tiene el estudiante %d\n", i, postulacionTrabajos[i]);
     for (int i = 0; i < NUM_TRABAJOS; i++) {
         if (postulacionTrabajos[i] == -1) {
             fatalError("test1", "Error: Trabajo %d no debería haber quedado pendiente después de que los estudiantes postulen.\n", i);
@@ -325,7 +331,7 @@ static int test3(){
         Estudiante *pestudiante = malloc(sizeof(Estudiante));
         pestudiante->id = i;
         pestudiante->trabajo_id = -1;
-        //printf("Creando hilo de estudiante %d...\n", i);
+        printf("Creando hilo de estudiante %d...\n", i);
         if (pthread_create(&threads_estudiantes[i], NULL, estudiante_thread_test3, pestudiante) != 0) {
             perror("Error al crear el hilo de estudiante");
             exit(EXIT_FAILURE);
