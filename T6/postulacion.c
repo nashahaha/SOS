@@ -10,11 +10,12 @@
 typedef struct {
   Estudiante *est;
   double *ranking;
+  int* lk;
 } Postulacion;
 
 PriQueue *priQueue[N];
 int postulacionTrabajos[N]; // id de los estudiantes que hayan conseguido el trabajo
-int* q_est[N]; // arreglo de estudiantes , marca si están en espera
+//int* q_est[N]; // arreglo de estudiantes , marca si están en espera
 int* q_tra[N];
 int mutex = OPEN;
 
@@ -24,7 +25,6 @@ void iniciarPostulaciones(){
     postulacionTrabajos[i] = -1;
     int lk= OPEN;
     q_tra[i] = &lk; 
-    q_est[i] = &lk; //R
   }
 }
 
@@ -52,11 +52,14 @@ void postularTrabajo(Estudiante *est, int *preferencias, double *rank) {
   }
 
   int lk = CLOSED;
-  q_est[est->id] = &lk;
+  postulacion.lk = &lk;
+
   if(est->trabajo_id == -1) {
     spinUnlock(&mutex);
     spinLock(&lk);
   }
+
+  spinUnlock(&lk);
 }
 
 
@@ -69,6 +72,7 @@ int cerrarPostulacion(int i) { // aquí i se refiere al numero del trabajo
     q_tra[i] = &lk;
     spinUnlock(&mutex);
     spinLock(&lk);
+    spinLock(&mutex);
   }
 
   Postulacion *ppostulacion = priGet(priQueue[i]); //sacar el primer elemento de la cola de prioridad 
@@ -79,7 +83,7 @@ int cerrarPostulacion(int i) { // aquí i se refiere al numero del trabajo
     for(int j = 0; j < N; j++){ // se elimina la postulación de todas las colas de prioridad
       priDel(priQueue[j], ppostulacion);
     }
-    spinUnlock(q_est[ppostulacion->est->id]); // despierta al estudiente
+    spinUnlock(ppostulacion->lk); // despierta al estudiente
   }
 
 
