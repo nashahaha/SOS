@@ -8,14 +8,13 @@
 #include "spinlocks.h"
 
 typedef struct {
-  Estudiante *est;
-  double *ranking;
-  int* lk;
+    Estudiante *est;
+    double *ranking;
 } Postulacion;
 
 PriQueue *priQueue[N];
 int postulacionTrabajos[N]; // id de los estudiantes que hayan conseguido el trabajo
-//int* q_est[N]; // arreglo de estudiantes , marca si están en espera
+int* q_est[N]; // arreglo de estudiantes , marca si están en espera
 int* q_tra[N];
 int mutex = OPEN;
 
@@ -25,6 +24,7 @@ void iniciarPostulaciones(){
     postulacionTrabajos[i] = -1;
     int lk= OPEN;
     q_tra[i] = &lk; 
+    q_est[i] = &lk; //R
   }
 }
 
@@ -42,29 +42,28 @@ void postularTrabajo(Estudiante *est, int *preferencias, double *rank) {
   Postulacion postulacion = {est, rank};
 
   for (int i = 0; i < N; i++) {
-    if (postulacionTrabajos[i]==-1 && preferencias[i]){ // si aún no hay nadie electo para el trabajo y está dentro de sus preferencias
-      priPut(priQueue[i], &postulacion, rank[i]);     // se agrega a la cola de prioridad correspondiente
+      if (postulacionTrabajos[i]==-1 && preferencias[i]){ // si aún no hay nadie electo para el trabajo y está dentro de sus preferencias
+          priPut(priQueue[i], &postulacion, rank[i]);     // se agrega a la cola de prioridad correspondiente
 
-      if(*q_tra[i]==CLOSED){ // despierto al trabajo si está dormido
-        spinUnlock(q_tra[i]);
+          if(*q_tra[i]==CLOSED){ // despierto al trabajo si está dormido
+            spinUnlock(q_tra[i]);
+          }
       }
-    }
   }
 
   int lk = CLOSED;
-  postulacion.lk = &lk;
-
+  q_est[est->id] = &lk;
   if(est->trabajo_id == -1) {
     spinUnlock(&mutex);
     spinLock(&lk);
-  }
+  }else
+    spinUnlock(&mutex);
 
-  spinUnlock(&lk);
 }
 
 
 
-int cerrarPostulacion(int i) { // aquí i se refiere al numero del trabajo
+int cerrarPostulacion(int i) { // aquí i se refiere al numero del trabajo, no al id del estudiante
   spinLock(&mutex);
 
   if(postulacionTrabajos[i]!=-1 || emptyPriQueue(priQueue[i])){ // Si no puede asignar a nadie se va a espera
@@ -72,9 +71,8 @@ int cerrarPostulacion(int i) { // aquí i se refiere al numero del trabajo
     q_tra[i] = &lk;
     spinUnlock(&mutex);
     spinLock(&lk);
-    spinLock(&mutex);
   }
-
+  
   Postulacion *ppostulacion = priGet(priQueue[i]); //sacar el primer elemento de la cola de prioridad 
       
   if (ppostulacion->est->trabajo_id == -1) { // si el estudiante aún no tiene trabajo
@@ -83,10 +81,10 @@ int cerrarPostulacion(int i) { // aquí i se refiere al numero del trabajo
     for(int j = 0; j < N; j++){ // se elimina la postulación de todas las colas de prioridad
       priDel(priQueue[j], ppostulacion);
     }
-    spinUnlock(ppostulacion->lk); // despierta al estudiente
+    spinUnlock(q_est[ppostulacion->est->id]); // despierta al estudiente
   }
-
-
+  
+  
 
   int res = postulacionTrabajos[i];
   spinUnlock(&mutex);
