@@ -1,0 +1,1 @@
+cmd_/home/pss/Escritorio/SOS/T7_prueba/Module.symvers :=  sed 's/ko$$/o/'  /home/pss/Escritorio/SOS/T7_prueba/modules.order | scripts/mod/modpost -m      -o /home/pss/Escritorio/SOS/T7_prueba/Module.symvers -e -i Module.symvers -T - 

@@ -1,0 +1,1 @@
+cmd_/home/pss/Escritorio/SOS/T7_prueba/prodcons.o := ld -m elf_x86_64 -z noexecstack --no-warn-rwx-segments   -r -o /home/pss/Escritorio/SOS/T7_prueba/prodcons.o @/home/pss/Escritorio/SOS/T7_prueba/prodcons.mod 
